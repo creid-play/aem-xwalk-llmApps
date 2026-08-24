@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/joint-pain-and-swelling",
+  "path": "joint-pain-and-swelling",
+  "timestamp": "2026-08-24T04:48:20.698Z",
+  "title": "Joint pain and swelling - symptoms, causes and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

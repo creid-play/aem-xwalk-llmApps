@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/constipation-in-children",
+  "path": "constipation-in-children",
+  "timestamp": "2026-08-24T04:42:28.016Z",
+  "title": "Constipation in children | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

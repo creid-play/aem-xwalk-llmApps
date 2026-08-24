@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/summer-skin-rashes",
+  "path": "summer-skin-rashes",
+  "timestamp": "2026-08-24T04:52:22.096Z",
+  "title": "Summer skin rashes - heat rash, hives and treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

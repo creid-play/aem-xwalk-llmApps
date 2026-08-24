@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/swollen-gums",
+  "path": "swollen-gums",
+  "timestamp": "2026-08-24T04:52:29.824Z",
+  "title": "Swollen gums — red, inflamed | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

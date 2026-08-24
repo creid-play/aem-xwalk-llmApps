@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/bleeding-gums-and-dental-bleeding",
+  "path": "bleeding-gums-and-dental-bleeding",
+  "timestamp": "2026-08-24T04:40:15.922Z",
+  "title": "Bleeding gums and dental bleeding | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

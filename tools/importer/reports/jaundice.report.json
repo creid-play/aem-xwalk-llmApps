@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/jaundice",
+  "path": "jaundice",
+  "timestamp": "2026-08-24T04:48:14.526Z",
+  "title": "Jaundice in adults | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "embed",
+    "embed",
+    "tabs"
+  ]
+}

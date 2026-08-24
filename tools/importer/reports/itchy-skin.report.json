@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/itchy-skin",
+  "path": "itchy-skin",
+  "timestamp": "2026-08-24T04:48:04.552Z",
+  "title": "Itchy skin - treatments, causes and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

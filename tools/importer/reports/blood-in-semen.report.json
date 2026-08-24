@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/blood-in-semen",
+  "path": "blood-in-semen",
+  "timestamp": "2026-08-24T04:40:38.204Z",
+  "title": "Blood in semen (haematospermia): causes and treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

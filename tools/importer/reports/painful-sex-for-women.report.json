@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/painful-sex-for-women",
+  "path": "painful-sex-for-women",
+  "timestamp": "2026-08-24T04:50:46.312Z",
+  "title": "Painful sex for women | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

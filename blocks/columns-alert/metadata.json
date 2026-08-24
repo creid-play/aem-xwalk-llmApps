@@ -1,0 +1,38 @@
+{
+  "variantName": "columns-alert",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-08-24T04:03:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.healthdirect.gov.au/chest-pain",
+    "originPage": "Healthdirect symptom page (chest-pain)",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "accent",
+    "density": "compact",
+    "purpose": "emergency-alert-callout",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "warning-icon + bold emphasized sentence",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "emergency/triple-zero alert callouts on symptom pages",
+      "high-priority warning boxes with an icon and short emphasized text"
+    ],
+    "notSuitableFor": [
+      "general side-by-side content columns",
+      "neutral standout boxes (use columns-keyfacts)",
+      "clickable tool promo tiles (use columns-promo)"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/chest-pain"],
+    "reuseCount": 1,
+    "lastUsed": "2026-08-24T04:03:00.000Z"
+  }
+}

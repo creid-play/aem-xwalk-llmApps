@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/changes-to-your-appetite",
+  "path": "changes-to-your-appetite",
+  "timestamp": "2026-08-24T04:41:34.372Z",
+  "title": "Changes to your appetite | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

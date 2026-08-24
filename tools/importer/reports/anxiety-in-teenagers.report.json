@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/anxiety-in-teenagers",
+  "path": "anxiety-in-teenagers",
+  "timestamp": "2026-08-24T04:39:43.242Z",
+  "title": "Anxiety in teenagers - symptoms, treatment and support | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "tabs"
+  ]
+}

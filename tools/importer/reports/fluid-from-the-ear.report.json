@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/fluid-from-the-ear",
+  "path": "fluid-from-the-ear",
+  "timestamp": "2026-08-24T04:45:13.723Z",
+  "title": "Fluid from the ear - causes and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

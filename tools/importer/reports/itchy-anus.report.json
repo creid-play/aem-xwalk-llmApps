@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/itchy-anus",
+  "path": "itchy-anus",
+  "timestamp": "2026-08-24T04:47:49.805Z",
+  "title": "Itchy anus (pruritus ani) | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/choking",
+  "path": "choking",
+  "timestamp": "2026-08-24T04:41:48.245Z",
+  "title": "Choking | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

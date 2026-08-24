@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/bloating",
+  "path": "bloating",
+  "timestamp": "2026-08-24T04:40:23.869Z",
+  "title": "Bloating - causes, treatment and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

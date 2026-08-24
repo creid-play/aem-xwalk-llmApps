@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/dealing-with-morning-sickness",
+  "path": "dealing-with-morning-sickness",
+  "timestamp": "2026-08-24T04:42:43.464Z",
+  "title": "Morning sickness | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

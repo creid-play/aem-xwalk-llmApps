@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/chronic-wounds",
+  "path": "chronic-wounds",
+  "timestamp": "2026-08-24T04:41:55.457Z",
+  "title": "Chronic wounds— causes, symptoms and treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/vaginal-dryness",
+  "path": "vaginal-dryness",
+  "timestamp": "2026-08-24T04:53:37.291Z",
+  "title": "Vaginal dryness – treatment and symptoms | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

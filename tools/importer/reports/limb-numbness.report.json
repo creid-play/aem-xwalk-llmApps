@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/limb-numbness",
+  "path": "limb-numbness",
+  "timestamp": "2026-08-24T04:49:20.981Z",
+  "title": "Limb numbness - causes, treatment and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

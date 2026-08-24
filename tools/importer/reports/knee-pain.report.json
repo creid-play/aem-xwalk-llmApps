@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/knee-pain",
+  "path": "knee-pain",
+  "timestamp": "2026-08-24T04:48:33.792Z",
+  "title": "Knee pain | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

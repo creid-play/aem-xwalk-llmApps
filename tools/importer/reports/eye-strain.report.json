@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/eye-strain",
+  "path": "eye-strain",
+  "timestamp": "2026-08-24T04:44:06.054Z",
+  "title": "Eye strain | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "tabs"
+  ]
+}

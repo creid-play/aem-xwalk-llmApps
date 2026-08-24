@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/indigestion",
+  "path": "indigestion",
+  "timestamp": "2026-08-24T04:47:26.807Z",
+  "title": "Indigestion (dyspepsia) - treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

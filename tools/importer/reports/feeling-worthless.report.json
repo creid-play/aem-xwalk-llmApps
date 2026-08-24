@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/feeling-worthless",
+  "path": "feeling-worthless",
+  "timestamp": "2026-08-24T04:44:59.140Z",
+  "title": "Feeling worthless - self-help and other resources | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

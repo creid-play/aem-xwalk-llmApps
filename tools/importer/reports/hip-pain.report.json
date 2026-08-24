@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/hip-pain",
+  "path": "hip-pain",
+  "timestamp": "2026-08-24T04:47:10.169Z",
+  "title": "Hip pain | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

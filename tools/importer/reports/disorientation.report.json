@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/disorientation",
+  "path": "disorientation",
+  "timestamp": "2026-08-24T04:43:13.039Z",
+  "title": "Disorientation - symptoms, treatments and causes | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "tabs"
+  ]
+}

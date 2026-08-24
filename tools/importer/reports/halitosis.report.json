@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/halitosis",
+  "path": "halitosis",
+  "timestamp": "2026-08-24T04:45:54.339Z",
+  "title": "Halitosis (bad breath) - related symptoms, treatments and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

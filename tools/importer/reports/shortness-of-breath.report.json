@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+  "path": "shortness-of-breath",
+  "timestamp": "2026-08-24T04:51:49.225Z",
+  "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "tabs"
+  ]
+}

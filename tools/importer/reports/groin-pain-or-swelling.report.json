@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/groin-pain-or-swelling",
+  "path": "groin-pain-or-swelling",
+  "timestamp": "2026-08-24T04:45:38.673Z",
+  "title": "Groin pain or swelling | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

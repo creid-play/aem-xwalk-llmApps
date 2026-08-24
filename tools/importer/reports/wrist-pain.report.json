@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/wrist-pain",
+  "path": "wrist-pain",
+  "timestamp": "2026-08-24T04:54:29.022Z",
+  "title": "Wrist pain - causes, diagnosis and treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

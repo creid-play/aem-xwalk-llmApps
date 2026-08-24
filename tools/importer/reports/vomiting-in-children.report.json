@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/vomiting-in-children",
+  "path": "vomiting-in-children",
+  "timestamp": "2026-08-24T04:54:07.585Z",
+  "title": "Vomiting in children - treatments, self-care and causes | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}
