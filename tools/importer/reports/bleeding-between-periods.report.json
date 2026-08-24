@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/bleeding-between-periods",
+  "path": "bleeding-between-periods",
+  "timestamp": "2026-08-24T04:40:07.680Z",
+  "title": "Bleeding between periods | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "tabs"
+  ]
+}

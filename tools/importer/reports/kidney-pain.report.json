@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/kidney-pain",
+  "path": "kidney-pain",
+  "timestamp": "2026-08-24T04:48:27.379Z",
+  "title": "Kidney pain | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

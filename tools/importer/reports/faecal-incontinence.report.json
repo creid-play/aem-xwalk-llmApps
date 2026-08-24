@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/faecal-incontinence",
+  "path": "faecal-incontinence",
+  "timestamp": "2026-08-24T04:44:21.021Z",
+  "title": "Faecal incontinence | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "embed",
+    "embed",
+    "tabs"
+  ]
+}

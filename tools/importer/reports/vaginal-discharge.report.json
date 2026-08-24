@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/vaginal-discharge",
+  "path": "vaginal-discharge",
+  "timestamp": "2026-08-24T04:53:29.552Z",
+  "title": "Vaginal discharge | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

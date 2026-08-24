@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/lightheadedness",
+  "path": "lightheadedness",
+  "timestamp": "2026-08-24T04:49:13.503Z",
+  "title": "Lightheadedness - causes, treatment and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

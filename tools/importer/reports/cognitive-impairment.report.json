@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/cognitive-impairment",
+  "path": "cognitive-impairment",
+  "timestamp": "2026-08-24T04:42:03.444Z",
+  "title": "Cognitive impairment - what it is and how to test for it | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

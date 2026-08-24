@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/fluid-retention",
+  "path": "fluid-retention",
+  "timestamp": "2026-08-24T04:45:23.198Z",
+  "title": "Fluid retention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

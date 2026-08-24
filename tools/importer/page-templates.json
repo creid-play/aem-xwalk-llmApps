@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "projectType": "xwalk"
+  },
+  "templates": [
+    {
+      "name": "symptom-page",
+      "urls": [
+        "https://www.healthdirect.gov.au/chest-pain",
+        "https://www.healthdirect.gov.au/fever-and-high-temperature-in-children",
+        "https://www.healthdirect.gov.au/anxiety",
+        "https://www.healthdirect.gov.au/sore-throat",
+        "https://www.healthdirect.gov.au/abdominal-pain",
+        "https://www.healthdirect.gov.au/abdominal-pain-in-children",
+        "https://www.healthdirect.gov.au/aches-and-pains",
+        "https://www.healthdirect.gov.au/addiction-withdrawal",
+        "https://www.healthdirect.gov.au/adrenal-fatigue",
+        "https://www.healthdirect.gov.au/anal-pain",
+        "https://www.healthdirect.gov.au/anosmia-loss-of-smell",
+        "https://www.healthdirect.gov.au/anxiety-in-teenagers",
+        "https://www.healthdirect.gov.au/black-eye",
+        "https://www.healthdirect.gov.au/blackouts",
+        "https://www.healthdirect.gov.au/bleeding-between-periods",
+        "https://www.healthdirect.gov.au/bleeding-gums-and-dental-bleeding",
+        "https://www.healthdirect.gov.au/bloating",
+        "https://www.healthdirect.gov.au/blocked-nose",
+        "https://www.healthdirect.gov.au/blood-in-semen",
+        "https://www.healthdirect.gov.au/blood-in-stool",
+        "https://www.healthdirect.gov.au/blood-in-urine",
+        "https://www.healthdirect.gov.au/blurred-vision",
+        "https://www.healthdirect.gov.au/brain-fog",
+        "https://www.healthdirect.gov.au/burping",
+        "https://www.healthdirect.gov.au/calf-pain",
+        "https://www.healthdirect.gov.au/changes-to-your-appetite",
+        "https://www.healthdirect.gov.au/chest-tightness-and-discomfort",
+        "https://www.healthdirect.gov.au/choking",
+        "https://www.healthdirect.gov.au/chronic-wounds",
+        "https://www.healthdirect.gov.au/cognitive-impairment",
+        "https://www.healthdirect.gov.au/confusion",
+        "https://www.healthdirect.gov.au/constipation",
+        "https://www.healthdirect.gov.au/constipation-in-children",
+        "https://www.healthdirect.gov.au/cough",
+        "https://www.healthdirect.gov.au/dealing-with-morning-sickness",
+        "https://www.healthdirect.gov.au/delusions",
+        "https://www.healthdirect.gov.au/diarrhoea",
+        "https://www.healthdirect.gov.au/diarrhoea-in-children",
+        "https://www.healthdirect.gov.au/disorientation",
+        "https://www.healthdirect.gov.au/dizziness",
+        "https://www.healthdirect.gov.au/dry-eye-disease",
+        "https://www.healthdirect.gov.au/earache",
+        "https://www.healthdirect.gov.au/excessive-sweating-hyperhidrosis",
+        "https://www.healthdirect.gov.au/excessive-worry",
+        "https://www.healthdirect.gov.au/eye-discharge",
+        "https://www.healthdirect.gov.au/eye-strain",
+        "https://www.healthdirect.gov.au/facial-droop",
+        "https://www.healthdirect.gov.au/faecal-incontinence",
+        "https://www.healthdirect.gov.au/fainting",
+        "https://www.healthdirect.gov.au/fatigue",
+        "https://www.healthdirect.gov.au/febrile-seizure",
+        "https://www.healthdirect.gov.au/feeling-restless",
+        "https://www.healthdirect.gov.au/feeling-worthless",
+        "https://www.healthdirect.gov.au/fever",
+        "https://www.healthdirect.gov.au/fluid-from-the-ear",
+        "https://www.healthdirect.gov.au/fluid-retention",
+        "https://www.healthdirect.gov.au/frequent-urination",
+        "https://www.healthdirect.gov.au/groin-pain-or-swelling",
+        "https://www.healthdirect.gov.au/haemoptysis-coughing-up-blood",
+        "https://www.healthdirect.gov.au/halitosis",
+        "https://www.healthdirect.gov.au/hallucination",
+        "https://www.healthdirect.gov.au/headaches",
+        "https://www.healthdirect.gov.au/heart-attack-symptoms-males-vs-females",
+        "https://www.healthdirect.gov.au/heart-murmur",
+        "https://www.healthdirect.gov.au/heart-palpitations",
+        "https://www.healthdirect.gov.au/heat-rash",
+        "https://www.healthdirect.gov.au/heavy-periods",
+        "https://www.healthdirect.gov.au/heel-pain",
+        "https://www.healthdirect.gov.au/hiccups",
+        "https://www.healthdirect.gov.au/hip-pain",
+        "https://www.healthdirect.gov.au/hot-flushes-due-to-menopause",
+        "https://www.healthdirect.gov.au/indigestion",
+        "https://www.healthdirect.gov.au/irregular-periods",
+        "https://www.healthdirect.gov.au/irritability-and-feeling-on-edge",
+        "https://www.healthdirect.gov.au/itchy-anus",
+        "https://www.healthdirect.gov.au/itchy-scalp",
+        "https://www.healthdirect.gov.au/itchy-skin",
+        "https://www.healthdirect.gov.au/jaundice",
+        "https://www.healthdirect.gov.au/joint-pain-and-swelling",
+        "https://www.healthdirect.gov.au/kidney-pain",
+        "https://www.healthdirect.gov.au/knee-pain",
+        "https://www.healthdirect.gov.au/leg-pain",
+        "https://www.healthdirect.gov.au/lightheadedness",
+        "https://www.healthdirect.gov.au/limb-numbness",
+        "https://www.healthdirect.gov.au/losing-interest",
+        "https://www.healthdirect.gov.au/low-back-pain",
+        "https://www.healthdirect.gov.au/lump-under-armpit",
+        "https://www.healthdirect.gov.au/managing-mood-swings",
+        "https://www.healthdirect.gov.au/motion-sickness",
+        "https://www.healthdirect.gov.au/muscle-aches-and-pains",
+        "https://www.healthdirect.gov.au/nausea",
+        "https://www.healthdirect.gov.au/nerve-pain",
+        "https://www.healthdirect.gov.au/night-sweats",
+        "https://www.healthdirect.gov.au/nosebleed",
+        "https://www.healthdirect.gov.au/painful-sex-for-women",
+        "https://www.healthdirect.gov.au/penis-irritation",
+        "https://www.healthdirect.gov.au/penis-swelling-and-injury",
+        "https://www.healthdirect.gov.au/persistent-pelvic-pain",
+        "https://www.healthdirect.gov.au/rashes",
+        "https://www.healthdirect.gov.au/rectal-bleeding",
+        "https://www.healthdirect.gov.au/runny-nose",
+        "https://www.healthdirect.gov.au/separation-anxiety",
+        "https://www.healthdirect.gov.au/shortness-of-breath",
+        "https://www.healthdirect.gov.au/shoulder-pain",
+        "https://www.healthdirect.gov.au/signs-of-mental-health-issues",
+        "https://www.healthdirect.gov.au/sneezing",
+        "https://www.healthdirect.gov.au/summer-skin-rashes",
+        "https://www.healthdirect.gov.au/swollen-gums",
+        "https://www.healthdirect.gov.au/swollen-or-painful-testicle",
+        "https://www.healthdirect.gov.au/symptoms-of-serious-illness-in-babies-and-children",
+        "https://www.healthdirect.gov.au/tachycardia",
+        "https://www.healthdirect.gov.au/tinnitus",
+        "https://www.healthdirect.gov.au/toothache-and-gum-swelling",
+        "https://www.healthdirect.gov.au/unpleasant-thoughts",
+        "https://www.healthdirect.gov.au/urinary-retention",
+        "https://www.healthdirect.gov.au/vaginal-discharge",
+        "https://www.healthdirect.gov.au/vaginal-dryness",
+        "https://www.healthdirect.gov.au/vaginal-irritation-and-infection",
+        "https://www.healthdirect.gov.au/vertigo",
+        "https://www.healthdirect.gov.au/vomiting",
+        "https://www.healthdirect.gov.au/vomiting-in-children",
+        "https://www.healthdirect.gov.au/warning-signs-during-pregnancy",
+        "https://www.healthdirect.gov.au/wheezing",
+        "https://www.healthdirect.gov.au/wrist-pain"
+      ],
+      "coverageGaps": [],
+      "description": "Healthdirect symptom topic page (main content column only). H1 + read-time; optional emergency alert; Key facts box; On-this-page TOC; H2/H3 body prose & lists (default content); recurring promo CTA tiles; figure/infographic; embedded video; partner search-results tabs; Sources + last-reviewed. Header/nav, right sidebar, hotline/partners straps and footer are out of scope.",
+      "blocks": [
+        {
+          "name": "columns-alert",
+          "instances": [
+            ".cont_layout-media-object"
+          ]
+        },
+        {
+          "name": "columns-keyfacts",
+          "instances": [
+            ".cont_layout-standout"
+          ]
+        },
+        {
+          "name": "columns-promo",
+          "instances": [
+            "a.cont_layout-media-object__icon-standout"
+          ]
+        },
+        {
+          "name": "embed",
+          "instances": [
+            ".cont_youtube-video",
+            ".cont_iframe-video"
+          ]
+        },
+        {
+          "name": "tabs",
+          "instances": [
+            ".main_content-search-results-partners"
+          ]
+        }
+      ]
+    }
+  ]
+}

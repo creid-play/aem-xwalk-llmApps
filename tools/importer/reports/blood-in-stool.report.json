@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/blood-in-stool",
+  "path": "blood-in-stool",
+  "timestamp": "2026-08-24T04:40:46.990Z",
+  "title": "Blood in stool | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

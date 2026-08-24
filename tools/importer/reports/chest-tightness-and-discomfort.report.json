@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/chest-tightness-and-discomfort",
+  "path": "chest-tightness-and-discomfort",
+  "timestamp": "2026-08-24T04:41:40.670Z",
+  "title": "Chest tightness and discomfort - left side pain, anxiety | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

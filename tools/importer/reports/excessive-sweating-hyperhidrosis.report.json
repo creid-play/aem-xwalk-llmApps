@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/excessive-sweating-hyperhidrosis",
+  "path": "excessive-sweating-hyperhidrosis",
+  "timestamp": "2026-08-24T04:43:43.795Z",
+  "title": "Excessive sweating (hyperhidrosis) – causes and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/febrile-seizure",
+  "path": "febrile-seizure",
+  "timestamp": "2026-08-24T04:44:40.568Z",
+  "title": "Febrile seizure - convulsion, fever | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/anosmia-loss-of-smell",
+  "path": "anosmia-loss-of-smell",
+  "timestamp": "2026-08-24T04:39:33.871Z",
+  "title": "Anosmia (loss of smell) | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

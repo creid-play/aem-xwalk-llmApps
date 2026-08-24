@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/anxiety",
+  "path": "anxiety",
+  "timestamp": "2026-08-24T04:18:07.637Z",
+  "title": "Anxiety | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

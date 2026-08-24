@@ -1,0 +1,16 @@
+{
+  "type": "xwalk",
+  "sites": {
+    "aem-xwalk-llmapps": {
+      "previewOrg": "creid-play",
+      "previewSite": "aem-xwalk-llmapps",
+      "contentHostUrl": "author-p218415-e2256034.adobeaemcloud.com",
+      "aemSitePath": "/content/aem-xwalk-llmapps",
+      "aemAssetsFolderPath": "/content/dam/aem-xwalk-llmapps",
+      "aemSiteName": "aem-xwalk-llmapps",
+      "aemSiteTitle": "AEM Xwalk LLMApps",
+      "baseUrl": "https://www.healthdirect.gov.au/",
+      "libraryUrl": "https://main--sta-xwalk-boilerplate--aemysites.aem.page/tools/sidekick/library.json"
+    }
+  }
+}

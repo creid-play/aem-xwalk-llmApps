@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/swollen-or-painful-testicle",
+  "path": "swollen-or-painful-testicle",
+  "timestamp": "2026-08-24T04:52:36.298Z",
+  "title": "Swollen or painful testicle | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/heat-rash",
+  "path": "heat-rash",
+  "timestamp": "2026-08-24T04:46:41.069Z",
+  "title": "Heat rash - treatments and causes | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

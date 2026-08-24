@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/anal-pain",
+  "path": "anal-pain",
+  "timestamp": "2026-08-24T04:39:26.941Z",
+  "title": "Anal pain - rectal pain, fissures, symptoms and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

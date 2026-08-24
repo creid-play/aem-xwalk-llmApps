@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/headaches",
+  "path": "headaches",
+  "timestamp": "2026-08-24T04:46:09.540Z",
+  "title": "Headaches - types, causes, migraines, treatment and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

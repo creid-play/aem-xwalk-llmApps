@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/blocked-nose",
+  "path": "blocked-nose",
+  "timestamp": "2026-08-24T04:40:30.547Z",
+  "title": "Blocked nose - nasal congestion, treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/tinnitus",
+  "path": "tinnitus",
+  "timestamp": "2026-08-24T04:53:02.283Z",
+  "title": "Tinnitus (ringing in the ears) - causes, symptoms, treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

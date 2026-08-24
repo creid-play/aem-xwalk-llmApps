@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/diarrhoea",
+  "path": "diarrhoea",
+  "timestamp": "2026-08-24T04:42:57.428Z",
+  "title": "Diarrhoea - symptoms, causes, self care and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

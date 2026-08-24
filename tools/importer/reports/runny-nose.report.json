@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/runny-nose",
+  "path": "runny-nose",
+  "timestamp": "2026-08-24T04:51:33.925Z",
+  "title": "Runny nose - treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

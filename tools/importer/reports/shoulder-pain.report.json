@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/shoulder-pain",
+  "path": "shoulder-pain",
+  "timestamp": "2026-08-24T04:51:57.437Z",
+  "title": "Shoulder pain | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

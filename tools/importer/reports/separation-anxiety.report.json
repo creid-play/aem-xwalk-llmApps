@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/separation-anxiety",
+  "path": "separation-anxiety",
+  "timestamp": "2026-08-24T04:51:41.666Z",
+  "title": "Separation anxiety | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

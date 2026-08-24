@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/haemoptysis-coughing-up-blood",
+  "path": "haemoptysis-coughing-up-blood",
+  "timestamp": "2026-08-24T04:45:47.226Z",
+  "title": "Haemoptysis (coughing up blood) | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo"
+  ]
+}

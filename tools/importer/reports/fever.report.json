@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/fever",
+  "path": "fever",
+  "timestamp": "2026-08-24T04:45:07.883Z",
+  "title": "Fever - normal and high temperature range, when to see GP | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/delusions",
+  "path": "delusions",
+  "timestamp": "2026-08-24T04:42:49.895Z",
+  "title": "Delusions | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "tabs"
+  ]
+}

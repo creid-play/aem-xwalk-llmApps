@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/blood-in-urine",
+  "path": "blood-in-urine",
+  "timestamp": "2026-08-24T04:40:55.040Z",
+  "title": "Blood in urine (haematuria) - symptoms, causes and treatment | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

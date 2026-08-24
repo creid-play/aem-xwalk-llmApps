@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/fainting",
+  "path": "fainting",
+  "timestamp": "2026-08-24T04:44:28.454Z",
+  "title": "Fainting - treatments, symptoms, causes and prevention | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

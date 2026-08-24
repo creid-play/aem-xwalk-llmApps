@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/vomiting",
+  "path": "vomiting",
+  "timestamp": "2026-08-24T04:53:59.709Z",
+  "title": "Vomiting - treatments, self-care and causes | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

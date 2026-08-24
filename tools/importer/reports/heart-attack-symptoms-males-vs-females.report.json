@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/heart-attack-symptoms-males-vs-females",
+  "path": "heart-attack-symptoms-males-vs-females",
+  "timestamp": "2026-08-24T04:46:17.741Z",
+  "title": "Heart attack symptoms: males vs females | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

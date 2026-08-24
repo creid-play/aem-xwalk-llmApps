@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/abdominal-pain",
+  "path": "abdominal-pain",
+  "timestamp": "2026-08-24T04:38:46.858Z",
+  "title": "Abdominal pain - causes, self-care and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-alert",
+    "columns-alert",
+    "columns-alert",
+    "columns-keyfacts",
+    "columns-promo",
+    "columns-promo",
+    "columns-promo",
+    "tabs"
+  ]
+}

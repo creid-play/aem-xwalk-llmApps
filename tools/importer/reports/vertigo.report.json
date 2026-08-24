@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.healthdirect.gov.au/vertigo",
+  "path": "vertigo",
+  "timestamp": "2026-08-24T04:53:52.627Z",
+  "title": "Vertigo - symptoms, causes and treatments | healthdirect",
+  "template": "symptom-page",
+  "blocks": [
+    "columns-keyfacts",
+    "columns-promo",
+    "tabs"
+  ]
+}

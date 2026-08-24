@@ -46,6 +46,51 @@
     ]
   },
   {
+    "id": "columns-alert",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "columns-keyfacts",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "columns-promo",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
     "id": "columns",
     "components": [
       "column"
