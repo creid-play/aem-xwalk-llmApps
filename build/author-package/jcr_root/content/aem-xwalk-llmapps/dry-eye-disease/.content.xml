@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Dry eyes" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;7-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;You can get dry eyes if you don&#x27;t make enough tears or if your tears dry up too quickly.&lt;/li&gt;
+                    &lt;li&gt;When your tears don&#x27;t properly lubricate your eyes, your eyes feel sore and gritty and your vision can be blurry.&lt;/li&gt;
+                    &lt;li&gt;There are things you can do at home to relieve dry eyes, but sometimes you will need to see a doctor or optometrist for treatment.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-are&quot;&gt;What are dry eyes?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to dry eyes?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes dry eyes?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of dry eyes diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How are dry eyes treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can dry eyes be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;What are the complications of dry eyes?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are dry eyes?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dry eyes are a common problem. But most people with dry eyes have mild symptoms.&lt;/p&gt;&lt;p&gt;You can get dry eyes if you don&#x27;t make enough tears, or if your tears dry up too quickly.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to dry eyes?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dry eyes can make your eyes:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;sore&lt;/li&gt;
+                    &lt;li&gt;gritty&lt;/li&gt;
+                    &lt;li&gt;sting or burn&lt;/li&gt;
+                    &lt;li&gt;look red&lt;/li&gt;
+                    &lt;li&gt;sensitive to light&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Your vision (eyesight) may also be blurry.&lt;/p&gt;&lt;p&gt;Sometimes dry eyes can cause excess tearing (watery eyes). You might also have &lt;a href&#x3D;&quot;/blepharitis&quot;&gt;blepharitis&lt;/a&gt; (inflamed eyelids).&lt;/p&gt;&lt;p&gt;You may feel like something is in your eye and you may have difficulty wearing contact lenses.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes dry eyes?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The surface of your eyes is kept moist with a layer of tear film. This tear film is made up of 3 layers:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;fatty oils&lt;/li&gt;
+                    &lt;li&gt;watery tears&lt;/li&gt;
+                    &lt;li&gt;mucus&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;When your tears are working normally, these 3 layers keep your eyes smoothly lubricated. If you have a problem with any of these 3 layers, you may develop dry eyes.&lt;/p&gt;&lt;p&gt;You can develop dry eyes if your tear glands don&#x27;t make enough watery tears.&lt;/p&gt;&lt;p&gt;You can also develop dry eyes if there are problems with the glands above your eyes called the &#x27;meibomian glands&#x27;. These glands make the oily tear film layer that stops your tears from evaporating. If these glands don&#x27;t work normally, your tears may evaporate too fast, drying out your eyes.&lt;/p&gt;&lt;p&gt;Dry eyes may also be caused by a combination of these problems.&lt;/p&gt;&lt;p&gt;You are at increased risk of dry eyes if you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;are female&lt;/li&gt;
+                    &lt;li&gt;are aged 50 years or older&lt;/li&gt;
+                    &lt;li&gt;wear contact lenses&lt;/li&gt;
+                    &lt;li&gt;use a computer or other screen for long periods of time&lt;/li&gt;
+                    &lt;li&gt;have an &lt;a href&#x3D;&quot;/autoimmune-diseases&quot;&gt;autoimmune condition&lt;/a&gt; such as &lt;a href&#x3D;&quot;/sjogrens-syndrome&quot;&gt;Sjogren&#x27;s syndrome&lt;/a&gt;, &lt;a href&#x3D;&quot;/scleroderma&quot;&gt;scleroderma&lt;/a&gt;, &lt;a href&#x3D;&quot;/lupus&quot;&gt;lupus&lt;/a&gt; or &lt;a href&#x3D;&quot;/rheumatoid-arthritis&quot;&gt;rheumatoid arthritis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;take certain medicines&lt;/li&gt;
+                    &lt;li&gt;are exposed to smoke, wind or dry air&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of dry eyes diagnosed?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor will examine your eyes and ask questions about your symptoms. They will also ask you about any medicines you take and your medical history.&lt;/p&gt;&lt;p&gt;If you see your optometrist, they may give you eye drops to dilate (widen) your pupil to check for problems.&lt;/p&gt;&lt;p&gt;Your doctor may refer you to an &lt;a href&#x3D;&quot;/ophthalmologist&quot;&gt;ophthalmologist&lt;/a&gt; (eye doctor).&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;See your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you still have dry eyes after trying self-care treatments for a few weeks&lt;/li&gt;
+                    &lt;li&gt;there is a change in the shape of your eyelids&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;See your doctor promptly if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;your eye is painful and red&lt;/li&gt;
+                    &lt;li&gt;you have a red eye and wear contact lenses&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;When to seek urgent care&lt;/h3&gt;&lt;p&gt;See your doctor immediately or go to the hospital emergency department if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you have changes in your vision, see wavy lines, or flashing lights&lt;/li&gt;
+                    &lt;li&gt;it hurts to look at light&lt;/li&gt;
+                    &lt;li&gt;you have a red eye, severe headache and feel unwell&lt;/li&gt;
+                    &lt;li&gt;you have an eye injury&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How are dry eyes treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Treatment for dry eyes usually depends on what&#x27;s causing your symptoms.&lt;/p&gt;&lt;p&gt;The aim of treatment is to relieve symptoms and lower the chance of damage to the surface of your eye.&lt;/p&gt;&lt;h3&gt;Self-care at home&lt;/h3&gt;&lt;p&gt;Eye lid hygiene (cleaning your eye lid) and warm compresses may be suggested, especially if you have meibomian gland problems or blepharitis.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h3&gt;Medicines for dry eyes&lt;/h3&gt;&lt;p&gt;Ocular lubricants (tear supplements) in the form of eye drops, gels or ointments are available to buy &lt;a href&#x3D;&quot;/over-the-counter-medicines&quot;&gt;over-the-counter&lt;/a&gt; from your pharmacy.&lt;/p&gt;&lt;p&gt;You will need to apply lubricant eye drops 3 to 4 times a day. Gels provide longer relief but can blur your vision for a while.&lt;/p&gt;&lt;p&gt;You can use an ointments at night if symptoms affect your sleep or are worse in the morning.&lt;/p&gt;&lt;p&gt;Ask your pharmacist or optometrist for the best option.&lt;/p&gt;&lt;p&gt;If your symptoms last a long time or are severe, your doctor may send you to an ophthalmologist. You may need a prescription for anti-inflammatory eye drops.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can dry eyes be prevented?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Here are some things you can do to manage symptoms or prevent dry eyes:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Avoid &lt;a href&#x3D;&quot;/eye-strain&quot;&gt;straining your eyes&lt;/a&gt; — limit screen time and take breaks to rest your eyes.&lt;/li&gt;
+                    &lt;li&gt;Protect your eyes — wrap-around glasses can help you avoid direct contact with wind, hot air, direct sunlight and smoke.&lt;/li&gt;
+                    &lt;li&gt;Use a humidifier at home or at work — this stops the air becoming dry.&lt;/li&gt;
+                    &lt;li&gt;Don&#x27;t &lt;a href&#x3D;&quot;/smoking-and-vaping&quot;&gt;smoke&lt;/a&gt; or drink too much &lt;a href&#x3D;&quot;/tips-for-safe-drinking&quot;&gt;alcohol&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;If you wear contact lenses, try to reduce the number of hours you wear your lenses.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the complications of dry eyes?" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Most people respond well to treatment, but some people may develop:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;scarring of the part of your eye called the cornea&lt;/li&gt;
+                    &lt;li&gt;vascularisation (growth of blood vessels) in your eyes&lt;/li&gt;
+                    &lt;li&gt;long-term vision problems&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Visit the &lt;a href&#x3D;&quot;https://www.seslhd.health.nsw.gov.au/sydney-eye-hospital/patient-information-english-and-other-languages&quot;&gt;Sydney Eye Hospital&lt;/a&gt; website to read about a range of eye conditions and find instruction sheets for eye medicines.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-gb/962/pdf/962/Dry%20eye%20disease.pdf&quot; title&#x3D;&quot;Dry eye disease&quot;&gt;(Dry eye disease)&lt;/a&gt;&lt;/em&gt;, Australian Pharmacist &lt;em&gt;&lt;a href&#x3D;&quot;https://www.australianpharmacist.com.au/dry-eye/#&quot; title&#x3D;&quot;Dry eye&quot;&gt;(Dry eye)&lt;/a&gt;&lt;/em&gt;, The Royal Australian College of General Practitioners, AJGP &lt;em&gt;&lt;a href&#x3D;&quot;https://www1.racgp.org.au/ajgp/2021/june/when-the-eyes-are-dry/&quot; title&#x3D;&quot;When the eyes are dry - An algorithm approach and management in general practice&quot;&gt;(When the eyes are dry - An algorithm approach and management in general practice)&lt;/a&gt;&lt;/em&gt;, American Academy of Ophthalmology &lt;em&gt;&lt;a href&#x3D;&quot;https://www.aao.org/eye-health/diseases/what-is-dry-eye&quot; title&#x3D;&quot;What Is Dry Eye? Symptoms, Causes and Treatment&quot;&gt;(What Is Dry Eye? Symptoms, Causes and Treatment)&lt;/a&gt;&lt;/em&gt;, National Eye Institute &lt;em&gt;&lt;a href&#x3D;&quot;https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye&quot; title&#x3D;&quot;Dry eye&quot;&gt;(Dry eye)&lt;/a&gt;&lt;/em&gt;, Lions Eye Institute &lt;em&gt;&lt;a href&#x3D;&quot;https://www.lei.org.au/services/eye-health-information/dry-eye-and-blepharitis/&quot; title&#x3D;&quot;Dry Eye &amp;#x26; Blepharitis&quot;&gt;(Dry Eye &amp;#x26; Blepharitis)&lt;/a&gt;&lt;/em&gt;, National Health Service &lt;em&gt;&lt;a href&#x3D;&quot;https://www.nhs.uk/conditions/dry-eyes/&quot; title&#x3D;&quot;Dry eyes&quot;&gt;(Dry eyes)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: February 2026&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://glaucoma.org.au/i-have-glaucoma/living-with-glaucoma/managing-dry-eye-and-glaucoma&quot;&gt;Managing Dry Eye and Glaucoma | Glaucoma Australia&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dry eye is a common problem in the community with many causes for its development. Symptoms often develop once there are enough of the multiple factors that...&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://glaucoma.org.au/i-have-glaucoma/living-with-glaucoma/managing-dry-eye-and-glaucoma" linkText="Read more on Glaucoma Australia website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/glaucomaaustralialogo-feb2019-4e1c84.png" imageAlt="Glaucoma Australia"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dry-eye&quot;&gt;Dry eye | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A person suffering from dry eye syndrome does not have enough of the right kind of tears to keep the eye comfortable.&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dry-eye" linkText="Read more on Better Health Channel website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/eye-health/dry-eye/&quot;&gt;Dry eye - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dry eye is a term used when the eye does not produce tears that lubricate the eye adequately. The eye may feel dry, gritty and sore, but not painful.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/eye-health/dry-eye/" linkText="Read more on myDoctor website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/pharmacy-care/dry-eyes-and-irritation/&quot;&gt;Dry eyes and irritation - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dry eye includes dry or watery eyes and eye irritation. Dry eye occurs in people who produce fewer or lower quality tears. Find out what products are available for dry eyes and eye irritation.&lt;/p&gt;"/>
+        <button_8 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/pharmacy-care/dry-eyes-and-irritation/" linkText="Read more on myDoctor website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Dry eyes | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Dry eyes is a common problem that happens when your eyes don&#x27;t make enough tears. Read about the symptoms, causes and treatments for dry eyes.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_19 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Dry eyes&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

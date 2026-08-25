@@ -5,20 +5,21 @@
  * Parser for tabs variant. Base: tabs.
  * Source: https://www.healthdirect.gov.au/chest-pain
  * Selector: .main_content-search-results-partners
- * Shape: two-tab partner search-results switcher.
- *   - Tab labels come from the .dor-tabs_item-btn buttons in the <nav>.
- *   - Each tab panel is a <section> (#searchGeneralResults / #searchProfessionalResults)
- *     containing repeated partner result tiles (heading link, snippet paragraph,
- *     "Read more on … website" line, partner logo image).
- *   Tiles are authored as rich text / default content INSIDE each panel (NO nested block).
  *
- * Container block: one row per tab. Item model (tabs-item) fields, in order:
- *   title (text, tab label) → cell 1;
- *   content_heading (text, collapsed group start), content_headingType (collapsed/skip),
- *   content_image (reference), content_richtext (richtext) → cell 2 (grouped content_*).
- * Here each panel holds multiple heterogeneous tiles, so all panel content is authored
- * as content_richtext (a single grouped cell). No single heading/image applies at the
- * tab level, so content_heading / content_image are omitted.
+ * Container block: one ROW per tab; each row becomes a `tabs-item`.
+ * The tabs-item model fields, in order:
+ *   title (text), content_heading (text), content_headingType (collapsed),
+ *   content_image (reference), content_richtext (richtext).
+ *
+ * IMPORTANT — no field-hint comments are emitted. AEM/Universal Editor ingests the
+ * imported document by converting it to markdown, and that conversion strips HTML
+ * comments — so `<!-- field:* -->` hints do NOT survive and the tabs mapping then
+ * fails ("content isn't mapping to the model correctly") or yields empty tabs.
+ * Instead we rely on md2jcr's automatic field resolution, exactly like the working
+ * Block-Collection `tabs`/`tabs-testimonial` reference: cell 1 is the tab title;
+ * cell 2 leads with a heading (auto-maps to content_heading) followed by the rich
+ * content (auto-maps to content_richtext). This is comment-free and round-trips
+ * cleanly through html -> markdown -> md2jcr -> JCR. Verified with @adobe/helix-md2jcr.
  */
 export default function parse(element, { document }) {
   const cells = [];
@@ -28,7 +29,7 @@ export default function parse(element, { document }) {
     element.querySelectorAll('nav .dor-tabs_item-btn, .dor-tabs_item-btn'),
   );
 
-  // Tab panels: the top-level <section> panels (exclude the "show more" sub-sections).
+  // Tab panels: top-level <section> panels (exclude the "show more" sub-sections).
   const panels = Array.from(
     element.querySelectorAll(':scope > section[id], :scope > section'),
   ).filter((s) => !s.classList.contains('main_content-search-show-more'));
@@ -38,71 +39,68 @@ export default function parse(element, { document }) {
   for (let i = 0; i < count; i += 1) {
     const button = tabButtons[i];
     const panel = panels[i];
+    const label = (button.textContent || '').trim();
 
-    // Cell 1: title (tab label).
+    // ---- Cell 1: title (tab label) ----
     const titleFrag = document.createDocumentFragment();
-    titleFrag.appendChild(document.createComment(' field:title '));
-    titleFrag.appendChild(document.createTextNode((button.textContent || '').trim()));
+    titleFrag.appendChild(document.createTextNode(label));
 
-    // Cell 2: content_richtext — all tile content authored as default/rich content.
+    // ---- Cell 2: content group, in model order, comment-free ----
+    // content_heading: a leading heading = the tab label (auto-resolves to content_heading).
     const contentFrag = document.createDocumentFragment();
-    contentFrag.appendChild(document.createComment(' field:content_richtext '));
+    const heading = document.createElement('h3');
+    heading.textContent = label;
+    contentFrag.appendChild(heading);
 
+    // content_richtext: the partner tiles as rich content.
     // Leading "Top results" paragraph (direct child of the panel).
     const leadP = panel.querySelector(':scope > p');
-    if (leadP) {
+    if (leadP && leadP.textContent.trim()) {
       const p = document.createElement('p');
       p.textContent = leadP.textContent.trim();
       contentFrag.appendChild(p);
     }
 
-    // Each partner result tile.
     const tiles = Array.from(panel.querySelectorAll('a.main_content-search-tile'));
     tiles.forEach((tile) => {
       const href = tile.getAttribute('href');
 
-      // Heading link: wrap the tile heading text in the tile's link.
+      // Tile heading link -> h4 (kept below the tab's own h3 content_heading).
       const headingEl = tile.querySelector('h3, h2, h4');
       if (headingEl) {
-        const h3 = document.createElement('h3');
+        const h4 = document.createElement('h4');
         if (href) {
           const a = document.createElement('a');
           a.setAttribute('href', href);
           a.textContent = headingEl.textContent.trim();
-          h3.appendChild(a);
+          h4.appendChild(a);
         } else {
-          h3.textContent = headingEl.textContent.trim();
+          h4.textContent = headingEl.textContent.trim();
         }
-        contentFrag.appendChild(h3);
+        contentFrag.appendChild(h4);
       }
 
-      // Snippet paragraph.
-      const introP = tile.querySelector('.main_content-search-tile-intro p, .main_content-search-tile-intro');
-      if (introP) {
+      const introEl = tile.querySelector('.main_content-search-tile-intro p, .main_content-search-tile-intro');
+      if (introEl && introEl.textContent.trim()) {
         const p = document.createElement('p');
-        p.textContent = introP.textContent.trim();
+        p.textContent = introEl.textContent.trim();
         contentFrag.appendChild(p);
       }
 
-      // "Read more on … website" line.
       const readMore = tile.querySelector('.main_content-search-tile-read-more');
-      if (readMore) {
-        const label = (readMore.textContent || '').trim();
-        if (label) {
-          const p = document.createElement('p');
-          if (href) {
-            const a = document.createElement('a');
-            a.setAttribute('href', href);
-            a.textContent = label;
-            p.appendChild(a);
-          } else {
-            p.textContent = label;
-          }
-          contentFrag.appendChild(p);
+      if (readMore && readMore.textContent.trim()) {
+        const p = document.createElement('p');
+        if (href) {
+          const a = document.createElement('a');
+          a.setAttribute('href', href);
+          a.textContent = readMore.textContent.trim();
+          p.appendChild(a);
+        } else {
+          p.textContent = readMore.textContent.trim();
         }
+        contentFrag.appendChild(p);
       }
 
-      // Partner logo image.
       const logo = tile.querySelector('img.main_content-search-tile-logo, img');
       if (logo) {
         contentFrag.appendChild(logo);

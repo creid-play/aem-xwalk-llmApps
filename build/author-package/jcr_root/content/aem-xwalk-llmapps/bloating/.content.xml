@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Bloating" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;6-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Bloating is when your tummy feels full or distended.&lt;/li&gt;
+                    &lt;li&gt;Bloating is a common feeling.&lt;/li&gt;
+                    &lt;li&gt;Bloating and gas can be caused by many things, such as your diet.&lt;/li&gt;
+                    &lt;li&gt;If your bloating doesn&#x27;t go away, see your doctor, who can check for conditions such as irritable bowel syndrome.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is bloating?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to bloating?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#caused&quot;&gt;What causes bloating?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of bloating diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is bloating treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is bloating?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Bloating is a feeling that your tummy is distended or stretched. You may feel &#x27;gassy&#x27; or full.&lt;/p&gt;&lt;p&gt;Bloating is more common in females than males.&lt;/p&gt;&lt;p&gt;This article focusses on bloating due to intestinal gas.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to bloating?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you are feeling bloated, you may also have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/abdominal-pain&quot;&gt;abdominal&lt;/a&gt; (tummy) pain&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/burping&quot;&gt;burping&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/flatulence&quot;&gt;gas&lt;/a&gt; (flatulence, or farting)&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Females may notice bloating symptoms more before their &lt;a href&#x3D;&quot;/menstruation&quot;&gt;periods&lt;/a&gt;.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes bloating?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Bloating can be caused by many different things. Most causes of bloating are not too serious.&lt;/p&gt;&lt;p&gt;Gas may build up in your gut when you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;eat certain foods&lt;/li&gt;
+                    &lt;li&gt;swallow a lot of air when you eat too fast&lt;/li&gt;
+                    &lt;li&gt;drink a lot of fizzy drinks or chew a lot of gum&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Regular bloating can be caused by conditions such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/irritable-bowel-syndrome-ibs&quot;&gt;irritable bowel syndrome&lt;/a&gt; (IBS)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/constipation&quot;&gt;constipation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/coeliac-disease&quot;&gt;coeliac disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;food intolerances, for example &lt;a href&#x3D;&quot;/lactose-intolerance&quot;&gt;lactose intolerance&lt;/a&gt; or gluten intolerance&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of bloating diagnosed?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor will ask about your symptoms and how long you have had them. They will want to know if anything makes your symptoms better or worse. They will also ask about your diet and your &lt;a href&#x3D;&quot;/family-medical-history&quot;&gt;family history&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Your doctor will examine you and may recommend tests, such as &lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt; or &lt;a href&#x3D;&quot;/stool-tests&quot;&gt;stool (poo) tests&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Your doctor may refer you to a &lt;a href&#x3D;&quot;/dietitians&quot;&gt;dietitian&lt;/a&gt; or gastroenterologist (a doctor who looks at problems with your &lt;a href&#x3D;&quot;/digestive-system&quot;&gt;digestive system&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;In some people, a &lt;a href&#x3D;&quot;/gastroscopy&quot;&gt;gastroscopy&lt;/a&gt; or &lt;a href&#x3D;&quot;/colonoscopy&quot;&gt;colonoscopy&lt;/a&gt; may be recommended. During these procedures, a flexible tube with a camera is used to look inside your digestive tract. Your doctor can take &lt;a href&#x3D;&quot;/biopsy&quot;&gt;biopsies&lt;/a&gt; (tissue samples) during these tests.&lt;/p&gt;&lt;p&gt;Bloating can sometimes be due to other problems. Your doctor may order an &lt;a href&#x3D;&quot;/ultrasound&quot;&gt;ultrasound&lt;/a&gt; scan or other imaging tests to rule out other causes.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If your bloating doesn&#x27;t get better, you should see your doctor.&lt;/p&gt;&lt;p&gt;See your doctor as soon as possible if you have bloating as well as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/diarrhoea&quot;&gt;diarrhoea&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/vomiting&quot;&gt;vomiting&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;ongoing or severe abdominal (tummy) pain&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blood-in-stool&quot;&gt;blood in your stools (poo)&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;changes in your stools&lt;/li&gt;
+                    &lt;li&gt;weight loss without trying to lose weight&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/changes-to-your-appetite&quot;&gt;loss of appetite&lt;/a&gt; or feeling full quickly&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is bloating treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Treatment depends on the cause of your bloating.&lt;/p&gt;&lt;h3&gt;Diet&lt;/h3&gt;&lt;p&gt;Adjusting your diet can help with bloating.&lt;/p&gt;&lt;p&gt;It&#x27;s important to talk to your doctor or a dietitian before starting any diet or excluding foods from your diet. But take note of any foods that make your bloating worse and discuss this with your doctor or dietitian.&lt;/p&gt;&lt;p&gt;If you have constipation with your bloating, try:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;eating more &lt;a href&#x3D;&quot;/high-fibre-foods-and-diet&quot;&gt;high-fibre foods&lt;/a&gt; such as fruit, vegetables and wholegrains&lt;/li&gt;
+                    &lt;li&gt;increasing the amount of &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;water that you drink&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;exercising regularly&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Medicines and supplements for bloating&lt;/h3&gt;&lt;p&gt;Your doctor may suggest medicines to help with your bloating. Depending on why you are bloated, these may include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/laxatives&quot;&gt;laxatives&lt;/a&gt; to help treat constipation&lt;/li&gt;
+                    &lt;li&gt;medicines to help with digestion&lt;/li&gt;
+                    &lt;li&gt;fibre supplements&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/dietary-supplements&quot;&gt;supplements&lt;/a&gt; and herbal preparations&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;There is some evidence that changing your gut microbiome may help with bloating. Your doctor may recommend &lt;a href&#x3D;&quot;/probiotics&quot;&gt;probiotics&lt;/a&gt; or a change in diet to help with your &lt;a href&#x3D;&quot;/gut-health&quot;&gt;gut health&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Other treatment options&lt;/h3&gt;&lt;p&gt;Psychological or behavioural therapies may be helpful in treating some causes of bloating. These can include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/cognitive-behaviour-therapy-cbt&quot;&gt;cognitive behavioural therapy (CBT)&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;gut-directed hypnotherapy&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Talk to your doctor about whether these treatments may be helpful for you.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;For bloating caused by diet, IBS or food intolerance, you can visit &lt;a href&#x3D;&quot;https://dietitiansaustralia.org.au/&quot;&gt;Dietitians Australia&lt;/a&gt; for more information. Use their search tool to &lt;a href&#x3D;&quot;https://member.dietitiansaustralia.org.au/faapd&quot;&gt;Find a dietitian&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href&#x3D;&quot;https://nutritionaustralia.org/&quot;&gt;Nutrition Australia&lt;/a&gt; has more information about the gut microbiome and tips for gut health.&lt;/p&gt;&lt;p&gt;The &lt;a href&#x3D;&quot;https://www.gesa.org.au/&quot;&gt;Gastroenterological Society of Australia (GESA)&lt;/a&gt; has information about conditions that can affect your gut.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Therapeutic Guidelines &lt;em&gt;&lt;a href&#x3D;&quot;https://tgldcdp.tg.org.au/viewTopic?etgAccess&#x3D;true&amp;#x26;guidelinePage&#x3D;Gastrointestinal&amp;#x26;topicfile&#x3D;c_GIG_Gastro-oesophageal-reflux-in-adultstopic_1&amp;#x26;guidelinename&#x3D;auto&amp;#x26;sectionId&#x3D;c_GIG_Functional-bloating-and-distension-in-adultstopic_2#c_GIG_Functional-bloating-and-distension-in-adultstopic_2&quot; title&#x3D;&quot;Functional bloating and distention in adults&quot;&gt;(Functional bloating and distention in adults)&lt;/a&gt;&lt;/em&gt;, Therapeutic Guidelines &lt;em&gt;&lt;a href&#x3D;&quot;https://tgldcdp.tg.org.au/viewTopic?etgAccess&#x3D;true&amp;#x26;guidelinePage&#x3D;Gastrointestinal&amp;#x26;topicfile&#x3D;c_GIG_Gastro-oesophageal-reflux-in-adultstopic_1&amp;#x26;guidelinename&#x3D;auto&amp;#x26;sectionId&#x3D;c_GIG_Overview-and-principles-of-managing-functional-gastrointestinal-disorderstopic_3#c_GIG_Overview-and-principles-of-managing-functional-gastrointestinal-disorderstopic_3&quot; title&#x3D;&quot;Approach to managing functional gastrointestinal disorders&quot;&gt;(Approach to managing functional gastrointestinal disorders)&lt;/a&gt;&lt;/em&gt;, Australian Family Physician &lt;em&gt;&lt;a href&#x3D;&quot;https://www.racgp.org.au/afp/2013/may/wind/&quot; title&#x3D;&quot;Wind problems with intestinal gas&quot;&gt;(Wind problems with intestinal gas)&lt;/a&gt;&lt;/em&gt;, Australasian Society of Clinical Immunology and Allergy &lt;em&gt;&lt;a href&#x3D;&quot;https://www.allergy.org.au/patients/food-other-adverse-reactions/food-intolerance&quot; title&#x3D;&quot;Food intolerance&quot;&gt;(Food intolerance)&lt;/a&gt;&lt;/em&gt;, Australian Family Physician &lt;em&gt;&lt;a href&#x3D;&quot;https://www.racgp.org.au/afp/2017/april/the-gut-microbiome&quot; title&#x3D;&quot;The gut microbiome&quot;&gt;(The gut microbiome)&lt;/a&gt;&lt;/em&gt;, Journal of Functional Foods (Erasme Mutuyemungu, Mukti Singh, Sean Liu, Devin J. Rose) &lt;em&gt;&lt;a href&#x3D;&quot;https://www.sciencedirect.com/science/article/pii/S1756464622004376&quot; title&#x3D;&quot;Intestinal gas production by the gut microbiota: A review&quot;&gt;(Intestinal gas production by the gut microbiota: A review)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: October 2024&lt;/p&gt;"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Bloating - causes, treatment and prevention | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Bloating is when your tummy feels swollen. Bloating is common, but if you often feel bloated you should see a doctor. Learn more about bloating here.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Bloating&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

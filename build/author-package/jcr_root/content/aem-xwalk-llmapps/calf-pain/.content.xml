@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Calf pain" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;9-minute read&lt;/em&gt;&lt;strong&gt;See you doctor immediately if you have signs of a deep vein thrombosis (your leg is red or swollen). Call triple zero (000) and ask for an ambulance if you have chest pain, trouble breathing or symptoms of stroke or heart attack.&lt;/strong&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Calf pain is often due to muscle strain or cramps caused by exercise, lack of fluids or low dietary minerals.&lt;/li&gt;
+                    &lt;li&gt;Calf strain happens when your calf muscle stretches too much causing pain, stiffness or weakness.&lt;/li&gt;
+                    &lt;li&gt;You can prevent calf pain and injury by stretching before and after exercise.&lt;/li&gt;
+                    &lt;li&gt;Calf pain can also be a sign of more serious issues like Achilles tendonitis, sciatica or deep vein thrombosis (DVT).&lt;/li&gt;
+                    &lt;li&gt;A DVT is a medical emergency and you should see a doctor immediately.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is calf pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What are the symptoms of calf strain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes calf pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treatment&quot;&gt;How is calf pain treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevention&quot;&gt;Can calf pain be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is calf pain?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Calf pain is pain in the calf muscle which is at the back part of the lower leg. The calf is made up of 2 muscles called the gastrocnemius and the soleus. They meet at the &lt;a href&#x3D;&quot;/achilles-tendon&quot;&gt;Achilles tendon&lt;/a&gt; which attaches to the heel bone.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the symptoms of calf strain?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a calf strain you may experience symptoms such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;sudden pain at the back of your leg&lt;/li&gt;
+                    &lt;li&gt;your calf is stiff and weak when you walk&lt;/li&gt;
+                    &lt;li&gt;you find it hard to rise up onto your toes&lt;/li&gt;
+                    &lt;li&gt;swelling or bruising in the calf muscle&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Calf strain is categorised into grades:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;Mild&lt;/strong&gt; — sharp pain (during or after activity).&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Moderate&lt;/strong&gt; — pain that means you can’t continue regular activity.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Severe&lt;/strong&gt; — severe pain between your Achilles tendon and the middle of the muscle.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Sometimes calf pain can be a symptom of something more serious that needs urgent medical attention.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes calf pain?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Common causes of calf pain are a cramp or muscle strain in the calf.&lt;/p&gt;&lt;p&gt;A cramp is when the muscles suddenly tightens causing pain. This might happen if you have been doing new exercises, if you are &lt;a href&#x3D;&quot;/dehydration&quot;&gt;dehydrated&lt;/a&gt;, or if you are deficient in some &lt;a href&#x3D;&quot;/vitamins-and-minerals-explained&quot;&gt;dietary minerals&lt;/a&gt;. Cramps normally go away by themselves.&lt;/p&gt;&lt;p&gt;Sometimes cramps can be a symptom of an underlying medical issue. If you have regular or severe cramping that lasts longer than a few minutes you should speak with your doctor.&lt;/p&gt;&lt;p&gt;A calf strain is the overstretching or tearing of either of the 2 calf muscles.&lt;/p&gt;&lt;p&gt;Other possible causes of calf pain include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/achilles-tendon&quot;&gt;Achilles tendon&lt;/a&gt; injuries such as Achilles &lt;a href&#x3D;&quot;/tendinopathy&quot;&gt;tendinopathy&lt;/a&gt; or a sudden rupture of your Achilles tendon&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/sciatica&quot;&gt;sciatica&lt;/a&gt; — when you have problems with the sciatic nerve which controls your lower leg&lt;/li&gt;
+                    &lt;li&gt;a &lt;a href&#x3D;&quot;/bumps-knocks-and-bruises&quot;&gt;bruise&lt;/a&gt; due to injury&lt;/li&gt;
+                    &lt;li&gt;diabetic &lt;a href&#x3D;&quot;/peripheral-neuropathy&quot;&gt;peripheral neuropathy&lt;/a&gt; — when you have nerve damage that affects your feet, legs, arms and hand&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/deep-vein-thrombosis&quot;&gt;deep vein thrombosis (DVT)&lt;/a&gt; — when a blood clot forms in the deep veins most commonly in the leg (this is a medical emergency, see your doctor immediately if you think you might have DVT)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/compartment-syndrome&quot;&gt;compartment syndrome&lt;/a&gt; — a serious condition caused by trauma to the muscle&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Seek medical attention straight away if you have the symptoms of DVT and you have recently been sitting for a long time, such as on a flight. These include if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;your calf is swollen&lt;/li&gt;
+                    &lt;li&gt;your leg is painful&lt;/li&gt;
+                    &lt;li&gt;the skin of the calf is red&lt;/li&gt;
+                    &lt;li&gt;your calf feels tender&lt;/li&gt;
+                    &lt;/ul&gt;&lt;strong&gt;See you doctor immediately if you have signs of a deep vein thrombosis (your leg is red or swollen). Call triple zero (000) and ask for an ambulance if you have chest pain, trouble breathing or symptoms of stroke or heart attack.&lt;/strong&gt;&lt;p&gt;Make an appointment with your doctor if&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;
+                    &lt;p&gt;you have &lt;a href&#x3D;&quot;/fluid-retention&quot;&gt;fluid retention&lt;/a&gt;&lt;/p&gt;
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                    &lt;p&gt;your calf is unusually cool or pale, or alternately red, warm and tender&lt;/p&gt;
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                    &lt;p&gt;your leg is weak, tingly or numb&lt;/p&gt;
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                    &lt;p&gt;both legs are swollen and you have breathing problems&lt;/p&gt;
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                    &lt;p&gt;your calf pain:&lt;/p&gt;
+                    &lt;ul&gt;
+                    &lt;li&gt;involves regular or severe leg cramps&lt;/li&gt;
+                    &lt;li&gt;is associated with &lt;a href&#x3D;&quot;/varicose-veins&quot;&gt;varicose veins&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;get worse during or after walking&lt;/li&gt;
+                    &lt;li&gt;gets worse or doesn&#x27;t improve after a couple of days of being treated at home&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is calf pain treated?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a muscle cramp, gently stretch or &lt;a href&#x3D;&quot;/sports-massage&quot;&gt;massage&lt;/a&gt; the muscle. A cramp will usually pass on its own. If you are getting regular cramps or they last longer than a few minutes make an appointment to see your doctor.&lt;/p&gt;&lt;p&gt;If you have a calf strain or Achilles tendonitis, first use the ‘RICER’ method of treatment:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;Rest&lt;/strong&gt; the area.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Ice&lt;/strong&gt; the area for 20 minutes, using a covered icepack or bag of frozen peas.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Compress&lt;/strong&gt; the area with a bandage (but if the pain gets worse, loosen the bandage).&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Elevate&lt;/strong&gt; the lower leg by sitting or lying down (for example with pillows), so it is above the level of the heart.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Referral&lt;/strong&gt; to a sports medicine professional.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;The &lt;strong&gt;No HARM&lt;/strong&gt; method should also be followed to lower any bleeding or swelling:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;no &lt;strong&gt;h&lt;/strong&gt;eat&lt;/li&gt;
+                    &lt;li&gt;no &lt;strong&gt;a&lt;/strong&gt;lcohol&lt;/li&gt;
+                    &lt;li&gt;no &lt;strong&gt;r&lt;/strong&gt;unning or activity&lt;/li&gt;
+                    &lt;li&gt;no &lt;strong&gt;m&lt;/strong&gt;assage&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Once the pain goes down you can start gently stretching and strengthening the muscle, for example by doing heel raises and calf stretches.&lt;/p&gt;&lt;p&gt;Don&#x27;t return to full physical activity until you can move your ankle and knee properly, the pain and tenderness have gone and the strength has fully returned to your calf. Depending on the grade of calf sprain, speak with a medical professional before returning to your regular activity. Typically, you will be able to return to your usual physical activity after:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;10 to 12 days rest with &lt;strong&gt;mild&lt;/strong&gt; calf strain&lt;/li&gt;
+                    &lt;li&gt;16 to 21 days rest with &lt;strong&gt;moderate&lt;/strong&gt; calf strain&lt;/li&gt;
+                    &lt;li&gt;up to 6 months rest, if you have surgery, for example, for Achilles tendon injury&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can calf pain be prevented?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You can prevent calf pain and injuries by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;always stretching before and after you exercise to repair and strengthen the calf&lt;/li&gt;
+                    &lt;li&gt;not over-exercising and building up gradually if you are starting something new&lt;/li&gt;
+                    &lt;li&gt;wearing correct protective equipment and shoes&lt;/li&gt;
+                    &lt;li&gt;drinking plenty of water during and after physical activity&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Some people take magnesium supplements ​to prevent cramps, although the evidence is not conclusive. If you have &lt;a href&#x3D;&quot;/diabetes&quot;&gt;diabetes&lt;/a&gt;, keep your blood sugar levels under control to prevent &lt;a href&#x3D;&quot;/diabetic-neuropathy&quot;&gt;diabetic neuropathy&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have calf pain that is ongoing or you have a calf injury that does not resolve by itself, speak with your doctor.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.&lt;/p&gt;&lt;p&gt;&lt;a href&#x3D;&quot;https://sma.org.au/resources/injury-fact-sheets/gastrocnemius-calf-strain/&quot;&gt;Sports Medicine Australia&lt;/a&gt; offers advice on risks, prevention and rehabilitation of calf strains.&lt;/p&gt;&lt;p&gt;Diabetes Australia has information on &lt;a href&#x3D;&quot;https://www.diabetesaustralia.com.au/blog/peripheral-neuropathy-2/&quot;&gt;prevention of diabetic neuropathy&lt;/a&gt;.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;The Australian and New Zealand Society for Vascular Surgery &lt;em&gt;&lt;a href&#x3D;&quot;https://anzsvs.org.au/patient-information/deep-venous-thrombosis/&quot; title&#x3D;&quot;Deep Venous Thrombosis&quot;&gt;(Deep Venous Thrombosis)&lt;/a&gt;&lt;/em&gt;, Sports Medicine Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://sma.org.au/resources/injury-fact-sheets/gastrocnemius-calf-strain/&quot; title&#x3D;&quot;Gastrocnemius (calf) strain&quot;&gt;(Gastrocnemius (calf) strain)&lt;/a&gt;&lt;/em&gt;, QLD Government &lt;em&gt;&lt;a href&#x3D;&quot;https://www.qld.gov.au/health/condition/bone-joint-and-muscle-health/muscle-and-tendon-problems/muscle-cramp&quot; title&#x3D;&quot;Muscle cramp&quot;&gt;(Muscle cramp)&lt;/a&gt;&lt;/em&gt;, Sports Medicine Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://sma.org.au/resources/injury-fact-sheets/achilles-tendon-injuries/&quot; title&#x3D;&quot;Achilles tendon injuries&quot;&gt;(Achilles tendon injuries)&lt;/a&gt;&lt;/em&gt;, SA Health &lt;em&gt;&lt;a href&#x3D;&quot;https://www.sahealth.sa.gov.au/wps/wcm/connect/07edec8049e4dbbfb409fe3a89b74631/ManagingSciatica-RAH-AlliedHealth-20220301.pdf&quot; title&#x3D;&quot;Advice for managing sciatica&quot;&gt;(Advice for managing sciatica)&lt;/a&gt;&lt;/em&gt;, Diabetes Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://www.diabetesaustralia.com.au/blog/peripheral-neuropathy-2/&quot; title&#x3D;&quot;Pain, numbness, burning? It could be peripheral neuropathy&quot;&gt;(Pain, numbness, burning? It could be peripheral neuropathy)&lt;/a&gt;&lt;/em&gt;, Department of Health, Victoria &lt;em&gt;&lt;a href&#x3D;&quot;http://m.health.vic.gov.au/intern/Compartment%20syndrome.html&quot; title&#x3D;&quot;Compartment syndrome&quot;&gt;(Compartment syndrome)&lt;/a&gt;&lt;/em&gt;, Cochrane Library &lt;em&gt;&lt;a href&#x3D;&quot;https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009402.pub3/full&quot; title&#x3D;&quot;Magnesium for skeletal muscle cramps&quot;&gt;(Magnesium for skeletal muscle cramps)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: November 2023&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/healthyliving/growing-pains&quot;&gt;Growing pains | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Growing pains may cause a lot of pain but they are harmless and can respond to simple treatments.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/healthyliving/growing-pains" linkText="Read more on Better Health Channel website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/sports-fitness/heel-pain/&quot;&gt;Heel pain - plantar fasciitis - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Heel pain is most commonly caused by plantar fasciitis, a chronic overuse injury of the thick band of tissue on the sole of the foot, known as the plantar fascia.&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/sports-fitness/heel-pain/" linkText="Read more on myDoctor website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/skin-hair/leg-ache/&quot;&gt;Leg ache - causes and symptoms - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Leg ache or leg pain is a symptom with many possible causes, that may involve muscles, nerves or blood vessels.&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/skin-hair/leg-ache/" linkText="Read more on myDoctor website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://raisingchildren.net.au/guides/a-z-health-reference/growing-pains&quot;&gt;Growing pains in children and teenagers | Raising Children Network&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Growing pains in children are common and usually nothing to worry about. See a GP if you think your child’s discomfort is more serious than growing pains.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://raisingchildren.net.au/guides/a-z-health-reference/growing-pains" linkText="Read more on raisingchildren.net.au website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/raising-children_logo-f6777f.png" imageAlt="raisingchildren.net.au"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://painhealth.com.au/&quot;&gt;painHEALTH&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;painHEALTH‘s aim is to help health consumers with musculoskeletal pain access reliable, evidence-based information and tips to assist in the co-management of musculoskeletal pain.&lt;/p&gt;"/>
+        <button_8 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://painhealth.com.au/" linkText="Read more on Partner Organisation website"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/painhealth-logo.png" imageAlt="Partner Organisation"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://youngpainhealth.com.au/&quot;&gt;youngpainhealth&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;youngpainhealth is a contemporary digital platform, co-designed in partnership with young Australian people and clinical experts to support young people in their musculoskeletal pain care and to help improve their life quality.&lt;/p&gt;"/>
+        <button_9 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://youngpainhealth.com.au/" linkText="Read more on Partner Organisation website"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/youngpainhealth_logo-5ceff7.png" imageAlt="Partner Organisation"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.pregnancybirthbaby.org.au/growing-pains-in-children&quot;&gt;Growing pains in children&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Growing pains are common in children and cause aching legs, often at night. Find out how to ease these pains and when to see a doctor.&lt;/p&gt;"/>
+        <button_10 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.pregnancybirthbaby.org.au/growing-pains-in-children" linkText="Read more on Pregnancy,Birth & Baby website"/>
+        <image_6 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/PBB_logo.png" imageAlt="Pregnancy,Birth &amp; Baby"/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_7 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Calf pain - causes, treatment and prevention | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Calf pain is often caused by muscle strain or cramps due to exercise, dehydration or mineral deficiency. But it can signal something more serious.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_8 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_19 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Calf pain&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

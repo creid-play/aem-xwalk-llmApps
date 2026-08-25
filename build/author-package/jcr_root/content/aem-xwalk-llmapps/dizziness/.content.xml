@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Dizziness" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;6-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Dizziness can describe a range of feelings, such as being unsteady, woozy, weak or faint.&lt;/li&gt;
+                    &lt;li&gt;You can manage dizziness by resting well and drinking enough water.&lt;/li&gt;
+                    &lt;li&gt;Dizziness can be caused by many different things, including heart problems.&lt;/li&gt;
+                    &lt;li&gt;If you have other symptoms while feeling dizzy, such as numbness and pain, get medical help.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is dizziness?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What are the symptoms of dizziness?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes dizziness?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is dizziness diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is dizziness treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can dizziness be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;Complications of dizziness&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is dizziness?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dizziness is a term that can be used to describe a range of feelings, such as feeling:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;unsteady&lt;/li&gt;
+                    &lt;li&gt;woozy&lt;/li&gt;
+                    &lt;li&gt;weak&lt;/li&gt;
+                    &lt;li&gt;faint&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Most people have felt dizzy from time to time. It is rarely a sign of a serious problem. There are ways to relieve dizziness.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the symptoms of dizziness?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you are feeling dizzy, or experiencing a ‘dizzy spell’, you may feel:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/lightheadedness&quot;&gt;lightheaded&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;unsteady&lt;/li&gt;
+                    &lt;li&gt;unbalanced&lt;/li&gt;
+                    &lt;li&gt;weak&lt;/li&gt;
+                    &lt;li&gt;like you’re going to &lt;a href&#x3D;&quot;/fainting&quot;&gt;faint&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Dizziness that feels like the world is spinning or moving is called &lt;a href&#x3D;&quot;/vertigo&quot;&gt;vertigo&lt;/a&gt;.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes dizziness?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dizziness is common in adults, and is rarely a sign of a serious condition. Dizziness has many possible causes, including:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/low-blood-pressure-hypotension&quot;&gt;low blood pressure&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/migraine&quot;&gt;migraine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/stress&quot;&gt;stress&lt;/a&gt; or &lt;a href&#x3D;&quot;/anxiety&quot;&gt;anxiety&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/hypoglycaemia-low-blood-sugar&quot;&gt;low blood sugar&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/dehydration&quot;&gt;dehydration&lt;/a&gt; or heat exhaustion&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/motion-sickness&quot;&gt;motion or travel sickness&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/anaemia&quot;&gt;anaemia&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Dizziness can also be caused by conditions such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;brain and nerve-related disorders&lt;/li&gt;
+                    &lt;li&gt;conditions that affect your ears, such as &lt;a href&#x3D;&quot;/menieres-disease&quot;&gt;Meniere’s disease&lt;/a&gt; and &lt;a href&#x3D;&quot;/labyrinthitis&quot;&gt;labyrinthitis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;problems with your eyes&lt;/li&gt;
+                    &lt;li&gt;problems with your heart&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Some medicines and &lt;a href&#x3D;&quot;/how-alcohol-affects-your-health&quot;&gt;alcohol&lt;/a&gt; can also make you feel dizzy.&lt;/p&gt;&lt;p&gt;Feeling dizzy and faint can also happen when blood flow to your brain is reduced. This can happen when you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;are &lt;a href&#x3D;&quot;/dehydration&quot;&gt;dehydrated&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;have high levels of pain&lt;/li&gt;
+                    &lt;li&gt;stand up and have a fall in &lt;a href&#x3D;&quot;/low-blood-pressure-hypotension&quot;&gt;blood pressure&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;look at things you find unpleasant, such as the sight of blood&lt;/li&gt;
+                    &lt;li&gt;stand up for long periods of time&lt;/li&gt;
+                    &lt;li&gt;strain on the toilet&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You should seek immediate medical attention if you feel dizzy and also have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;pain, pressure, heaviness or tightness in the chest, shoulders, neck, arms, jaw, or back&lt;/li&gt;
+                    &lt;li&gt;nausea or cold sweats&lt;/li&gt;
+                    &lt;li&gt;shortness of breath&lt;/li&gt;
+                    &lt;li&gt;numbness or weakness in your face, arm or leg&lt;/li&gt;
+                    &lt;li&gt;trouble talking, &lt;a href&#x3D;&quot;/confusion&quot;&gt;understanding&lt;/a&gt; or swallowing&lt;/li&gt;
+                    &lt;li&gt;vision changes in one or both eyes&lt;/li&gt;
+                    &lt;li&gt;confusion or &lt;a href&#x3D;&quot;/fainting&quot;&gt;become unconscious&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;strong&gt;Call triple zero (000) for an ambulance if you have any of the above symptoms.&lt;/strong&gt;&lt;p&gt;See your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you have an unexplained fall&lt;/li&gt;
+                    &lt;li&gt;you are worried by your dizziness&lt;/li&gt;
+                    &lt;li&gt;your dizziness is sudden, severe, or keeps happening&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is dizziness diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor will examine you. They will ask you about your symptoms and any medicines you are taking. If needed, they can refer you for tests.&lt;/p&gt;&lt;p&gt;They can also refer you to a specialist if needed, such as a:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/neurologist&quot;&gt;neurologist&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/physiotherapy&quot;&gt;physiotherapist&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is dizziness treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dizziness often gets better without treatment. If you need treatment, it will depend on what is causing your dizziness.&lt;/p&gt;&lt;p&gt;Even if a cause can’t be found, there are ways to treat dizziness, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;medicines&lt;/li&gt;
+                    &lt;li&gt;balance exercises&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Managing dizziness&lt;/h3&gt;&lt;p&gt;If you are feeling dizzy or light-headed, there are some ways to help manage your symptoms.&lt;/p&gt;&lt;p&gt;When you feel dizzy, stop what you are doing and sit down until it passes. You can also lie down flat.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can dizziness be prevented?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Preventing dizziness often depends on the cause of your dizziness. However, there are some things you can try:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Make sure to &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;drink enough water&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;Rest as much as possible.&lt;/li&gt;
+                    &lt;li&gt;Change positions slowly, especially when you are standing up after lying down. Try to sit for a couple of minutes before standing up.&lt;/li&gt;
+                    &lt;li&gt;Avoid sudden, fast movements of the head, such as looking up or around too quickly.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Complications of dizziness" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you feel dizzy or faint, you are at risk of falling and injuring yourself. You can:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;hold onto the railing when going up and down stairs&lt;/li&gt;
+                    &lt;li&gt;consider using a walking aid&lt;/li&gt;
+                    &lt;li&gt;avoid driving or operating dangerous equipment or machinery while you feel dizzy to protect yourself and others&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You can call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;SA Health &lt;em&gt;&lt;a href&#x3D;&quot;https://www.sahealth.sa.gov.au/wps/wcm/connect/6ce18b8047c0d4f3bcd3fe7c69742d6b/20026.4-4+Falls-FS4-Dizziness+and+Balance-V1.pdf?MOD&#x3D;AJPERES&amp;#x26;CACHEID&#x3D;ROOTWORKSPACE-6ce18b8047c0d4f3bcd3fe7c69742d6b-nwKv6VV&quot; title&#x3D;&quot;Dizziness and balance&quot;&gt;(Dizziness and balance)&lt;/a&gt;&lt;/em&gt;, St John Ambulance &lt;em&gt;&lt;a href&#x3D;&quot;https://stjohn.org.au/assets/uploads/fact%20sheets/english/Fact%20sheets_vertigo.pdf&quot; title&#x3D;&quot;Vertigo&quot;&gt;(Vertigo)&lt;/a&gt;&lt;/em&gt;, Multiple Sclerosis &lt;em&gt;&lt;a href&#x3D;&quot;https://www.msaustralia.org.au/symptom/dizziness-and-vertigo/&quot; title&#x3D;&quot;Dizziness and Vertigo&quot;&gt;(Dizziness and Vertigo)&lt;/a&gt;&lt;/em&gt;, Royal Victorian Eye &amp;#x26; Ear Hospital &lt;em&gt;&lt;a href&#x3D;&quot;https://eyeandear.org.au/patients-visitors/fact-sheets/dizziness-and-balance-disorders/&quot; title&#x3D;&quot;Dizziness and balance disorders&quot;&gt;(Dizziness and balance disorders)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: November 2023&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://synapse.org.au/fact-sheet/balance-problems-and-dizziness-after-a-brain-injury/&quot;&gt;Balance problems and dizziness | Fact sheet | Synapse&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dizziness and balance problems are common after a brain injury. This can result in problems with movement even when there is no loss of function in the limbs themselves.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://synapse.org.au/fact-sheet/balance-problems-and-dizziness-after-a-brain-injury/" linkText="Read more on Synapse website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/synapse_logo-affee7-b581d07c-6d19-4c90-88a2-bf06c490e671.png" imageAlt="Synapse"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.sahealth.sa.gov.au/wps/wcm/connect/public%20content/sa%20health%20internet/resources/dizziness%20and%20balance%20sa%20falls%20and%20fall%20injury%20prevention%20-%20fact%20sheet%204&quot;&gt;Dizziness and balance: SA Falls and Fall Injury Prevention - Fact Sheet 4 | SA Health&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Describes how dizziness is related to falls, and provides general advice, whom to ask and when to seek urgent medical attention&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.sahealth.sa.gov.au/wps/wcm/connect/public%20content/sa%20health%20internet/resources/dizziness%20and%20balance%20sa%20falls%20and%20fall%20injury%20prevention%20-%20fact%20sheet%204" linkText="Read more on SA Health website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/SA-Health_logo.png" imageAlt="SA Health"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/dizziness-and-vertigo&quot;&gt;Dizziness, vertigo and balance disorders | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dizziness is generally treatable and rarely indicates serious brain disease.&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/dizziness-and-vertigo" linkText="Read more on Better Health Channel website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dizziness-orthostatic-hypotension&quot;&gt;Dizziness - orthostatic hypotension | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Postural hypotension is the lightheaded feeling you may get if you leap out of bed very quickly.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dizziness-orthostatic-hypotension" linkText="Read more on Better Health Channel website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://stjohn.org.au/fact-sheet/vertigo-dizziness/&quot;&gt;Vertigo (dizziness) – St John Australia&lt;/a&gt;&lt;/h4&gt;"/>
+        <button_8 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://stjohn.org.au/fact-sheet/vertigo-dizziness/" linkText="Read more on St John Ambulance Australia website"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/stjohn_logo_standard_vertical_primary_rgb-ae7dc8.png" imageAlt="St John Ambulance Australia"/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Dizziness - symptoms, treatments and causes | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Being dizzy can make you feel light-headed, unsteady or weak. Read about the causes and symptoms of dizziness, and how to manage symptoms.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_6 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_19 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Dizziness&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

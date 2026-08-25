@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Blocked nose" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;7-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;A blocked nose is when your nose feels congested or stuffy — it might be worse at night.&lt;/li&gt;
+                    &lt;li&gt;It can happen because you have a virus or allergy that causes more mucus in your nose or a condition that narrows your nasal passages.&lt;/li&gt;
+                    &lt;li&gt;If you have a virus, your blocked nose at night should get better on its own.&lt;/li&gt;
+                    &lt;li&gt;If your blocked nose symptoms don&#x27;t get better, ask your pharmacist or doctor which medicines can help.&lt;/li&gt;
+                    &lt;li&gt;See your doctor if you get a blocked nose often, have trouble breathing or if your blocked nose isn&#x27;t getting better.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is a blocked nose?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to a blocked nose?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes a blocked nose?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of a blocked nose diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is a blocked nose treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;What are the complications of a blocked nose?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can a blocked nose be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is a blocked nose?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your nose is part of your upper &lt;a href&#x3D;&quot;/respiratory-system&quot;&gt;respiratory system&lt;/a&gt;. A blocked nose is when your nose feels congested or stuffy. Your nose might have a lot of mucus (snot) or your nasal (nose) passages may be narrow.&lt;/p&gt;&lt;p&gt;Nasal congestion often feels worse at night. You might find it hard to breathe through your nose.&lt;/p&gt;&lt;p&gt;A blocked nose can last for a short or a long time depending on the cause. It&#x27;s very common.&lt;/p&gt;"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/blocked-nose-14d472.jpg" imageAlt="Illustration showing the nasal passage."/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Illustration of the nasal passage.&lt;/p&gt;&lt;p&gt;This page is for anyone who has a blocked nose or gets a blocked nose regularly.&lt;/p&gt;&lt;p&gt;Visit the &lt;a href&#x3D;&quot;https://www.pregnancybirthbaby.org.au/&quot;&gt;Pregnancy, Birth and Baby&lt;/a&gt; site to read about &lt;a href&#x3D;&quot;https://www.pregnancybirthbaby.org.au/runny-or-blocked-nose-in-babies&quot;&gt;runny or blocked nose in babies&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to a blocked nose?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;As well as a blocked nose, you may have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a &lt;a href&#x3D;&quot;/runny-nose&quot;&gt;runny nose&lt;/a&gt; from one or both nostrils&lt;/li&gt;
+                    &lt;li&gt;face pain&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt; (high temperature above 38°C)&lt;/li&gt;
+                    &lt;li&gt;a changed sense of smell or taste&lt;/li&gt;
+                    &lt;li&gt;difficulty sleeping at night, and daytime sleepiness&lt;/li&gt;
+                    &lt;li&gt;sneezing and itching of your nose&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthdirect.gov.au/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes a blocked nose?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;A blocked nose can be caused by increased mucus or structural conditions.&lt;/p&gt;&lt;p&gt;Here are some conditions that involve increased production of mucus.&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/hay-fever&quot;&gt;Allergic rhinitis&lt;/a&gt; — inflamed or runny nose caused by an allergen or hay fever.&lt;/li&gt;
+                    &lt;li&gt;Non-allergic rhinitis — caused by a viral infection, such as a &lt;a href&#x3D;&quot;/colds&quot;&gt;cold&lt;/a&gt;, the &lt;a href&#x3D;&quot;/flu&quot;&gt;flu&lt;/a&gt;, &lt;a href&#x3D;&quot;/covid-19&quot;&gt;COVID-19&lt;/a&gt;, &lt;a href&#x3D;&quot;/human-parainfluenza-viruses-hpivs&quot;&gt;parainfluenza virus&lt;/a&gt; or &lt;a href&#x3D;&quot;/human-metapneumovirus-hmpv&quot;&gt;human metapneumovirus&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/sinusitis&quot;&gt;Sinusitis&lt;/a&gt; — inflammation in your sinuses.&lt;/li&gt;
+                    &lt;li&gt;Inhalation (breathing in) of wood dust or chemical irritants.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Here are some causes related to the structure of your nose:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;nasal &lt;a href&#x3D;&quot;/polyps&quot;&gt;polyps&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;large adenoids&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/deviated-septum&quot;&gt;deviated septum&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;inferior turbinate hypertrophy&lt;/li&gt;
+                    &lt;li&gt;a tumour — these can be &lt;a href&#x3D;&quot;/benign-tumours&quot;&gt;benign&lt;/a&gt; (not cancer) or malignant (&lt;a href&#x3D;&quot;/cancer&quot;&gt;cancer&lt;/a&gt;)&lt;/li&gt;
+                    &lt;li&gt;previous surgery&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Some prescription and &lt;a href&#x3D;&quot;/over-the-counter-medicines&quot;&gt;over-the-counter (OTC) medicines&lt;/a&gt; can also give you a blocked or dry nose.&lt;/p&gt;&lt;p&gt;If you use decongestants for longer than a few days, it can make a blocked nose worse when you stop.&lt;/p&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of a blocked nose diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor or pharmacist will ask about your symptoms. They might examine you and ask about your medical history.&lt;/p&gt;&lt;p&gt;They might ask if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;the symptoms come and go during the day or night or at certain times of the year&lt;/li&gt;
+                    &lt;li&gt;one or both nostrils are involved&lt;/li&gt;
+                    &lt;li&gt;you have noticed any triggers, such as exposure to pollen, smoke or animals&lt;/li&gt;
+                    &lt;li&gt;you or other family members have allergies, hay fever or asthma&lt;/li&gt;
+                    &lt;li&gt;you have any face or ear pain&lt;/li&gt;
+                    &lt;li&gt;you have ever had surgery on your nose&lt;/li&gt;
+                    &lt;li&gt;you take any medicines, smoke or drink alcohol&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Your doctor might use instruments to look inside your nose, ears and throat.&lt;/p&gt;&lt;p&gt;If they think you have a virus or see pus coming from your nose, a swab can be sent for testing.&lt;/p&gt;&lt;p&gt;If they think you have an allergy, you might need a &lt;a href&#x3D;&quot;/allergy-testing&quot;&gt;blood or skin prick test&lt;/a&gt; to find out more.&lt;/p&gt;&lt;p&gt;If your doctor can&#x27;t find the cause of your blocked nose, they might suggest imaging of your sinuses.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthdirect.gov.au/question-builder" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;See your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you have difficulty breathing&lt;/li&gt;
+                    &lt;li&gt;you have signs of infection, such as a fever, thick green or yellow mucus or severe pain&lt;/li&gt;
+                    &lt;li&gt;you have a runny nose on one side that is not getting better&lt;/li&gt;
+                    &lt;li&gt;you have ongoing changes to your sense of smell or taste&lt;/li&gt;
+                    &lt;li&gt;your blocked nose is impacting your sleep&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;When to seek urgent care for a blocked nose&lt;/h3&gt;&lt;strong&gt;A blocked nose caused by a button battery or something that can swell up — such as a bean — is a medical emergency. You should go straight to the emergency department or call triple zero (000) for an ambulance.&lt;/strong&gt;&lt;p&gt;Go to the emergency department if you have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;changes to your vision (ability to see)&lt;/li&gt;
+                    &lt;li&gt;swelling of the front of your nose&lt;/li&gt;
+                    &lt;li&gt;a severe &lt;a href&#x3D;&quot;/headaches&quot;&gt;headache&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/objects-in-nose&quot;&gt;object in your nose&lt;/a&gt;, such as a battery or insect&lt;/li&gt;
+                    &lt;li&gt;swollen red or painful eyes&lt;/li&gt;
+                    &lt;li&gt;a &lt;a href&#x3D;&quot;/nosebleed&quot;&gt;nosebleed&lt;/a&gt; that does not stop&lt;/li&gt;
+                    &lt;li&gt;an injury to your nose&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthdirect.gov.au/australian-health-services" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is a blocked nose treated?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Treatment depends on the cause of your blocked nose. Often, medicines will help. If the cause is related to the structure of your nose, surgery might be the best option.&lt;/p&gt;&lt;p&gt;Read about how to treat a &lt;a href&#x3D;&quot;https://www.pregnancybirthbaby.org.au/runny-or-blocked-nose-in-babies&quot;&gt;runny or blocked nose in infants&lt;/a&gt; and &lt;a href&#x3D;&quot;/coughs-and-colds-in-children&quot;&gt;children&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Self-care at home&lt;/h3&gt;&lt;p&gt;If your blocked nose is caused by a cold or the flu, it should get better after a few days. Here are some remedies for a blocked nose:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;saline drops&lt;/li&gt;
+                    &lt;li&gt;nasal sprays that contain eucalyptus&lt;/li&gt;
+                    &lt;li&gt;lozenges that contain menthol&lt;/li&gt;
+                    &lt;li&gt;steam or vapour treatments&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;While you are sick, try to:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;drink plenty of fluids&lt;/li&gt;
+                    &lt;li&gt;rest at home&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Medicines for a blocked nose&lt;/h3&gt;&lt;p&gt;If your blocked nose is caused by allergic rhinitis, your doctor or pharmacist might suggest:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a steroid nasal spray&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/antihistamines&quot;&gt;antihistamine&lt;/a&gt; tablets or nasal spray&lt;/li&gt;
+                    &lt;li&gt;using a nasal douche (nasal wash)&lt;/li&gt;
+                    &lt;li&gt;a saline nasal spray&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Steroid nasal sprays and saline rinses are also used for sinusitis. Check with your healthcare professional on how to use your nasal spray or nasal rinse.&lt;/p&gt;&lt;p&gt;If you have a sinus infection, your doctor may prescribe a course of &lt;a href&#x3D;&quot;/antibiotics&quot;&gt;antibiotics&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;If you have nasal polyps, you might need to take a short course of oral steroid tablets.&lt;/p&gt;&lt;h3&gt;Other treatment options&lt;/h3&gt;&lt;p&gt;You might be referred to a specialist ear nose and throat (ENT) surgeon for:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/surgery/turbinectomy&quot;&gt;turbinectomy&lt;/a&gt; (surgery to reduce the size of your turbinate bones)&lt;/li&gt;
+                    &lt;li&gt;sinus surgery&lt;/li&gt;
+                    &lt;li&gt;polypectomy (surgery to remove nasal polyps)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/surgery/septoplasty&quot;&gt;septoplasty&lt;/a&gt; (a procedure to straighten your septum)&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the complications of a blocked nose?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a blocked nose that is not getting better, it could be related to chronic (ongoing) rhinosinusitis. People with a blocked nose for a long time may be more likely to get a middle ear infection.&lt;/p&gt;&lt;p&gt;If your blocked nose is worse at night, your doctor might need to consider &lt;a href&#x3D;&quot;/obstructive-sleep-apnoea&quot;&gt;sleep apnoea&lt;/a&gt; or other &lt;a href&#x3D;&quot;/sleep-disorders&quot;&gt;sleep disorders&lt;/a&gt;. Some other symptoms of obstructive sleep apnoea are:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;heartburn at night&lt;/li&gt;
+                    &lt;li&gt;dry mouth&lt;/li&gt;
+                    &lt;li&gt;getting up at night to urinate (wee)&lt;/li&gt;
+                    &lt;li&gt;waking up with a headache&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can a blocked nose be prevented?" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have allergic rhinitis, you can find out what triggers your allergy and try to avoid it.&lt;/p&gt;&lt;p&gt;Follow all instructions on your medicines. Talk to your doctor if you have questions or notice any side effects.&lt;/p&gt;&lt;p&gt;You can help prevent cold and flu infections by washing your hands and following good &lt;a href&#x3D;&quot;/personal-hygiene&quot;&gt;hygiene&lt;/a&gt;. Some infections can be prevented through &lt;a href&#x3D;&quot;/immunisation-and-vaccinations&quot;&gt;vaccination&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Learn more about &lt;a href&#x3D;&quot;/colds-and-flu&quot;&gt;colds and flu&lt;/a&gt; and other &lt;a href&#x3D;&quot;https://www.health.nsw.gov.au/Infectious/factsheets/Pages/respiratory-viruses.aspx&quot;&gt;respiratory viruses&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Ask your &lt;a href&#x3D;&quot;/getting-the-most-out-of-your-pharmacist&quot;&gt;pharmacist&lt;/a&gt; how to manage your blocked nose symptoms at home.&lt;/p&gt;&lt;p&gt;&lt;a href&#x3D;&quot;https://www.allergyfacts.org.au/&quot;&gt;Allergy &amp;#x26; Anaphylaxis Australia&lt;/a&gt; provide advice for people living with allergies. Call them on &lt;a href&#x3D;&quot;tel:1300728000&quot;&gt;1300 728 000&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Find out more about allergy testing at the &lt;a href&#x3D;&quot;https://www.allergy.org.au/patients&quot;&gt;Australasian Society of Clinical Immunology and Allergy (ASCIA) website&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Download the &lt;a href&#x3D;&quot;https://airrater.org/&quot;&gt;AirRater app&lt;/a&gt; to track your hay fever symptoms and monitor allergens in the environment.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Scientific Reports &lt;em&gt;&lt;a href&#x3D;&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC11399112/&quot; title&#x3D;&quot;Relationship between chronic rhinosinusitis and risk of obstructive sleep apnea&quot;&gt;(Relationship between chronic rhinosinusitis and risk of obstructive sleep apnea)&lt;/a&gt;&lt;/em&gt;, Australian Family Physician &lt;em&gt;&lt;a href&#x3D;&quot;https://www.racgp.org.au/afp/2017/july/clinical-assessment-diagnosis-and-management-of-na&quot; title&#x3D;&quot;Clinical assessment, diagnosis and management of nasal obstruction&quot;&gt;(Clinical assessment, diagnosis and management of nasal obstruction)&lt;/a&gt;&lt;/em&gt;, Ear, Nose and Throat Journal, Sage &lt;em&gt;&lt;a href&#x3D;&quot;https://journals.sagepub.com/doi/pdf/10.1177/01455613221141214&quot; title&#x3D;&quot;Drug-Induced Rhinitis: Narrative Review&quot;&gt;(Drug-Induced Rhinitis: Narrative Review)&lt;/a&gt;&lt;/em&gt;, SA Health &lt;em&gt;&lt;a href&#x3D;&quot;https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/outpatients/cpc/specialities/ent/allergic+rhinitis+and+or+rhinorrhoea+nasal+congestion+paediatric+cpc&quot; title&#x3D;&quot;Allergic Rhinitis and\/or Rhinorrhoea (Nasal Congestion) - Paediatric CPC&quot;&gt;(Allergic Rhinitis and\/or Rhinorrhoea (Nasal Congestion) - Paediatric CPC)&lt;/a&gt;&lt;/em&gt;, Therapeutic Guidelines &lt;em&gt;&lt;a href&#x3D;&quot;https://tgldcdp.tg.org.au/viewTopic?etgAccess&#x3D;true&amp;#x26;guidelinePage&#x3D;Respiratory&amp;#x26;topicfile&#x3D;allergic-rhinitis&amp;#x26;guidelinename&#x3D;Respiratory&amp;#x26;sectionId&#x3D;toc_d1e806#toc_d1e806&quot; title&#x3D;&quot;Allergic rhinitis&quot;&gt;(Allergic rhinitis)&lt;/a&gt;&lt;/em&gt;, BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-gb/215/pdf/215/Obstructive%20sleep%20apnoea%20in%20adults.pdf&quot; title&#x3D;&quot;Obstructive sleep apnoea in adults&quot;&gt;(Obstructive sleep apnoea in adults)&lt;/a&gt;&lt;/em&gt;, Allergy &amp;#x26; Anaphylaxis Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://allergyfacts.org.au/__interest/sinusitis&quot; title&#x3D;&quot;Chronic rhinosinusitis&quot;&gt;(Chronic rhinosinusitis)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: July 2025&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.pregnancybirthbaby.org.au/runny-or-blocked-nose-in-babies&quot;&gt;Runny or blocked nose in babies&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A runny or blocked nose is usually not serious, but can be upsetting for babies and parents. Learn about treatment options and when to see a doctor.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.pregnancybirthbaby.org.au/runny-or-blocked-nose-in-babies" linkText="Read more on Pregnancy,Birth & Baby website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/PBB_logo.png" imageAlt="Pregnancy,Birth &amp; Baby"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Blocked nose - nasal congestion, treatment | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;You might get a blocked nose when you have a virus, allergy, deviated septum or polyps. Learn how to treat it at home and when to see a doctor.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Blocked nose&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

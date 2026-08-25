@@ -138,13 +138,15 @@ var CustomImportScript = (() => {
     for (let i = 0; i < count; i += 1) {
       const button = tabButtons[i];
       const panel = panels[i];
+      const label = (button.textContent || "").trim();
       const titleFrag = document.createDocumentFragment();
-      titleFrag.appendChild(document.createComment(" field:title "));
-      titleFrag.appendChild(document.createTextNode((button.textContent || "").trim()));
+      titleFrag.appendChild(document.createTextNode(label));
       const contentFrag = document.createDocumentFragment();
-      contentFrag.appendChild(document.createComment(" field:content_richtext "));
+      const heading = document.createElement("h3");
+      heading.textContent = label;
+      contentFrag.appendChild(heading);
       const leadP = panel.querySelector(":scope > p");
-      if (leadP) {
+      if (leadP && leadP.textContent.trim()) {
         const p = document.createElement("p");
         p.textContent = leadP.textContent.trim();
         contentFrag.appendChild(p);
@@ -154,38 +156,35 @@ var CustomImportScript = (() => {
         const href = tile.getAttribute("href");
         const headingEl = tile.querySelector("h3, h2, h4");
         if (headingEl) {
-          const h3 = document.createElement("h3");
+          const h4 = document.createElement("h4");
           if (href) {
             const a = document.createElement("a");
             a.setAttribute("href", href);
             a.textContent = headingEl.textContent.trim();
-            h3.appendChild(a);
+            h4.appendChild(a);
           } else {
-            h3.textContent = headingEl.textContent.trim();
+            h4.textContent = headingEl.textContent.trim();
           }
-          contentFrag.appendChild(h3);
+          contentFrag.appendChild(h4);
         }
-        const introP = tile.querySelector(".main_content-search-tile-intro p, .main_content-search-tile-intro");
-        if (introP) {
+        const introEl = tile.querySelector(".main_content-search-tile-intro p, .main_content-search-tile-intro");
+        if (introEl && introEl.textContent.trim()) {
           const p = document.createElement("p");
-          p.textContent = introP.textContent.trim();
+          p.textContent = introEl.textContent.trim();
           contentFrag.appendChild(p);
         }
         const readMore = tile.querySelector(".main_content-search-tile-read-more");
-        if (readMore) {
-          const label = (readMore.textContent || "").trim();
-          if (label) {
-            const p = document.createElement("p");
-            if (href) {
-              const a = document.createElement("a");
-              a.setAttribute("href", href);
-              a.textContent = label;
-              p.appendChild(a);
-            } else {
-              p.textContent = label;
-            }
-            contentFrag.appendChild(p);
+        if (readMore && readMore.textContent.trim()) {
+          const p = document.createElement("p");
+          if (href) {
+            const a = document.createElement("a");
+            a.setAttribute("href", href);
+            a.textContent = readMore.textContent.trim();
+            p.appendChild(a);
+          } else {
+            p.textContent = readMore.textContent.trim();
           }
+          contentFrag.appendChild(p);
         }
         const logo = tile.querySelector("img.main_content-search-tile-logo, img");
         if (logo) {

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Blood in urine (haematuria)" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;5-minute read&lt;/em&gt;&lt;strong&gt;See your doctor straight away if you notice bright red blood in your urine or if your urine has turned pink, red or brown.&lt;/strong&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Blood in your urine (wee) is called haematuria.&lt;/li&gt;
+                    &lt;li&gt;Haematuria can look like blood, or like red, pink or brown urine.&lt;/li&gt;
+                    &lt;li&gt;There are several causes for blood in urine.&lt;/li&gt;
+                    &lt;li&gt;Blood in urine should always be checked by your doctor.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is blood in urine?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to blood in urine?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes blood in urine?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of blood in urine diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treatment&quot;&gt;How is blood in urine treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is blood in urine?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Blood in your urine (wee), also called haematuria, is common. It might be found on a urine test, or you might notice it yourself.&lt;/p&gt;&lt;p&gt;Normal urine colour is light yellow. Blood in your urine may make your urine appear a different colour (red to brown) or you may see blood. If there is only a very small amount of blood, you might not see it at all.&lt;/p&gt;&lt;p&gt;There are many causes of blood in urine. Certain foods can also sometimes change your urine colour, including beetroot, blackberries and rhubarb.&lt;/p&gt;&lt;p&gt;If you see blood in your urine or if there is a small amount seen under a microscope (microscopic haematuria), it needs to be checked by your doctor.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to blood in urine?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have blood in your urine, you may also have other symptoms too, and these will depend on what is causing it.&lt;/p&gt;&lt;p&gt;Symptoms that can be related to blood in urine are:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;pain or discomfort when urinating (weeing)&lt;/li&gt;
+                    &lt;li&gt;needing to &lt;a href&#x3D;&quot;/frequent-urination&quot;&gt;urinate more often than usual&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;needing to urinate urgently&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/abdominal-pain&quot;&gt;pain in your abdomen&lt;/a&gt; (tummy) or back&lt;/li&gt;
+                    &lt;li&gt;straining to do a wee&lt;/li&gt;
+                    &lt;li&gt;weak urine flow&lt;/li&gt;
+                    &lt;li&gt;feeling like your bladder is not completely empty after doing a wee&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes blood in urine?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The blood may come from anywhere in your &lt;a href&#x3D;&quot;/urinary-system&quot;&gt;urinary system&lt;/a&gt;. This includes your:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/kidneys&quot;&gt;kidneys&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;ureters (tubes that transport urine from your kidneys to your bladder)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/bladder&quot;&gt;bladder&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;urethra (the tube that transports urine from your bladder out of your body)&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;&lt;a href&#x3D;&quot;/urinary-tract-infection-uti&quot;&gt;A urinary tract infection&lt;/a&gt; (UTI) is one of the most common causes of blood in your urine. A UTI is an infection in any part of your urinary system. Infections commonly happen in your bladder (&lt;a href&#x3D;&quot;/cystitis&quot;&gt;cystitis&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;Other causes of haematuria are:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/kidney-stones&quot;&gt;kidney stone&lt;/a&gt;s&lt;/li&gt;
+                    &lt;li&gt;kidney conditions&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/prostate-problems&quot;&gt;prostate problems&lt;/a&gt; (in males)&lt;/li&gt;
+                    &lt;li&gt;cancer of the &lt;a href&#x3D;&quot;/bladder-cancer&quot;&gt;bladder&lt;/a&gt;, &lt;a href&#x3D;&quot;/kidney-cancer&quot;&gt;kidney&lt;/a&gt; or &lt;a href&#x3D;&quot;/prostate-cancer&quot;&gt;prostate&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;a medical procedure or injury to your urinary system&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Blood in your urine can also be caused by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blood-thinners&quot;&gt;blood-thinning medicines&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;blood clotting problems that cause bleeding&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/sickle-cell-anaemia&quot;&gt;sickle cell anaemia&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/endometriosis&quot;&gt;endometriosis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;some medicines&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Sometimes, you may see blood in your urine that actually comes from your reproductive organs. In females, &lt;a href&#x3D;&quot;/menstruation&quot;&gt;having your period&lt;/a&gt; or having sex recently may cause blood in your urine.&lt;/p&gt;&lt;p&gt;Sometimes, vigorous exercise can make blood appear in your urine. This is called exercise-induced haematuria and it can affect athletes. It usually gets better on its own, but should always be checked by your doctor.&lt;/p&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of blood in urine diagnosed?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor will ask about your symptoms and general health. They will also examine you. The &lt;a href&#x3D;&quot;/physical-examination-by-a-doctor&quot;&gt;physical examination&lt;/a&gt; may include examination of your genitals and a prostate exam (in males).&lt;/p&gt;&lt;p&gt;Your doctor will ask for a urine sample to do &lt;a href&#x3D;&quot;/urine-tests&quot;&gt;urine tests&lt;/a&gt;. They may also recommend that you have &lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You may need further tests of your urinary system. These can include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/ultrasound&quot;&gt;ultrasound&lt;/a&gt; scans&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/ct-scan&quot;&gt;CT scans&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/magnetic-resonance-imaging-mri&quot;&gt;MRI scans&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/cystoscopy&quot;&gt;cystoscopy&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;A cystoscopy is a procedure where a specialist doctor looks inside your bladder with a thin tube with a camera on the end.&lt;/p&gt;"/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You should always see your doctor if you notice:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;blood in your urine&lt;/li&gt;
+                    &lt;li&gt;a change in the colour of your urine&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;When to seek urgent care&lt;/h3&gt;&lt;strong&gt;Life-threatening bleeding from your urinary tract is very rare. But if you have lots of blood in your urine or have blood clots, call triple zero (000) for an ambulance.&lt;/strong&gt;&lt;p&gt;You should also seek urgent care if you have blood in your urine and:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;abdominal pain&lt;/li&gt;
+                    &lt;li&gt;back or flank pain&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/nausea&quot;&gt;nausea&lt;/a&gt; and &lt;a href&#x3D;&quot;/vomiting&quot;&gt;vomiting&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is blood in urine treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;There are many different treatments for blood in your urine. The treatment will depend on the cause.&lt;/p&gt;&lt;p&gt;Some causes of blood in your urine don&#x27;t need any treatment.&lt;/p&gt;&lt;p&gt;Treatment may involve &lt;a href&#x3D;&quot;/antibiotics&quot;&gt;antibiotic&lt;/a&gt;s for an infection.&lt;/p&gt;&lt;p&gt;You may need to see a nephrologist (a doctor that specialises in kidney diseases) or a &lt;a href&#x3D;&quot;/urologist&quot;&gt;urologist&lt;/a&gt; (a doctor that specialises in the urinary system).&lt;/p&gt;&lt;p&gt;It&#x27;s important to see your doctor regularly. You might need to do urine tests again.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;&lt;a href&#x3D;&quot;https://kidney.org.au/&quot;&gt;Kidney Health Australia&lt;/a&gt; has information on kidney health and conditions, including &lt;a href&#x3D;&quot;https://kidney.org.au/resources/factsheets-and-photosheets/blood-in-the-urine-factsheet/&quot;&gt;blood in urine&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Australian Journal of General Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://www1.racgp.org.au/ajgp/2021/july/haematuria-in-the-general-practice-setting&quot; title&#x3D;&quot;Assessment and management of haematuria in the general practice setting&quot;&gt;(Assessment and management of haematuria in the general practice setting)&lt;/a&gt;&lt;/em&gt;, BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-gb/316/pdf/316/Assessment%20of%20visible%20haematuria.pdf&quot; title&#x3D;&quot;Assessment of visible haematuria&quot;&gt;(Assessment of visible haematuria)&lt;/a&gt;&lt;/em&gt;, Royal College of Pathologists of Australasia &lt;em&gt;&lt;a href&#x3D;&quot;https://www.rcpa.edu.au/Manuals/RCPA-Manual/Clinical-Presentations-and-Diagnoses/H/Haematuria&quot; title&#x3D;&quot;Haematuria&quot;&gt;(Haematuria)&lt;/a&gt;&lt;/em&gt;, Kidney Health Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://assets.kidney.org.au/resources/KHA-Factsheet-Blood-in-urine-2017.pdf&quot; title&#x3D;&quot;Blood in Urine (Haematuria)&quot;&gt;(Blood in Urine (Haematuria))&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: December 2025&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/tests-investigations/blood-in-urine-causes-and-tests/&quot;&gt;Blood in Urine - Causes and Tests - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Blood in urine must always be tested to rule out any cancer in the urinary tract. Dr. Jeremey Grummet outlines the causes and tests for blood in urine.&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/tests-investigations/blood-in-urine-causes-and-tests/" linkText="Read more on myDoctor website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Blood in urine (haematuria) - symptoms, causes and treatment | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;There are many causes of blood in urine (wee), also called haematuria. Read about the causes, tests and when to see your doctor about blood in urine.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Blood in urine (haematuria)&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

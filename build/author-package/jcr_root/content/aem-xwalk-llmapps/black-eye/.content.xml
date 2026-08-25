@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Black eye" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;5-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;A black eye is a bruise in the tissues around your eye.&lt;/li&gt;
+                    &lt;li&gt;The skin around your eye may look swollen, with a blue or purple colour.&lt;/li&gt;
+                    &lt;li&gt;There are different causes of black eyes, such as trauma to your face.&lt;/li&gt;
+                    &lt;li&gt;If you get a black eye, it&#x27;s best to see a doctor to rule out any other issues.&lt;/li&gt;
+                    &lt;li&gt;There are ways to help your black eye heal.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what&quot;&gt;What is a black eye?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What are the symptoms of a black eye?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes a black eye?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#when&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#how&quot;&gt;How is a black eye diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is a black eye treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can a black eye be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;Complications of a black eye?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#support&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is a black eye?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;A black eye is a bruise in the tissues around your eye. A black eye is also known as periorbital haematoma. Most black eyes will heal on their own in a few days.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the symptoms of a black eye?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a black eye, you may notice:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;the skin around your eye turns blue or purple (bruising)&lt;/li&gt;
+                    &lt;li&gt;the skin around your eye may be swollen&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;This is caused by broken blood vessels under your skin. After a few days, your bruises will fade to yellow or green.&lt;/p&gt;&lt;p&gt;The white of your eye might also be bright red from bleeding on the surface of the eye. This is not usually serious.&lt;/p&gt;&lt;p&gt;Sometimes you might also have bleeding inside your eye. This is a medical emergency that needs treatment.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes a black eye?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The most common cause of a black eye is an injury that affects the area around your eye. Eye injuries or trauma may include a knock, hit, or impact.&lt;/p&gt;&lt;p&gt;Eye trauma can be caused by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;an accident&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/search-results/violence&quot;&gt;assault&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;contact during sport&lt;/li&gt;
+                    &lt;li&gt;walking into something&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Other causes of a black eye include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;facial surgery (for example, cosmetic surgery or nasal surgery)&lt;/li&gt;
+                    &lt;li&gt;a skull fracture (usually causing a black eye in both eyes)&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a black eye, it&#x27;s a good idea to see your doctor as soon as you can. They can rule out any other serious eye issues.&lt;/p&gt;&lt;p&gt;You should seek medical help right away if you lost consciousness when you received the black eye. A doctor can rule out any &lt;a href&#x3D;&quot;/head-injuries&quot;&gt;head injuries&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You should also seek immediate medical help if you have a black eye as well as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;loss of vision or changes to your vision&lt;/li&gt;
+                    &lt;li&gt;severe eye pain or &lt;a href&#x3D;&quot;/headaches&quot;&gt;headaches&lt;/a&gt; that don&#x27;t go away&lt;/li&gt;
+                    &lt;li&gt;bleeding from your eye or inside your eye&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/nausea&quot;&gt;nausea&lt;/a&gt;, &lt;a href&#x3D;&quot;/vomiting&quot;&gt;vomiting&lt;/a&gt;, &lt;a href&#x3D;&quot;/dizziness&quot;&gt;dizziness&lt;/a&gt; or lethargy&lt;/li&gt;
+                    &lt;li&gt;loss of consciousness or &lt;a href&#x3D;&quot;/fainting&quot;&gt;fainting&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If your eye becomes infected or has not healed after 2 weeks, you should also see a doctor.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is a black eye diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;To diagnose a black eye your doctor will:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;check your vision&lt;/li&gt;
+                    &lt;li&gt;examine your eyes&lt;/li&gt;
+                    &lt;li&gt;apply a cover to your eye if needed&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Your doctor can also refer you for other tests, such as a &lt;a href&#x3D;&quot;/ct-scan&quot;&gt;CT scan&lt;/a&gt;, if needed.&lt;/p&gt;&lt;p&gt;They can also refer you for further help if needed, such as an:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;optometrist&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/ophthalmologist&quot;&gt;ophthalmologist&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is a black eye treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Black eyes normally get better by themselves. However, there are things you can do to help it heal.&lt;/p&gt;&lt;h3&gt;Cold and heat packs&lt;/h3&gt;&lt;p&gt;You can apply a cold pack to your eye. If you don&#x27;t have a cold pack try a bag of frozen peas, wrapped in a tea towel.&lt;/p&gt;&lt;p&gt;Place the cold compress over the area as soon as possible. Keep it in place for 15 to 20 minutes every hour, while you are awake. Try to do this for the first 24 hours after getting a black eye to reduce swelling.&lt;/p&gt;&lt;p&gt;Never put a steak on a black eye. This can increase your risk of infection.&lt;/p&gt;&lt;p&gt;After the first 24 hours, you can swap the cold compresses for a warm — but not hot — compress. This increases blood flow to the area.&lt;/p&gt;&lt;p&gt;If it&#x27;s comfortable, you can also massage gently around the eye area, but not the eye itself.&lt;/p&gt;&lt;h3&gt;Pain relief&lt;/h3&gt;&lt;p&gt;You can also ask your doctor about over-the-counter medicines to help with &lt;a href&#x3D;&quot;/pain-relief-medicines&quot;&gt;pain relief&lt;/a&gt;. Avoid aspirin, as it thins the blood and could make your bruising worse.&lt;/p&gt;&lt;p&gt;If you have a black eye and take aspirin regularly, talk to your doctor.&lt;/p&gt;&lt;p&gt;There is some evidence that &lt;a href&#x3D;&quot;/medicines/brand/amt,64958011000036102/hirudoid&quot;&gt;hirudoid cream&lt;/a&gt; can help a black eye when applied 3 times a day, for 5 days.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can a black eye be prevented?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You can prevent injury to your eyes by using eye protection, such as safety glasses .&lt;/p&gt;&lt;p&gt;If you have a black eye, it is important to protect it. Avoid sports or other activities that could further injure your eye.&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Complications of a black eye" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Depending on the cause of your black eye, you may get complications such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;reduced vision&lt;/li&gt;
+                    &lt;li&gt;bleeding inside your eye&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and Support" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-gb/961/pdf/961/Eye%20trauma.pdf&quot; title&#x3D;&quot;Eye Trauma&quot;&gt;(Eye Trauma)&lt;/a&gt;&lt;/em&gt;, American Academy of Ophthalmology &lt;em&gt;&lt;a href&#x3D;&quot;https://www.aao.org/eye-health/diseases/black-eye&quot; title&#x3D;&quot;What Is a Black Eye?&quot;&gt;(What Is a Black Eye?)&lt;/a&gt;&lt;/em&gt;, Sports Medicine Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://sma.org.au/resources/injury-fact-sheets/eye-injuries/&quot; title&#x3D;&quot;Eye Injuries&quot;&gt;(Eye Injuries)&lt;/a&gt;&lt;/em&gt;, World Journal of Plastic Surgery &lt;em&gt;&lt;a href&#x3D;&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482541/&quot; title&#x3D;&quot;The Effect of Hirodoid Cream on Ecchymosis and Edema around Eyes after Rhinoplasty&quot;&gt;(The Effect of Hirodoid Cream on Ecchymosis and Edema around Eyes after Rhinoplasty)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: November 2023&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://farmerhealth.org.au/eye-injury-something-in-your-eye/&quot;&gt;Eye injury – something in your eye? Don’t ignore it! | National Centre for Farmer Health&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Eye injuries can occur when flying particles lodge in your eye. Some common examples include wood chips, metal filings, dust, insects and grain. Read more..&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://farmerhealth.org.au/eye-injury-something-in-your-eye/" linkText="Read more on National Centre for Farmer Health website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/farmerhealth-logo-a8d0a3.png" imageAlt="National Centre for Farmer Health"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eye-injuries-chemical-burns&quot;&gt;Eye injuries - chemical burns | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Always wear safety goggles or a face shield when handling liquid or powder chemicals.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eye-injuries-chemical-burns" linkText="Read more on Better Health Channel website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eye-injuries-foreign-body-in-the-eye&quot;&gt;Eye injuries - foreign body in the eye | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Don&#x27;t try to remove a foreign body from your eye - go to your doctor or hospital emergency department for help.&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eye-injuries-foreign-body-in-the-eye" linkText="Read more on Better Health Channel website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/eye-health/eye-injuries-prevention/&quot;&gt;Eye injuries: prevention - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;While eye injuries are common, most are preventable. Read how to protect your eyes from injury at work, at home and at play.&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/eye-health/eye-injuries-prevention/" linkText="Read more on myDoctor website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://raisingchildren.net.au/guides/a-z-health-reference/black-eye&quot;&gt;Black eye: children and teenagers | Raising Children Network&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A black eye can happen if your child has a bump to the eye area. Treat black eyes at home with an ice-pack, but also have a doctor check your child’s eye.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://raisingchildren.net.au/guides/a-z-health-reference/black-eye" linkText="Read more on raisingchildren.net.au website"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/raising-children_logo-f6777f.png" imageAlt="raisingchildren.net.au"/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://stjohn.org.au/fact-sheet/eye-injuries/&quot;&gt;Eye injuries – St John Australia&lt;/a&gt;&lt;/h4&gt;"/>
+        <button_8 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://stjohn.org.au/fact-sheet/eye-injuries/" linkText="Read more on St John Ambulance Australia website"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/stjohn_logo_standard_vertical_primary_rgb-ae7dc8.png" imageAlt="St John Ambulance Australia"/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_6 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_19 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Black eye (periorbital haematoma) - treatment and causes | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;A black eye is a bruise in the tissues around the eye. It&#x27;s a good idea to get it checked by a doctor to rule out more serious eye injuries.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_7 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_20 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Black eye&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

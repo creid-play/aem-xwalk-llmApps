@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Abdominal pain" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;11-minute read&lt;/em&gt;&lt;strong&gt;If you have severe pain in your abdomen (tummy), go immediately to your nearest hospital emergency department or call triple zero (000) for an ambulance.&lt;/strong&gt;&lt;p&gt;&lt;strong&gt;&lt;a href&#x3D;&quot;https://ukqbli.files.cmp.optimizely.com/download/assets/healthdirect+Easy+Read+Abdominal+Pain+digital.pdf&quot;&gt;Easy Read version&lt;/a&gt;&lt;/strong&gt;, simple English with pictures&lt;/p&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Abdominal pain is felt anywhere in the area between the bottom of your ribs and your pelvis.&lt;/li&gt;
+                    &lt;li&gt;Pain in your abdomen (tummy) may be aching, stabbing, burning, twisting, cramping or dull.&lt;/li&gt;
+                    &lt;li&gt;There are many causes of abdominal pain.&lt;/li&gt;
+                    &lt;li&gt;Abdominal pain can be serious, but most abdominal pain gets better on its own without needing any special treatment.&lt;/li&gt;
+                    &lt;li&gt;See your doctor if your symptoms are severe, get worse over time, keep coming back, or are ongoing.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is abdominal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to abdominal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes abdominal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of abdominal pain diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is abdominal pain treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can abdominal pain be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is abdominal pain?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Abdominal pain is pain felt anywhere in the area between the bottom of your ribs and your pelvis. Most people will have abdominal pain at some point in their lives.&lt;/p&gt;&lt;p&gt;Abdominal pain can be serious, but can also get better on its own without needing any special treatment.&lt;/p&gt;&lt;p&gt;People sometimes refer to abdominal pain as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;stomach pain&lt;/li&gt;
+                    &lt;li&gt;stomach ache&lt;/li&gt;
+                    &lt;li&gt;stomach cramps&lt;/li&gt;
+                    &lt;li&gt;tummy pain&lt;/li&gt;
+                    &lt;li&gt;sore stomach&lt;/li&gt;
+                    &lt;li&gt;belly ache&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;There are different types of abdominal pain, which can:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;be mild or severe&lt;/li&gt;
+                    &lt;li&gt;come on suddenly (acute pain)&lt;/li&gt;
+                    &lt;li&gt;happen from time to time (recurrent pain)&lt;/li&gt;
+                    &lt;li&gt;be an ongoing symptom (chronic pain)&lt;/li&gt;
+                    &lt;li&gt;start off mild and steadily get worse&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Pain that comes and goes in waves is often called colicky pain.&lt;/p&gt;&lt;p&gt;This page is about abdominal pain in anyone over the age of 12 years. Here is information on &lt;a href&#x3D;&quot;/abdominal-pain-in-children&quot;&gt;abdominal pain in children&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to abdominal pain?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Pain in your abdomen may be:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;aching&lt;/li&gt;
+                    &lt;li&gt;stabbing or sharp&lt;/li&gt;
+                    &lt;li&gt;burning&lt;/li&gt;
+                    &lt;li&gt;twisting&lt;/li&gt;
+                    &lt;li&gt;cramping&lt;/li&gt;
+                    &lt;li&gt;dull&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Tummy pain can be in different areas of your abdomen and can move or radiate to other areas. It can come and go or be constant.&lt;/p&gt;&lt;p&gt;Sometimes it may help to lie still. With other types of abdominal pain it may help to move around for relief.&lt;/p&gt;&lt;p&gt;The pain may also be accompanied by other symptoms, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/bloating&quot;&gt;bloating&lt;/a&gt;, belching and burping&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/changes-to-your-appetite&quot;&gt;loss of appetite&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/heartburn&quot;&gt;heartburn&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/nausea&quot;&gt;nausea&lt;/a&gt; and &lt;a href&#x3D;&quot;/vomiting&quot;&gt;vomiting&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;a change in bowel habits (doing a poo) — including &lt;a href&#x3D;&quot;/diarrhoea&quot;&gt;diarrhoea&lt;/a&gt; or &lt;a href&#x3D;&quot;/constipation&quot;&gt;constipation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;problems with urinating (doing a wee)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthdirect.gov.au/symptom-checker" linkText=""/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Describing the pattern and location of your symptoms to your doctor can help them work out the cause of your abdominal pain.&lt;/p&gt;"/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes abdominal pain?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Abdominal pain is often caused by a problem in your &lt;a href&#x3D;&quot;/digestive-system&quot;&gt;digestive tract&lt;/a&gt; (the gut). But it can also be caused by other organs, such as your &lt;a href&#x3D;&quot;/kidneys&quot;&gt;kidneys&lt;/a&gt; or reproductive organs.&lt;/p&gt;&lt;p&gt;Some of the &lt;a href&#x3D;&quot;/what-causes-abdominal-pain&quot;&gt;causes of abdominal pain&lt;/a&gt; connected to your gut are:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/gastroenteritis&quot;&gt;gastroenteritis&lt;/a&gt; or &lt;a href&#x3D;&quot;/food-poisoning&quot;&gt;food poisoning&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;gastro-oesophageal reflux disease (&lt;a href&#x3D;&quot;/gord-reflux&quot;&gt;GORD&lt;/a&gt;) or &lt;a href&#x3D;&quot;/hiatus-hernia&quot;&gt;hiatus hernia&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;peptic ulcer&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/gallstones&quot;&gt;gallstones&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/pancreatitis&quot;&gt;pancreatitis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/appendicitis&quot;&gt;appendicitis&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Other causes of abdominal pain related to your bowel include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/irritable-bowel-syndrome-ibs&quot;&gt;irritable bowel syndrome (IBS)&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/lactose-intolerance&quot;&gt;lactose intolerance&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/inflammatory-bowel-disease-ibd&quot;&gt;inflammatory bowel disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/diverticular-disease-and-diverticulitis&quot;&gt;diverticulitis and diverticular disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/bowel-obstruction&quot;&gt;bowel obstruction&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;The cause of the pain will affect how long your symptoms last.&lt;/p&gt;&lt;p&gt;Abdominal pain can also be caused by problems with other organs, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/managing-period-pain&quot;&gt;period pain&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/kidney-stones&quot;&gt;kidney stones&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/urinary-tract-infection-uti&quot;&gt;urinary tract infection&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/heart-attack&quot;&gt;heart attack&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Many different medicines can cause abdominal pain as a side effect, including:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/anti-inflammatory-medicines&quot;&gt;anti-inflammatory medicines&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;aspirin&lt;/li&gt;
+                    &lt;li&gt;medicines to help manage the symptoms of dementia&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Talk with your doctor if you are concerned about your medicines and abdominal pain.&lt;/p&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of abdominal pain diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Abdominal pain is a common symptom.&lt;/p&gt;&lt;p&gt;Your doctor will ask you about your pain and any other symptoms you have. Your doctor will also consider your past medical history, age, sex, recent travel and medicines you are taking when working out the cause of your pain. They will also do a physical examination.&lt;/p&gt;&lt;p&gt;Your doctor may suggest you have tests, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/urine-tests&quot;&gt;urine tests&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/stool-tests&quot;&gt;stool tests&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/ultrasound&quot;&gt;ultrasound&lt;/a&gt; scan, &lt;a href&#x3D;&quot;/x-rays&quot;&gt;x-ray&lt;/a&gt;, &lt;a href&#x3D;&quot;/ct-scan&quot;&gt;CT scan&lt;/a&gt; or &lt;a href&#x3D;&quot;/magnetic-resonance-imaging-mri&quot;&gt;MRI scan&lt;/a&gt; of your abdomen&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/endoscopy&quot;&gt;endoscopy&lt;/a&gt; or &lt;a href&#x3D;&quot;/colonoscopy&quot;&gt;colonoscopy&lt;/a&gt; — where a long, flexible tube with a camera is used to examine your stomach or bowel while you are under sedation&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/electrocardiogram-ecg&quot;&gt;electrocardiogram (ECG)&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;They may refer you to a specialist doctor for some tests and treatments.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;See a doctor if you have abdominal pain that:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;is recurrent (keeps coming back)&lt;/li&gt;
+                    &lt;li&gt;is persistent (ongoing)&lt;/li&gt;
+                    &lt;li&gt;started mild but is getting worse&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Also see your doctor if you have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;vaginal bleeding that is not associated with your menstrual cycle (periods)&lt;/li&gt;
+                    &lt;li&gt;a change in your bowel habits&lt;/li&gt;
+                    &lt;li&gt;any bleeding from your back passage or blood in your stools&lt;/li&gt;
+                    &lt;li&gt;swelling of your abdomen&lt;/li&gt;
+                    &lt;li&gt;unexplained weight loss&lt;/li&gt;
+                    &lt;li&gt;yellow skin or whites of your eyes&lt;/li&gt;
+                    &lt;li&gt;fevers&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If you are pregnant and experiencing abdominal pain, check with your doctor or midwife.&lt;/p&gt;&lt;h3&gt;When to seek urgent care&lt;/h3&gt;&lt;strong&gt;If you have severe pain in your abdomen, go immediately to your nearest emergency department or call triple zero (000) for an ambulance.&lt;/strong&gt;&lt;p&gt;You should also seek &lt;strong&gt;urgent medical attention&lt;/strong&gt; if you have pain that:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;is getting worse&lt;/li&gt;
+                    &lt;li&gt;has lasted for several hours or more&lt;/li&gt;
+                    &lt;li&gt;wakes you from sleep&lt;/li&gt;
+                    &lt;li&gt;is spreading to your neck, chest or shoulders&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Urgent medical attention&lt;/strong&gt; is also needed if you have abdominal pain and:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;have &lt;a href&#x3D;&quot;/rectal-bleeding&quot;&gt;bleeding from your bowel&lt;/a&gt;, including bright red or black blood&lt;/li&gt;
+                    &lt;li&gt;have &lt;a href&#x3D;&quot;/blood-in-urine&quot;&gt;blood in your urine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;have persistent vomiting&lt;/li&gt;
+                    &lt;li&gt;are unable to urinate (wee), have a bowel motion (poo) or pass gas (fart)&lt;/li&gt;
+                    &lt;li&gt;have a fever (a temperature of 38ºC or higher)&lt;/li&gt;
+                    &lt;li&gt;have a very bloated or swollen abdomen&lt;/li&gt;
+                    &lt;li&gt;you feel very unwell&lt;/li&gt;
+                    &lt;/ul&gt;&lt;strong&gt;If you are experiencing pain high up in your abdomen that is made worse by exercise, it could be &lt;a href&#x3D;&quot;/angina&quot;&gt;angina&lt;/a&gt; or a &lt;a href&#x3D;&quot;/heart-attack&quot;&gt;heart attack&lt;/a&gt;.&lt;/strong&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is abdominal pain treated?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The treatment of abdominal pain will depend on its underlying cause.&lt;/p&gt;&lt;h3&gt;Self-care at home&lt;/h3&gt;&lt;p&gt;Mild abdominal pain may go away on its own within hours or days.&lt;/p&gt;&lt;p&gt;If you have mild abdominal pain with a known cause:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Keep &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;hydrated by drinking clear fluids&lt;/a&gt; and restrict alcohol, tea and coffee.&lt;/li&gt;
+                    &lt;li&gt;Avoid foods that are rich, fatty or spicy.&lt;/li&gt;
+                    &lt;li&gt;Stay rested.&lt;/li&gt;
+                    &lt;li&gt;Try using a hot water bottle or warm wheat pack on your abdomen.&lt;/li&gt;
+                    &lt;li&gt;Ask your pharmacist about using simple &lt;a href&#x3D;&quot;/pain-relief-medicines&quot;&gt;pain-relief medicines&lt;/a&gt;.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Always see your doctor for more severe abdominal pain or pain that comes back.&lt;/p&gt;"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/managing-abdominal-pain_website_v09-04-25-f6333e.png" imageAlt="6 self-care tips for managing mild abdominal pain; Drink plenty of water, Get plenty of rest, Use a hot water bottle or warm wheat pack on your tummy, Try over the counter gas-reducing medicine, Reduce coffee, tea and alcohol and Eat small, bland meals."/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Self-care tips for managing mild abdominal pain.&lt;/p&gt;&lt;h3&gt;Medicines for mild abdominal pain&lt;/h3&gt;&lt;p&gt;Mild abdominal pain can sometimes be treated with medicines from the pharmacy. Your pharmacist will be able to advise you on what type of product is best suited to your situation.&lt;/p&gt;&lt;p&gt;Some medicines that may be recommended to treat abdominal pain (and related symptoms) if the cause is known include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;simple pain-relief medicines&lt;/li&gt;
+                    &lt;li&gt;antispasmodic medicines to ease spasms in the wall of the bowel&lt;/li&gt;
+                    &lt;li&gt;anti-flatulence medicines&lt;/li&gt;
+                    &lt;li&gt;antacids for heartburn or indigestion&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You should &lt;strong&gt;not&lt;/strong&gt; use aspirin or &lt;a href&#x3D;&quot;/anti-inflammatory-medicines&quot;&gt;anti-inflammatory medicines&lt;/a&gt;, such as ibuprofen, to treat abdominal pain other than period pain. These medicines may cause or irritate a stomach or bowel problem.&lt;/p&gt;&lt;h3&gt;Other treatment options&lt;/h3&gt;&lt;p&gt;Treatments depend on the cause of your abdominal pain.&lt;/p&gt;&lt;p&gt;Some conditions can benefit from dietary changes. But always check with your doctor or dietitian before making major changes to your diet.&lt;/p&gt;&lt;p&gt;In some cases, such as appendicitis or bowel obstruction, you may need emergency surgery.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can abdominal pain be prevented?" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Some lifestyle measures can help keep you and your gut healthy. These include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;eating enough &lt;a href&#x3D;&quot;/high-fibre-foods-and-diet&quot;&gt;fibre&lt;/a&gt;, including from fruit and vegetables&lt;/li&gt;
+                    &lt;li&gt;getting regular &lt;a href&#x3D;&quot;/fitness-and-exercise&quot;&gt;physical activity&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;drinking plenty of &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;plain water&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;limiting how much &lt;a href&#x3D;&quot;/tips-for-safe-drinking&quot;&gt;alcohol you drink&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Following a specific diet can help reduce abdominal pain due to some conditions, such as lactose intolerance or &lt;a href&#x3D;&quot;/coeliac-disease&quot;&gt;coeliac disease&lt;/a&gt;. But always ask your doctor or dietitian before restricting foods from your diet.&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;For more information and support, try these resources:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;The &lt;a href&#x3D;&quot;https://gutfoundation.com.au/&quot;&gt;Gut Foundation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://www.gesa.org.au/&quot;&gt;Gastroenterological Society of Australia&lt;/a&gt; (GESA)&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;For advice on what to do if you have abdominal pain, call healthdirect on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria) to speak with a registered nurse, 24 hours, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Safer Care Victoria &lt;em&gt;&lt;a href&#x3D;&quot;https://www.bettersafercare.vic.gov.au/sites/default/files/2019-07/Abdominal%20pain.pdf&quot; title&#x3D;&quot;Abdominal pain&quot;&gt;(Abdominal pain)&lt;/a&gt;&lt;/em&gt;, BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-us/503&quot; title&#x3D;&quot;Evaluation of acute abdomen&quot;&gt;(Evaluation of acute abdomen)&lt;/a&gt;&lt;/em&gt;, BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-us/767&quot; title&#x3D;&quot;Evaluation of chronic abdominal pain&quot;&gt;(Evaluation of chronic abdominal pain)&lt;/a&gt;&lt;/em&gt;, Emergency Care Institute &lt;em&gt;&lt;a href&#x3D;&quot;https://aci.health.nsw.gov.au/ecat/adult/abdominal-pain&quot; title&#x3D;&quot;Abdominal pain&quot;&gt;(Abdominal pain)&lt;/a&gt;&lt;/em&gt;, RACGP &lt;em&gt;&lt;a href&#x3D;&quot;https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/Guidelines/Red%20Book/Guidelines-for-preventive-activities-in-general-practice.pdf&quot; title&#x3D;&quot;Guidelines for preventive activities in general practice, 8th edition&quot;&gt;(Guidelines for preventive activities in general practice, 8th edition)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: February 2024&lt;/p&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.healthywa.wa.gov.au/Articles/S_T/Stomach-pain&quot;&gt;Stomach pain&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;How to take care of stomach pain&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthywa.wa.gov.au/Articles/S_T/Stomach-pain" linkText="Read more on WA Health website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/department-of-health-logo-colour-a9f371.png" imageAlt="WA Health"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/abdominal-pain-in-adults&quot;&gt;Abdominal pain in adults | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The type of pain felt in the abdomen can vary greatly.&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/abdominal-pain-in-adults" linkText="Read more on Better Health Channel website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/abdominal-pain-in-children&quot;&gt;Abdominal pain in children | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Children may feel stomach pain for a range of reasons and may need treatment&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/abdominal-pain-in-children" linkText="Read more on Better Health Channel website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://raisingchildren.net.au/guides/a-z-health-reference/stomach-ache&quot;&gt;Stomach pain or ache: children &amp;#x26; teens | Raising Children Network&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Children and teenagers often get stomach pain, which can have many causes. Your child should see a GP if their stomach ache is severe or doesn’t go away.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://raisingchildren.net.au/guides/a-z-health-reference/stomach-ache" linkText="Read more on raisingchildren.net.au website"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/raising-children_logo-f6777f.png" imageAlt="raisingchildren.net.au"/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://liver.org.au/your-liver/symptoms/abdominal-pain-belly-ache/&quot;&gt;Abdominal pain (belly ache) - Liver Foundation&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Call an ambulance or to straight to the Emergency Department if you have liver disease and you develop sudden, severe pain in your belly. Abdominal pain, or belly ache, is common in people who have liver disease. It can get worse as the liver disease gets worse (progresses). Abdominal pain…&lt;/p&gt;"/>
+        <button_8 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://liver.org.au/your-liver/symptoms/abdominal-pain-belly-ache/" linkText="Read more on Liver Foundation website"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/liverfoundation_logo_primary_cc945087-b699-481e-809f-62ce61c29532-a69b0d.png" imageAlt="Liver Foundation"/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.schn.health.nsw.gov.au/factsheets/abdominal-pain-and-stomach-ache&quot;&gt;Abdominal pain and stomach ache factsheet&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The abdomen is the area of the body that holds organs like the stomach, bowel, and kidneys. Abdominal pain is common in children and is often called a stomach or tummy ache.&lt;/p&gt;"/>
+        <button_9 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.schn.health.nsw.gov.au/factsheets/abdominal-pain-and-stomach-ache" linkText="Read more on Sydney Children's Hospitals Network website"/>
+        <image_6 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/nswg.schn_logo-new-8b1c4c.png" imageAlt="Sydney Children&#x27;s Hospitals Network"/>
+        <text_19 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.rch.org.au/kidsinfo/fact_sheets/Abdominal_pain/&quot;&gt;Kids Health Info : Abdominal pain&lt;/a&gt;&lt;/h4&gt;"/>
+        <button_10 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.rch.org.au/kidsinfo/fact_sheets/Abdominal_pain/" linkText="Read more on Royal Children's Hospital website"/>
+        <image_7 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/rch_logo-064d92.png" imageAlt="Royal Children&#x27;s Hospital"/>
+        <text_20 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_8 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_21 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Abdominal pain - causes, self-care and treatments | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Abdominal (tummy) pain can have many causes. Read about the causes and treatment for abdominal pain, as well as when to see a doctor.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_9 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_22 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Abdominal pain&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

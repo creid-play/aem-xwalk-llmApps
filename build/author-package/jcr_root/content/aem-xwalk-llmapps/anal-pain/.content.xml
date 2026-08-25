@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Anal pain" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;6-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Anal pain is pain that you get in your anus (bottom).&lt;/li&gt;
+                    &lt;li&gt;Anal pain can be caused by many different things — including anal fissures (small tears in the skin that line your anus) and haemorrhoids (swollen veins in your lower rectum and anus).&lt;/li&gt;
+                    &lt;li&gt;See your doctor if your anal pain doesn&#x27;t get better after a couple of days.&lt;/li&gt;
+                    &lt;li&gt;While your treatment will depend on what is causing your anal pain, there are things you can do at home to help ease the pain.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is anal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to anal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes anal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of anal pain diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is anal pain treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can anal pain be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;What are the complications of anal pain?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is anal pain?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Anal pain is pain that you get in your anus (bottom). It is common.&lt;/p&gt;&lt;p&gt;Your anus is the opening at the end of your large bowel. It&#x27;s made up of the anal canal (the last few centimetres of bowel) and the skin around the opening.&lt;/p&gt;&lt;p&gt;While most causes of anal pain aren&#x27;t serious, the pain can be very bad. This is because there are a lot of nerve endings in this part of your body.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to anal pain?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;As well as pain in your bottom, you may have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;pruritus ani (an itchy anus)&lt;/li&gt;
+                    &lt;li&gt;constant, throbbing pain&lt;/li&gt;
+                    &lt;li&gt;pain when defecating (pooing)&lt;/li&gt;
+                    &lt;li&gt;the need to pass a lot of stools&lt;/li&gt;
+                    &lt;li&gt;the need to pass stools in a hurry (urgency)&lt;/li&gt;
+                    &lt;li&gt;blood or pus on the toilet paper when you wipe&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Your symptoms will depend on the cause of your anal pain.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes anal pain?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Anal pain can be caused by many different things. These include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;anal fissure — a small tear in the lining of your anal canal&lt;/li&gt;
+                    &lt;li&gt;anal fistula — an abnormal channel between your anus and the skin near your bottom&lt;/li&gt;
+                    &lt;li&gt;anal &lt;a href&#x3D;&quot;/abscesses&quot;&gt;abscess&lt;/a&gt; — a collection of pus in the tissue near your anus&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/haemorrhoids-piles&quot;&gt;haemorrhoids (piles)&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/constipation&quot;&gt;constipation&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;proctitis (inflammation of your rectum), which may be due to &lt;a href&#x3D;&quot;/inflammatory-bowel-disease-ibd&quot;&gt;inflammatory bowel disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/tailbone-coccyx-pain-and-injury&quot;&gt;tailbone (coccyx) pain&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;rectal prolapse&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Less often, anal pain is due to:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/sexually-transmitted-infections-sti&quot;&gt;sexually transmitted infections (STIs)&lt;/a&gt; — such as &lt;a href&#x3D;&quot;/genital-warts&quot;&gt;genital warts&lt;/a&gt;, &lt;a href&#x3D;&quot;/gonorrhoea-the-clap&quot;&gt;gonorrhoea&lt;/a&gt;, &lt;a href&#x3D;&quot;/chlamydia&quot;&gt;chlamydia&lt;/a&gt; and &lt;a href&#x3D;&quot;/syphilis&quot;&gt;syphilis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/thrush-and-other-fungal-infections&quot;&gt;fungal infections&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Very rarely, anal pain may be a sign of &lt;a href&#x3D;&quot;/bowel-cancer&quot;&gt;anal cancer&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Find out more about &lt;a href&#x3D;&quot;/anal-injury&quot;&gt;anal injuries&lt;/a&gt; that may cause anal pain. If you are concerned about an anal injury, talk with your doctor, or a health professional at a sexual health clinic.&lt;/p&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of anal pain diagnosed?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The cause of anal pain can usually be easily diagnosed. Your doctor will ask about your symptoms and examine you.&lt;/p&gt;&lt;p&gt;Depending on what your doctor thinks may be causing your anal pain, they may do:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a digital examination of your rectum (back passage) — where they gently put a gloved finger into your back passage&lt;/li&gt;
+                    &lt;li&gt;an anorectal swab — to test for STIs&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;They may also arrange for you to have other tests, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/urine-tests&quot;&gt;urine tests&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/x-rays&quot;&gt;x-rays&lt;/a&gt;, a &lt;a href&#x3D;&quot;/ct-scan&quot;&gt;CT scan&lt;/a&gt; or an &lt;a href&#x3D;&quot;/magnetic-resonance-imaging-mri&quot;&gt;MRI scan&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/endoscopy&quot;&gt;endoscopy&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Your doctor may refer you to a colorectal surgeon (specialist in conditions affecting your large bowel, rectum and anus).&lt;/p&gt;"/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;See your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;your anal pain doesn&#x27;t get better after a couple of days&lt;/li&gt;
+                    &lt;li&gt;the pain in your bottom is very bad&lt;/li&gt;
+                    &lt;li&gt;you&#x27;ve had &lt;a href&#x3D;&quot;/blood-in-stool&quot;&gt;blood in your stool (poo)&lt;/a&gt; or &lt;a href&#x3D;&quot;/rectal-bleeding&quot;&gt;bleeding from your bottom&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h3&gt;When to seek urgent care&lt;/h3&gt;&lt;p&gt;Go to your nearest emergency department if you have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;anal pain that gets worse&lt;/li&gt;
+                    &lt;li&gt;anal pain with a &lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt; — 38°C or higher&lt;/li&gt;
+                    &lt;li&gt;anal pain with anal discharge — blood or pus&lt;/li&gt;
+                    &lt;li&gt;a large amount of bleeding from your bottom&lt;/li&gt;
+                    &lt;li&gt;your stool (poo) is black or dark red&lt;/li&gt;
+                    &lt;li&gt;bleeding from your bottom that won&#x27;t stop&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is anal pain treated?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your treatment will depend on what is causing your anal pain.&lt;/p&gt;&lt;h3&gt;Self-care at home&lt;/h3&gt;&lt;p&gt;There are things you can do at home that may help ease anal pain, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;taking &lt;a href&#x3D;&quot;/paracetamol&quot;&gt;paracetamol&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;taking a short warm bath (sitz bath) to ease the pain — you can do this several times a day&lt;/li&gt;
+                    &lt;li&gt;putting an ice pack in a towel and placing it where it hurts — do this for 20 minutes every 2 to 3 hours&lt;/li&gt;
+                    &lt;li&gt;wiping your bottom with damp toilet paper&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Remember to also:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;drink lots of fluids&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;eat a &lt;a href&#x3D;&quot;/balanced-diet&quot;&gt;balanced diet&lt;/a&gt; with lots of &lt;a href&#x3D;&quot;/high-fibre-foods-and-diet&quot;&gt;fibre&lt;/a&gt; — fruits, vegetables and whole grains&lt;/li&gt;
+                    &lt;li&gt;do some gentle physical activity&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;The following are things that can make your anal pain worse. Do not:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;eat spicy food&lt;/li&gt;
+                    &lt;li&gt;drink &lt;a href&#x3D;&quot;/caffeine&quot;&gt;caffeine&lt;/a&gt; or alcohol&lt;/li&gt;
+                    &lt;li&gt;use fragranced bath or shower products around your anus&lt;/li&gt;
+                    &lt;li&gt;lift heavy things&lt;/li&gt;
+                    &lt;li&gt;push too hard when defecating (pooing)&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Learn more about good &lt;a href&#x3D;&quot;/anal-care&quot;&gt;anal care&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Medicines for anal pain&lt;/h3&gt;&lt;p&gt;Your doctor or pharmacist may suggest medicines that will help with your anal pain. These will depend on the cause of your anal pain but may include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/pain-relief-medicines&quot;&gt;pain-relief medicines&lt;/a&gt; — such as paracetamol&lt;/li&gt;
+                    &lt;li&gt;creams or suppositories to ease your pain and swelling&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/laxatives&quot;&gt;laxatives&lt;/a&gt; to make it easier to empty your bowels (poo)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/antibiotics&quot;&gt;antibiotics&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Other treatment options&lt;/h3&gt;&lt;p&gt;You may need surgery for some causes of anal pain. This may be recommended with:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;an anal abscess&lt;/li&gt;
+                    &lt;li&gt;an anal fissure that has not healed with other treatments&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/surgery/surgery-for-anal-fistula&quot;&gt;anal fistula&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;rectal prolapse — when some part of your bowel is outside of your anus&lt;/li&gt;
+                    &lt;li&gt;thrombosed haemorrhoids (when a clot forms in the haemorrhoid) — this is called a &lt;a href&#x3D;&quot;/haemorrhoidectomy&quot;&gt;haemorrhoidectomy&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can anal pain be prevented?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;You can help prevent some types of anal pain by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;drinking lots of water&lt;/li&gt;
+                    &lt;li&gt;eating a balanced diet that has lots of fibre&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fitness-and-exercise&quot;&gt;exercising regularly&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the complications of anal pain?" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Any complications from anal pain will depend on their cause and treatment. Speak with your doctor if you have any concerns.&lt;/p&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;The &lt;a href&#x3D;&quot;https://www.cssanz.org/&quot;&gt;Colorectal Surgical Society of Australia and New Zealand (CSSANZ)&lt;/a&gt; has information on anal and bowel problems. This includes information on both anal fissures and anal fistulas.&lt;/li&gt;
+                    &lt;li&gt;The &lt;a href&#x3D;&quot;https://www.eatforhealth.gov.au/&quot;&gt;Australian dietary guidelines&lt;/a&gt; give advice on the amount and kinds of food that you need to eat to keep your bowel and anus healthy.&lt;/li&gt;
+                    &lt;li&gt;For information on the health of your bowel in English and other languages, go to &lt;a href&#x3D;&quot;https://www.healthtranslations.vic.gov.au/resources/maintaining-good-bowel-function&quot;&gt;healthtranslations.vic.gov.au&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Cancer Council NSW &lt;em&gt;&lt;a href&#x3D;&quot;https://www.cancercouncil.com.au/anal-cancer/about-anal-cancer&quot; title&#x3D;&quot;About anal cancer&quot;&gt;(About anal cancer)&lt;/a&gt;&lt;/em&gt;, Colorectal Surgical Society of Australia and New Zealand &lt;em&gt;&lt;a href&#x3D;&quot;https://www.cssanz.org/Web/Web/Patients-Public/Condition-Information.aspx?hkey&#x3D;47800e2e-eb7f-4679-ac8f-563b624642c0&quot; title&#x3D;&quot;Condition information&quot;&gt;(Condition information)&lt;/a&gt;&lt;/em&gt;, Queensland Government &lt;em&gt;&lt;a href&#x3D;&quot;https://www.qld.gov.au/health/condition/infections-and-parasites/sexually-transmissible-infections/gonorrhoea&quot; title&#x3D;&quot;Gonorrhoea&quot;&gt;(Gonorrhoea)&lt;/a&gt;&lt;/em&gt;, Australian STI Management Guidelines &lt;em&gt;&lt;a href&#x3D;&quot;https://sti.guidelines.org.au/syndromes/anorectal-syndromes&quot; title&#x3D;&quot;Anorectal syndromes&quot;&gt;(Anorectal syndromes)&lt;/a&gt;&lt;/em&gt;, American Family Physician &lt;em&gt;&lt;a href&#x3D;&quot;https://www.aafp.org/pubs/afp/issues/2020/0101/p24.html&quot; title&#x3D;&quot;Benign Anorectal Conditions: Evaluation and Management&quot;&gt;(Benign Anorectal Conditions: Evaluation and Management)&lt;/a&gt;&lt;/em&gt;, American Society of Colon &amp;#x26; Rectal Surgeons &lt;em&gt;&lt;a href&#x3D;&quot;https://fascrs.org/patients/diseases-and-conditions/a-z/anal-pain&quot; title&#x3D;&quot;Anal pain&quot;&gt;(Anal pain)&lt;/a&gt;&lt;/em&gt;, NHS &lt;em&gt;&lt;a href&#x3D;&quot;https://www.nhs.uk/conditions/anal-pain&quot; title&#x3D;&quot;Anal pain&quot;&gt;(Anal pain)&lt;/a&gt;&lt;/em&gt;, Mayo Clinic &lt;em&gt;&lt;a href&#x3D;&quot;https://www.mayoclinic.org/symptoms/anal-pain/basics/definition/sym-20050918&quot; title&#x3D;&quot;Anal pain&quot;&gt;(Anal pain)&lt;/a&gt;&lt;/em&gt;, Choosing Wisely Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://www.choosingwisely.org.au/resources/consumers-and-carers/5questions&quot; title&#x3D;&quot;5 questions to ask your doctor or other healthcare provider before you get any test, treatment, or procedure&quot;&gt;(5 questions to ask your doctor or other healthcare provider before you get any test, treatment, or procedure)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: September 2024&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anal-fissure&quot;&gt;Anal fissure | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Around half of cases of anal fissures heal by themselves with proper self-care and avoidance of constipation.&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anal-fissure" linkText="Read more on Better Health Channel website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Anal pain - rectal pain, fissures, symptoms and treatments | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Anal pain is pain that you get in your anus (bottom). Learn more about the causes of rectal pain, when to see a doctor and treatments for anal pain.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Anal pain&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

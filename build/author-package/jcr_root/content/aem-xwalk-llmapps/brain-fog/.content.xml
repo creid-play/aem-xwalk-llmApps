@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Brain fog" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;8-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&#x27;Brain fog&#x27; is a term people use to describe problems with thinking and memory.&lt;/li&gt;
+                    &lt;li&gt;Symptoms of brain fog include forgetting things, having difficulty concentrating and finding it hard to solve problems.&lt;/li&gt;
+                    &lt;li&gt;Brain fog may be caused by poor sleep, stress or menopause.&lt;/li&gt;
+                    &lt;li&gt;You may be able to improve your symptoms of brain fog by maintaining a healthy lifestyle and keeping your brain active.&lt;/li&gt;
+                    &lt;li&gt;There are many ways to help make thinking and remembering easier.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is brain fog?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What are the symptoms of brain fog?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes brain fog?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is brain fog diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is brain fog treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#tips&quot;&gt;Tips to improve your thinking and memory&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is brain fog?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;&#x27;Brain fog&#x27; is a term used to describe having difficulty with thinking and memory. Doctors and other health professionals might call it &#x27;cognitive dysfunction&#x27; or &#x27;cognitive impairment&#x27;.&lt;/p&gt;&lt;p&gt;Brain fog is very common — more than 1 in every 4 people will experience brain fog at some stage in their life.&lt;/p&gt;&lt;p&gt;Brain fog is not a health condition on its own, but it can occur with other health conditions. It&#x27;s not the same as &lt;a href&#x3D;&quot;/dementia-overview&quot;&gt;dementia&lt;/a&gt; or &lt;a href&#x3D;&quot;/delirium&quot;&gt;delirium&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the symptoms of brain fog?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Symptoms of brain fog include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;forgetting things, such as names or dates&lt;/li&gt;
+                    &lt;li&gt;having difficulty following a conversation&lt;/li&gt;
+                    &lt;li&gt;having difficulty concentrating&lt;/li&gt;
+                    &lt;li&gt;not being able to find the exact word you wanted to say&lt;/li&gt;
+                    &lt;li&gt;having trouble with multitasking (doing more than one thing at a time)&lt;/li&gt;
+                    &lt;li&gt;having difficulty understanding new information, such as following directions&lt;/li&gt;
+                    &lt;li&gt;finding it hard to plan activities and solve problems&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Symptoms of brain fog usually come and go, but they can be very frustrating. They can affect your:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;daily activities&lt;/li&gt;
+                    &lt;li&gt;performance at school or work&lt;/li&gt;
+                    &lt;li&gt;self-esteem&lt;/li&gt;
+                    &lt;li&gt;relationship with people close to you&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You might find that your symptoms go away with time — for example, if your brain fog started with menopause or cancer treatment. If your brain fog is caused by an underlying condition, it may improve with treatment.&lt;/p&gt;"/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes brain fog?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Brain fog can be caused by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/sleep-disorders&quot;&gt;not getting enough sleep&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;not exercising enough&lt;/li&gt;
+                    &lt;li&gt;having a diet that does not include all the &lt;a href&#x3D;&quot;/vitamins-and-minerals&quot;&gt;nutrients&lt;/a&gt; you need&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/stress&quot;&gt;stress&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/menopause&quot;&gt;menopause&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;taking certain medicines, such as medicines for surgery or cancer&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;There has been more awareness about brain fog in the last few years because it&#x27;s a symptom of &lt;a href&#x3D;&quot;/long-covid&quot;&gt;long COVID&lt;/a&gt;. It can also be caused by other health conditions, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/chronic-pain&quot;&gt;chronic pain&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/depression&quot;&gt;depression&lt;/a&gt; and &lt;a href&#x3D;&quot;/anxiety&quot;&gt;anxiety&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/diabetes&quot;&gt;diabetes&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/anaemia&quot;&gt;anaemia&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/cancer&quot;&gt;cancer&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/insomnia&quot;&gt;insomnia&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Different health conditions cause brain fog in different ways:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Menopause may cause brain fog due to changes in hormone levels, such as &lt;a href&#x3D;&quot;/oestrogen&quot;&gt;oestrogen&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;Long COVID and cancer may cause brain fog due to inflammation in your body.&lt;/li&gt;
+                    &lt;li&gt;Insomnia may cause brain fog as your brain does not get enough rest to function properly.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;The exact cause of brain fog is not always understood.&lt;/p&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Talk to your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you are experiencing frequent &lt;a href&#x3D;&quot;/brain-fog#symptoms&quot;&gt;symptoms of brain fog&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;your symptoms are interfering with your work or daily activities&lt;/li&gt;
+                    &lt;li&gt;your symptoms are getting worse&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Sometimes, people with brain fog become worried that they may be developing dementia. If this is making you anxious, talk to your doctor about it.&lt;/p&gt;&lt;p&gt;Brain fog is not the same as dementia or delirium. Your doctor can help you understand the reasons for your symptoms.&lt;/p&gt;"/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is brain fog diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;There is no test to accurately diagnose if you have brain fog.&lt;/p&gt;&lt;p&gt;Your doctor will ask about your symptoms and how they are affecting you. Before your appointment, you might want to write down a list of symptoms to help you explain to your doctor how you are feeling.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Your doctor may refer you for &lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt; and a scan of your brain to check what is causing your symptoms. These tests might show if your brain fog is caused by something that can be treated, such as diabetes or anaemia (low levels of red blood cells).&lt;/p&gt;&lt;p&gt;Your doctor might refer you to have neuropsychological testing. This is a way of testing your brain to check for dementia.&lt;/p&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is brain fog treated?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;The treatment of brain fog will depend on what is causing it.&lt;/p&gt;&lt;p&gt;If your brain fog is caused by an underlying condition, treating that condition may improve your symptoms. For example, if you have anaemia your doctor might prescribe you iron tablets.&lt;/p&gt;&lt;p&gt;Even if there is no treatable cause, there are things you can do to improve your symptoms.&lt;/p&gt;&lt;h3&gt;Maintaining a healthy lifestyle&lt;/h3&gt;&lt;p&gt;Lifestyle strategies can help improve your symptoms, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;improving your &lt;a href&#x3D;&quot;/sleep&quot;&gt;sleep&lt;/a&gt; — avoid using phones and screens close to bedtime&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fitness-and-exercise&quot;&gt;exercising regularly&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;eating a &lt;a href&#x3D;&quot;/healthy-eating&quot;&gt;healthy diet&lt;/a&gt; that includes a wide variety of fruit and vegetables&lt;/li&gt;
+                    &lt;li&gt;drinking &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;plenty of water&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/relaxation-techniques-for-stress-relief&quot;&gt;reducing stress&lt;/a&gt;, through techniques including &lt;a href&#x3D;&quot;/meditation&quot;&gt;meditation&lt;/a&gt;, &lt;a href&#x3D;&quot;/mindfulness&quot;&gt;mindfulness&lt;/a&gt;, relaxation or &lt;a href&#x3D;&quot;/health-benefits-of-yoga-and-pilates&quot;&gt;yoga&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;keeping your brain active by doing puzzles or learning a new skill&lt;/li&gt;
+                    &lt;li&gt;spending time with other people&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Try to avoid situations that make your brain fog worse, such as crowded or noisy environments.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Tips to improve your thinking and memory" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Here are some techniques you can use to make daily thinking easier:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Put together a daily routine, so you know what you need to do each day.&lt;/li&gt;
+                    &lt;li&gt;Do one thing at a time — don&#x27;t try to multitask.&lt;/li&gt;
+                    &lt;li&gt;When you need to focus, try to avoid distractions by finding a quiet place and turning off your phone.&lt;/li&gt;
+                    &lt;li&gt;Divide big tasks into several smaller tasks and work on them one at a time.&lt;/li&gt;
+                    &lt;li&gt;Pick a time early in the day to do tasks that require a lot of thinking.&lt;/li&gt;
+                    &lt;li&gt;If you are finding it hard to concentrate, take a break and try again later.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If you have trouble remembering things, here are some memory aids you can use:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Use a diary, make lists or set phone reminders to help you remember what you have on.&lt;/li&gt;
+                    &lt;li&gt;Put your medicines in a dosing box, or &lt;a href&#x3D;&quot;/getting-the-most-out-of-your-pharmacist&quot;&gt;ask your pharmacist&lt;/a&gt; to help you find the right dosing aid for you.&lt;/li&gt;
+                    &lt;li&gt;Choose a place to always put important objects, such as your keys.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If you are still struggling despite using these techniques, talk to your doctor. They may refer you to an &lt;a href&#x3D;&quot;/allied-health&quot;&gt;allied health&lt;/a&gt; professional who can help, such as a:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/speech-pathology&quot;&gt;speech therapist&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/occupational-therapy&quot;&gt;occupational therapist&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;neuropsychologist&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;It can be helpful to talk to your family, friends and colleagues about the difficulties you are having. This can help them understand how it may be affecting you.&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;&lt;a href&#x3D;&quot;https://www.dementia.org.au/&quot;&gt;Dementia Australia&lt;/a&gt; offers a &lt;a href&#x3D;&quot;https://www.dementia.org.au/sooner-you-know-more-you-can-do&quot;&gt;memory checklist&lt;/a&gt; to help you check for recent changes in your memory.&lt;/p&gt;&lt;p&gt;Learn more on the &lt;a href&#x3D;&quot;https://www.jeanhailes.org.au/&quot;&gt;Jean Hailes page&lt;/a&gt;, including:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://www.jeanhailes.org.au/news/feeling-foggy-and-forgetful-brain-fog-or-early-onset-dementia&quot;&gt;the cause and treatment of midlife brain fog&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://www.jeanhailes.org.au/news/how-to-talk-to-your-doctor-about-midlife-brain-fog&quot;&gt;how to talk to your doctor about midlife brain fog&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Edith Cowan University &lt;em&gt;&lt;a href&#x3D;&quot;https://ro.ecu.edu.au/cgi/viewcontent.cgi?article&#x3D;7002&amp;#x26;context&#x3D;ecuworks2022-2026&quot; title&#x3D;&quot;Cutting through the fog: Recognising brain fog as a significant Cutting through the fog: Recognising brain fog as a significant public health concern&quot;&gt;(Cutting through the fog: Recognising brain fog as a significant Cutting through the fog: Recognising brain fog as a significant public health concern)&lt;/a&gt;&lt;/em&gt;, Musculoskeletal Health Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://muscha.org/frustrations-of-a-foggy-brain/&quot; title&#x3D;&quot;The frustrations of a foggy brain&quot;&gt;(The frustrations of a foggy brain)&lt;/a&gt;&lt;/em&gt;, Cancer Council &lt;em&gt;&lt;a href&#x3D;&quot;https://www.cancer.org.au/cancer-information/cancer-side-effects/changes-in-thinking-and-memory&quot; title&#x3D;&quot;Changes in thinking and memory&quot;&gt;(Changes in thinking and memory)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: December 2025&lt;/p&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.jeanhailes.org.au/articles/how-to-talk-to-your-doctor-about-midlife-brain-fog/&quot;&gt;How to talk to your doctor about midlife brain fog - Jean Hailes&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Brain fog is common around menopause. These tips can make it easier to talk to your doctor and get the treatment that’s right for you.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.jeanhailes.org.au/articles/how-to-talk-to-your-doctor-about-midlife-brain-fog/" linkText="Read more on Jean Hailes website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/jean-hailes-new2_logo-f5dec2.png" imageAlt="Jean Hailes"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://muscha.org/frustrations-of-a-foggy-brain/&quot;&gt;The frustrations of a foggy brain - Musculoskeletal Health Australia (MHA)&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Brain fog affects a lot of people with musculoskeletal conditions. We look at what brain fog is, what causes it and what you can do about it.&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://muscha.org/frustrations-of-a-foggy-brain/" linkText="Read more on Musculoskeletal Health Australia website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mha-logo---horizontal-transparent(1)-c25236.png" imageAlt="Musculoskeletal Health Australia"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.mylifeaftericu.com/adults-in-icu/brain-fog-and-concentration-issues/&quot;&gt;Brain fog and concentration issues - My Life After ICU&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;After leaving the ICU, 30% – 80% of patients may have problems with things like sleeping, concentration, memory and mood. You may have difficulty with remembering, paying attention, solving problems and working on complex tasks. Some describe these symptoms as “brain fog”. Doctors call it “cognitive dysfunction”. Delirium also plays a part in why some […]&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.mylifeaftericu.com/adults-in-icu/brain-fog-and-concentration-issues/" linkText="Read more on ANZICS website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/anzics-logo-1-29e609.png" imageAlt="ANZICS"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.jeanhailes.org.au/articles/feeling-foggy-and-forgetful-brain-fog-or-early-onset-dementia/&quot;&gt;Feeling foggy and forgetful? Midlife brain fog vs younger onset dementia - Jean Hailes&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Many women experience brain fog around menopause. But how does it differ from dementia, and what should you do if you are worried?&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.jeanhailes.org.au/articles/feeling-foggy-and-forgetful-brain-fog-or-early-onset-dementia/" linkText="Read more on Jean Hailes website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/jean-hailes-new2_logo-f5dec2.png" imageAlt="Jean Hailes"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Brain fog - symptoms, causes and treatment | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Brain fog is a term used to describe difficulty with thinking and memory. Read more about the possible causes, symptoms and treatment of brain fog.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Brain fog&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

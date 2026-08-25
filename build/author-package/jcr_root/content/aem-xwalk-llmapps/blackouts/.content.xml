@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Blackouts" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;8-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;A blackout is a temporary loss of consciousness.&lt;/li&gt;
+                    &lt;li&gt;Blackouts are sometimes called fainting, collapsing or passing out.&lt;/li&gt;
+                    &lt;li&gt;Blackouts can be caused by low blood pressure or something more serious.&lt;/li&gt;
+                    &lt;li&gt;If you have a blackout, it&#x27;s best to see your doctor.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is a blackout?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to blackouts?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes a blackout?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see a doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How are blackouts diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How are blackouts treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can blackouts be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;Complications of blackouts&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is a blackout?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Blackout is a word used to describe a temporary loss of consciousness. When a person has a blackout, they are not awake or thinking. They do not know what is happening to them.&lt;/p&gt;&lt;p&gt;Blackouts are also called:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/fainting&quot;&gt;fainting&lt;/a&gt; (syncope)&lt;/li&gt;
+                    &lt;li&gt;a collapse&lt;/li&gt;
+                    &lt;li&gt;passing out&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Blackouts can be caused by alcohol or drug use. If this happens, you may have memory loss.&lt;/p&gt;&lt;p&gt;If you have a blackout, it may not be serious. But it&#x27;s still important to see your doctor. They will try and work out what caused the blackouts.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to blackouts?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a blackout, you lose consciousness for a short time. Before that, you may:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;have &lt;a href&#x3D;&quot;/blurred-vision&quot;&gt;blurred vision&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;feel &lt;a href&#x3D;&quot;/confusion&quot;&gt;confused&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;feel &lt;a href&#x3D;&quot;/dizziness&quot;&gt;dizzy&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;look pale&lt;/li&gt;
+                    &lt;li&gt;feel &lt;a href&#x3D;&quot;/anxiety&quot;&gt;anxious&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;be sweaty&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You may fall down as you lose consciousness.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes a blackout?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;There are many different causes of fainting or blackouts, such as:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a problem with your &lt;a href&#x3D;&quot;/circulatory-system&quot;&gt;cardiovascular&lt;/a&gt; system&lt;/li&gt;
+                    &lt;li&gt;a problem within your &lt;a href&#x3D;&quot;/central-nervous-system&quot;&gt;brain&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;the effects of drugs or alcohol&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;What is fainting?&lt;/h3&gt;&lt;p&gt;Fainting is a type of blackout. The medical term is syncope. It is when you lose consciousness for a short time. There are many reasons why people faint. Fainting can happen when your &lt;a href&#x3D;&quot;/resting-heart-rate&quot;&gt;heart rate&lt;/a&gt; drops and your blood vessels widen. This causes &lt;a href&#x3D;&quot;/low-blood-pressure-hypotension&quot;&gt;low blood pressure&lt;/a&gt;. It can happen when you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;are very hot&lt;/li&gt;
+                    &lt;li&gt;are distressed&lt;/li&gt;
+                    &lt;li&gt;are in pain&lt;/li&gt;
+                    &lt;li&gt;see or smell something unpleasant&lt;/li&gt;
+                    &lt;li&gt;are coughing&lt;/li&gt;
+                    &lt;li&gt;are going to the toilet&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Sometimes, you might faint when you stand up too quickly. This is because your blood pressure suddenly drops.&lt;/p&gt;&lt;p&gt;Some medicines can also trigger blackouts.&lt;/p&gt;&lt;p&gt;Fainting can also be caused by more serious health problems, including:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/heart-arrhythmias&quot;&gt;arrhythmia&lt;/a&gt; (abnormal heart rhythm)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/coronary-heart-disease-and-atherosclerosis&quot;&gt;heart disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;problems with the blood vessels in your brain&lt;/li&gt;
+                    &lt;li&gt;a &lt;a href&#x3D;&quot;/seizures&quot;&gt;seizure (fit)&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/hypoglycaemia-low-blood-sugar&quot;&gt;low blood sugar&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Blackouts caused by alcohol&lt;/h3&gt;&lt;p&gt;Sometimes, people lose their memory after drinking a lot of alcohol. They may describe this as a blackout.&lt;/p&gt;&lt;p&gt;If you drink a lot of alcohol, you may not remember what happened. When you sober up, it can be hard to remember things that you did or said. This is because there was too much alcohol in your blood. Your brain can&#x27;t make new memories when there is too much alcohol in your blood. The more you drink, the more memory you lose.&lt;/p&gt;&lt;p&gt;You are more likely to black out from alcohol if you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;drink on an empty stomach&lt;/li&gt;
+                    &lt;li&gt;drink too much too quickly&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;It&#x27;s a good idea to try and manage how &lt;a href&#x3D;&quot;/tips-for-safe-drinking&quot;&gt;much alcohol you drink&lt;/a&gt;. This can lower the chance of you losing your memory for a while. Make sure you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;drink slowly and don&#x27;t drink too much&lt;/li&gt;
+                    &lt;li&gt;drink water between alcoholic drinks&lt;/li&gt;
+                    &lt;li&gt;eat food while you are drinking&lt;/li&gt;
+                    &lt;li&gt;avoid &lt;a href&#x3D;&quot;/binge-drinking&quot;&gt;binge drinking&lt;/a&gt; (drinking a lot in one session)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blog/how-can-sober-curiosity-help-you-to-reduce-or-stop-drinking&quot;&gt;think about&lt;/a&gt; why you are drinking&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Drinking so much that you black out can cause physical, social and mental problems. It can lead to:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;accidents and injuries&lt;/li&gt;
+                    &lt;li&gt;violent behaviour&lt;/li&gt;
+                    &lt;li&gt;long-term &lt;a href&#x3D;&quot;/how-alcohol-affects-your-health&quot;&gt;health issues&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;alcohol poisoning&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Sometimes it can be hard to admit you have a problem with alcohol or drugs. A doctor can help you manage all kinds of health problems. If you feel alcohol use is affecting your health or someone in your family, there are resources that can help.&lt;/p&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see a doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have blacked out and you don&#x27;t know why, you should go to a doctor. It could be a sign that something is seriously wrong.&lt;/p&gt;&lt;p&gt;This is very important if you also have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a family history of fainting&lt;/li&gt;
+                    &lt;li&gt;a family history of heart problems&lt;/li&gt;
+                    &lt;li&gt;chest pain&lt;/li&gt;
+                    &lt;li&gt;heart palpitations&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If you see someone blackout, take these steps:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;put their legs above the level of their head&lt;/li&gt;
+                    &lt;li&gt;loosen tight clothing&lt;/li&gt;
+                    &lt;li&gt;make sure the person has fresh air&lt;/li&gt;
+                    &lt;li&gt;give first aid for any injury from a fall&lt;/li&gt;
+                    &lt;li&gt;get medical help&lt;/li&gt;
+                    &lt;/ul&gt;&lt;strong&gt;If you are with someone who is unconscious, call triple zero (000) for an ambulance, and if the person stops breathing, start &lt;a href&#x3D;&quot;/how-to-perform-cpr&quot;&gt;CPR&lt;/a&gt;.&lt;/strong&gt;"/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How are blackouts diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have a blackout, your doctor or hospital medical team will try to find the cause. They may do:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a &lt;a href&#x3D;&quot;/physical-examination-by-a-doctor&quot;&gt;physical examination&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/what-is-a-healthy-blood-pressure&quot;&gt;blood pressure&lt;/a&gt; testing&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood tests&lt;/a&gt; to check your blood sugar level&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/electrocardiogram-ecg&quot;&gt;electrocardiogram (ECG)&lt;/a&gt; or Holter monitoring of heart rhythm&lt;/li&gt;
+                    &lt;li&gt;an echocardiogram&lt;/li&gt;
+                    &lt;li&gt;an exercise stress test&lt;/li&gt;
+                    &lt;li&gt;tilt table testing&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How are blackouts treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Treatment will depend on the cause of your blackout.&lt;/p&gt;&lt;p&gt;For example, blackouts caused by cardiac (heart) problems may be treated by a heart specialist. Other treatments may include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;fluids&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/medicines&quot;&gt;medicines&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;advice on &lt;a href&#x3D;&quot;/creating-healthy-habits&quot;&gt;lifestyle changes&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;First aid for blackouts&lt;/h3&gt;&lt;p&gt;There are things you can do if you feel like you are going to blackout.&lt;/p&gt;&lt;p&gt;If you feel faint, &quot;go-to-ground&quot;. This means you should get as close to the ground as possible. This will help you avoid injury when you black out.&lt;/p&gt;&lt;p&gt;Once you are on the ground, lie down with your feet higher than your head.&lt;/p&gt;&lt;p&gt;If you can, lie down or sit in a cool, quiet space.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can blackouts be prevented?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Blackouts are caused by different health issues. It is not always possible to prevent them.&lt;/p&gt;&lt;p&gt;You can stop some types of blackout from happening by:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;getting up slowly&lt;/li&gt;
+                    &lt;li&gt;staying &lt;a href&#x3D;&quot;/drinking-water-and-your-health&quot;&gt;hydrated&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/healthy-eating&quot;&gt;eating well&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;getting fresh air&lt;/li&gt;
+                    &lt;li&gt;avoiding triggers such as hot showers, and standing or lying down for too long&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Complications of blackouts" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have had a blackout, see a doctor. You are not permitted to drive after some types of blackouts. A doctor will need to review the cause and clear you to drive.&lt;/p&gt;&lt;p&gt;If you blackout, you may also be at risk of injury from falling over.&lt;/p&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and Support" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Visit the &lt;a href&#x3D;&quot;https://www.heartfoundation.org.au/&quot;&gt;Heart Foundation&lt;/a&gt; website to learn about heart health.&lt;/p&gt;&lt;p&gt;If you or someone you know need help with alcohol, visit the &lt;a href&#x3D;&quot;https://aa.org.au/&quot;&gt;Alcoholics Anonymous (AA)&lt;/a&gt; Australia website or call &lt;a href&#x3D;&quot;tel:1300222222&quot;&gt;1300 222 222&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;For free and confidential advice about alcohol and other drugs, you can also call the National Alcohol and Other Drug hotline: &lt;a href&#x3D;&quot;tel:1800250015&quot;&gt;1800 250 015&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You could contact the Family Drug Support service. The phone number is &lt;a href&#x3D;&quot;tel:1300368186&quot;&gt;1300 368 186&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The &lt;a href&#x3D;&quot;https://aodknowledgecentre.ecu.edu.au/&quot;&gt;Australian Indigenous Alcohol and Other Drugs Knowledge Centre&lt;/a&gt; is an online resource. It has information for workers and communities working to reduce the use of alcohol and other drugs in Aboriginal and Torres Strait Islander communities.&lt;/p&gt;&lt;p&gt;The Alcohol and Drug Foundation has helpful resources in other &lt;a href&#x3D;&quot;https://adf.org.au/resources/translated-resources/&quot;&gt;languages&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Australian Government &lt;em&gt;&lt;a href&#x3D;&quot;https://www.health.gov.au/our-work/drug-help/how-to-find-help&quot; title&#x3D;&quot;How to find help&quot;&gt;(How to find help)&lt;/a&gt;&lt;/em&gt;, St Johns Ambulance Australia &lt;em&gt;&lt;a href&#x3D;&quot;https://www.stjohnvic.com.au/news/fainting-first-aid/&quot; title&#x3D;&quot;Fainting first aid&quot;&gt;(Fainting first aid)&lt;/a&gt;&lt;/em&gt;, National Institute on Alcohol Abuse and Alcoholism &lt;em&gt;&lt;a href&#x3D;&quot;https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/interrupted-memories-alcohol-induced-blackouts&quot; title&#x3D;&quot;Interrupted memories – alcohol induced blackouts&quot;&gt;(Interrupted memories – alcohol induced blackouts)&lt;/a&gt;&lt;/em&gt;, Emergency Care Institute &lt;em&gt;&lt;a href&#x3D;&quot;https://aci.health.nsw.gov.au/networks/eci/clinical/tools/cardiology/syncope#heading3&quot; title&#x3D;&quot;Syncope&quot;&gt;(Syncope)&lt;/a&gt;&lt;/em&gt;, Austroads &lt;em&gt;&lt;a href&#x3D;&quot;http://www.austroads.com.au/drivers-vehicles/assessing-fitness-to-drive&quot; title&#x3D;&quot;Assessing fitness to drive&quot;&gt;(Assessing fitness to drive)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: March 2025&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.healthywa.wa.gov.au/Articles/F_I/Fainting&quot;&gt;Fainting&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Fainting is a sudden, usually temporary loss of consciousness often caused by a lack of oxygen to the brain. When a person is unconscious they are unable to respond.&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthywa.wa.gov.au/Articles/F_I/Fainting" linkText="Read more on WA Health website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/department-of-health-logo-colour-a9f371.png" imageAlt="WA Health"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/fainting&quot;&gt;Fainting | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Common causes of fainting include heat, pain, distress, the sight of blood, anxiety and hyperventilating.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/fainting" linkText="Read more on Better Health Channel website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/heart-stroke/syncope-fainting/&quot;&gt;Syncope (fainting) - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Syncope (fainting or passing out) is a sudden, temporary loss of consciousness. Find out more about the causes, diagnosis and treatment.&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/heart-stroke/syncope-fainting/" linkText="Read more on myDoctor website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://stjohn.org.au/fact-sheet/fainting/&quot;&gt;Fainting – St John Australia&lt;/a&gt;&lt;/h4&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://stjohn.org.au/fact-sheet/fainting/" linkText="Read more on St John Ambulance Australia website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/stjohn_logo_standard_vertical_primary_rgb-ae7dc8.png" imageAlt="St John Ambulance Australia"/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.ausmed.com/learn/articles/maternal-collapse&quot;&gt;Maternal Collapse in Pregnancy&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Maternal collapse is a rare, life-threatening event with a wide range of possible causes that may or may not be pregnancy-related. Defined as an acute event resulting in a reduced or absent consciousness and potential cardiac arrest, maternal collapse can occur at any stage of pregnancy and up to six weeks postnatally.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.ausmed.com/learn/articles/maternal-collapse" linkText="Read more on Ausmed Education website"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/ausmed-new-logo-872e67.png" imageAlt="Ausmed Education"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Blackouts | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;A blackout, or fainting, is a temporary loss of consciousness. It’s sometimes caused by a serious issue. Learn more about what to do if you blackout.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_6 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_18 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Blackouts&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

@@ -58,6 +58,64 @@ function innerHtmlOfBox($, boxSel) {
   return (inner.length ? inner.html() : box.html() || '').trim();
 }
 
+// Remove xwalk import field-hint comments (e.g. <!-- field:embed_uri -->) from a string.
+function stripFieldHints(html) {
+  return (html || '').replace(/<!--\s*field:[\s\S]*?-->/g, '').trim();
+}
+
+// Drop anchors/paragraphs that carry no text or child content.
+function dropEmpty($ctx, scope) {
+  scope.find('a').each((_, a) => {
+    const $a = $ctx(a);
+    if ($a.text().trim() === '' && $a.children().length === 0) $a.remove();
+  });
+  scope.find('p').each((_, p) => {
+    const $p = $ctx(p);
+    if ($p.text().trim() === '' && $p.children().length === 0) $p.remove();
+  });
+}
+
+// Unwrap EDS block scaffolding from a body context in place:
+//  - columns-promo: lift the meaningful CTA content out, drop the empty duplicate anchor
+//  - embed: replace the block with a plain link to the embedded resource (no field hint)
+function unwrapBlocks($ctx) {
+  $ctx('.columns-promo').each((_, el) => {
+    const $el = $ctx(el);
+    const inner = $el.find('> div > div').first();
+    if (inner.length) {
+      dropEmpty($ctx, inner);
+      $el.replaceWith(inner.html() || '');
+    } else {
+      $el.remove();
+    }
+  });
+  $ctx('.embed').each((_, el) => {
+    const $el = $ctx(el);
+    const a = $el.find('a').first();
+    const href = a.attr('href') || '';
+    if (href) $el.replaceWith(`<p><a href="${href}">${href}</a></p>`);
+    else $el.remove();
+  });
+}
+
+// Rebuild the partner-results tabs as a clean tabs block (EDS row-per-tab table),
+// stripping the xwalk field-hint comments that were baked into the imported markup.
+function rebuildTabs($, tabsEl) {
+  const rows = [];
+  $(tabsEl).children('div').each((_, row) => {
+    const cells = $(row).children('div');
+    if (cells.length < 2) return;
+    const label = $(cells[0]).text().trim();
+    const content = stripFieldHints($(cells[1]).html() || '');
+    if (label || content) rows.push({ label, content });
+  });
+  if (!rows.length) return '';
+  const rowsHtml = rows
+    .map((r) => `<div><div><p>${r.label}</p></div><div>${r.content}</div></div>`)
+    .join('');
+  return `<div class="tabs">${rowsHtml}</div>`;
+}
+
 function processFile(file) {
   const slug = file.replace(/\.plain\.html$/, '');
   const html = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8');
@@ -83,14 +141,14 @@ function processFile(file) {
   if (afterH1.length && afterH1.find('em').length) readTime = afterH1.find('em').first().text().trim();
 
   // ---- Emergency alert (columns-alert) ----
-  const emergencyAlert = innerHtmlOfBox($, '.columns-alert');
+  const emergencyAlert = stripFieldHints(innerHtmlOfBox($, '.columns-alert'));
 
   // ---- Key facts (columns-keyfacts) — keep the <ul>, drop the inner "Key facts" heading ----
   let keyFacts = '';
   const kf = $('.columns-keyfacts').first();
   if (kf.length) {
     const ul = kf.find('ul').first();
-    keyFacts = ul.length ? outer($, ul) : (kf.find('> div > div').first().html() || '').trim();
+    keyFacts = stripFieldHints(ul.length ? outer($, ul) : (kf.find('> div > div').first().html() || ''));
   }
 
   // ---- Sources (h4 "Sources:" + following <p>) + last reviewed ----
@@ -99,7 +157,7 @@ function processFile(file) {
   const srcHeading = $('h4#sources, h4:contains("Sources")').first();
   if (srcHeading.length) {
     const p = srcHeading.nextAll('p').first();
-    if (p.length) sources = outer($, p);
+    if (p.length) sources = stripFieldHints(outer($, p));
   }
   $('p').each((_, p) => {
     const t = $(p).text().trim();
@@ -134,12 +192,14 @@ function processFile(file) {
   const nmi = $body('h2#need-more-information, h2:contains("Need more information")').first();
   if (nmi.length) { nmi.nextAll('p').first().remove(); nmi.remove(); }
 
-  const bodyHtml = (root.length ? root.html() : $body('body').html() || '').trim();
+  // Unwrap EDS block scaffolding (promo/embed) and strip any leaked field-hint comments.
+  unwrapBlocks($body);
+  const bodyHtml = stripFieldHints((root.length ? root.html() : $body('body').html() || ''));
 
-  // ---- Page-side partner results tabs (kept on page) ----
+  // ---- Page-side partner results tabs (rebuilt as a clean tabs block) ----
   const tabsHtml = (() => {
     const t = $('.tabs').first();
-    return t.length ? outer($, t) : '';
+    return t.length ? rebuildTabs($, t.get(0)) : '';
   })();
 
   const sourceUrl = slugToUrl[slug] || `https://www.healthdirect.gov.au/${slug}`;

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Anosmia (loss of smell)" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;7-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Anosmia is the medical word for losing your sense of smell.&lt;/li&gt;
+                    &lt;li&gt;Because smell and taste are connected, food and drinks may taste bland or have less flavour.&lt;/li&gt;
+                    &lt;li&gt;It can be caused by things, such as a head injury, respiratory infections or certain medicines.&lt;/li&gt;
+                    &lt;li&gt;Your doctor can diagnose it by examining your nose and mouth and through other tests.&lt;/li&gt;
+                    &lt;li&gt;If anosmia is affecting your appetite or wellbeing, talk to your doctor.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What is anosmia?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What are the symptoms of anosmia?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes anosmia?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is anosmia diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How is anosmia treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#living-with&quot;&gt;Living with anosmia&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;What are the complications of anosmia?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can anosmia be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What is anosmia?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Anosmia is the medical word for losing your sense of smell.&lt;/p&gt;&lt;p&gt;If you still have some sense of smell, it&#x27;s called hyposmia.&lt;/p&gt;&lt;p&gt;Your sense of smell is connected to your &lt;a href&#x3D;&quot;/sensory-impairments&quot;&gt;sense&lt;/a&gt; of taste. If you have anosmia, the taste of food and drinks may be different.&lt;/p&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the symptoms of anosmia?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have anosmia, you can&#x27;t smell anything. Because smell and taste are connected, food and drinks may taste bland or have less flavour.&lt;/p&gt;&lt;p&gt;Other symptoms you may have depend on what is causing your loss of smell.&lt;/p&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.healthdirect.gov.au/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What causes anosmia?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Anosmia and hyposmia can happen for many reasons.&lt;/p&gt;&lt;p&gt;For most people, anosmia happens as they &lt;a href&#x3D;&quot;/seniors-health&quot;&gt;get older&lt;/a&gt;. Some people are born without a sense of smell.&lt;/p&gt;&lt;p&gt;Common causes include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/head-injuries&quot;&gt;head or face injuries&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;certain infections, such as a &lt;a href&#x3D;&quot;/colds-and-flu&quot;&gt;cold&lt;/a&gt;, &lt;a href&#x3D;&quot;/flu&quot;&gt;influenza&lt;/a&gt; (the flu) or &lt;a href&#x3D;&quot;/covid-19&quot;&gt;COVID-19&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;exposure to certain chemicals or &lt;a href&#x3D;&quot;/medicines&quot;&gt;medicines&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/drugs-and-alcohol&quot;&gt;drug use&lt;/a&gt;, such as &lt;a href&#x3D;&quot;/cocaine&quot;&gt;cocaine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/quit-smoking-vaping&quot;&gt;smoking&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Health conditions that may cause anosmia include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;brain &lt;a href&#x3D;&quot;/brain-cancer&quot;&gt;tumours&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/nose-and-throat&quot;&gt;nasal or sinus&lt;/a&gt; issues, such as nasal &lt;a href&#x3D;&quot;/polyps&quot;&gt;polyps&lt;/a&gt; or chronic &lt;a href&#x3D;&quot;/sinusitis&quot;&gt;sinusitis&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/hay-fever&quot;&gt;hay fever&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/kidney-failure&quot;&gt;kidney failure&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;nutritional or &lt;a href&#x3D;&quot;/hormonal-system-endocrine&quot;&gt;hormonal&lt;/a&gt; conditions, such as &lt;a href&#x3D;&quot;/hypothyroidism&quot;&gt;hypothyroidism&lt;/a&gt;, &lt;a href&#x3D;&quot;/diabetes&quot;&gt;diabetes&lt;/a&gt; or &lt;a href&#x3D;&quot;/cushings-syndrome&quot;&gt;Cushing&#x27;s syndrome&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;neurodegenerative diseases, such as &lt;a href&#x3D;&quot;/parkinsons-disease&quot;&gt;Parkinson&#x27;s disease&lt;/a&gt; or &lt;a href&#x3D;&quot;/alzheimers-disease&quot;&gt;Alzheimer&#x27;s disease&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;It&#x27;s common to lose your sense of smell for a short time when you have an infection, such as a cold. It will usually get better within a few weeks. See your doctor if your sense of smell doesn&#x27;t come back after a few weeks.&lt;/p&gt;&lt;p&gt;It&#x27;s also a good idea to see your doctor if:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;you notice any sudden or unexplained change to your sense of smell&lt;/li&gt;
+                    &lt;li&gt;the loss of smell is affecting your &lt;a href&#x3D;&quot;/good-mental-health&quot;&gt;wellbeing&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;you are worried about how long it&#x27;s taking to get better&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is anosmia diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;To find out what&#x27;s causing your loss of smell, your doctor may:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;ask about your symptoms&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/physical-examination-by-a-doctor&quot;&gt;examine&lt;/a&gt; your nose, mouth and throat&lt;/li&gt;
+                    &lt;li&gt;do tests, such as a &lt;a href&#x3D;&quot;/blood-testing&quot;&gt;blood test&lt;/a&gt; or a &lt;a href&#x3D;&quot;/ct-scan&quot;&gt;computed tomography (CT) scan&lt;/a&gt; to help make the diagnosis&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/what-is-a-referral&quot;&gt;refer&lt;/a&gt; you to a specialist, called an ear, nose and throat (ENT) specialist&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;The ENT specialist might look into your nose, mouth and throat with a medical instrument called an endoscope. They may also do a &lt;a href&#x3D;&quot;/magnetic-resonance-imaging-mri&quot;&gt;magnetic resonance imaging (MRI) scan&lt;/a&gt;.&lt;/p&gt;"/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is anosmia treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Often, there is no specific treatment for anosmia and the cause may be irreversible. Treatment options may depend on what caused your loss of smell.&lt;/p&gt;&lt;p&gt;If there&#x27;s a blockage or inflammation, treatment may include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;rinsing your nose (nasal douching)&lt;/li&gt;
+                    &lt;li&gt;steroid medicines&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/antihistamines&quot;&gt;antihistamines&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/antibiotics&quot;&gt;antibiotics&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/preparing-for-surgery&quot;&gt;surgery&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;If anosmia is caused by something else, your doctor may suggest smell training. This is also called &#x27;repeated scent exposure training&#x27; and &#x27;olfactory training&#x27;. This means regularly smelling different scents to help your brain learn to recognise them again.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Living with anosmia" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Living with anosmia may be challenging, but there are things you can do to stay safe and feel better.&lt;/p&gt;&lt;p&gt;You might not be able to smell smoke, gas or rotten food. Here are some helpful tips:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Install and check smoke and gas alarms often.&lt;/li&gt;
+                    &lt;li&gt;Read food expiry dates and label leftovers with the date.&lt;/li&gt;
+                    &lt;li&gt;Check that cookers, barbecues and electrical appliances are turned off properly.&lt;/li&gt;
+                    &lt;li&gt;Use cooking timers and safe appliances.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Losing your sense of smell may affect &lt;a href&#x3D;&quot;/mental-health-and-wellbeing&quot;&gt;how you feel&lt;/a&gt;. Here are tips that may help you:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/mental-health-helplines&quot;&gt;Talk to someone&lt;/a&gt; you trust if you&#x27;re feeling sad or worried.&lt;/li&gt;
+                    &lt;li&gt;Join a support group to meet people who understand what it&#x27;s like.&lt;/li&gt;
+                    &lt;li&gt;Consider talking to a &lt;a href&#x3D;&quot;/counsellors-and-counselling&quot;&gt;counsellor&lt;/a&gt;.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are the complications of anosmia?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have anosmia, you may notice changes to your daily life:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Food may taste bland, which may affect your appetite.&lt;/li&gt;
+                    &lt;li&gt;You may find mealtimes less enjoyable, especially if you usually spend time with family and friends over meals.&lt;/li&gt;
+                    &lt;li&gt;You might worry about eating food that has gone bad or not noticing dangerous smells, such as gas or smoke.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;These changes and worries may affect your &lt;a href&#x3D;&quot;/mental-health-and-wellbeing&quot;&gt;mental health&lt;/a&gt;.&lt;/p&gt;&lt;strong&gt;If you need to talk to someone about your mental health, call &lt;a href&#x3D;&quot;https://www.beyondblue.org.au/&quot;&gt;Beyond Blue&lt;/a&gt; on &lt;a href&#x3D;&quot;tel:1300224636&quot;&gt;1300 22 4636&lt;/a&gt;.&lt;/strong&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Can anosmia be prevented?" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Here&#x27;s how you can help protect your sense of smell:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;avoid certain chemicals&lt;/li&gt;
+                    &lt;li&gt;don&#x27;t use illicit &lt;a href&#x3D;&quot;/party-drugs&quot;&gt;drugs&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/quit-smoking-vaping&quot;&gt;quit smoking&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Ask your doctor or &lt;a href&#x3D;&quot;/getting-the-most-out-of-your-pharmacist&quot;&gt;pharmacist&lt;/a&gt; if any medicine you take may cause anosmia.&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://www.beyondblue.org.au/&quot;&gt;Beyond Blue&lt;/a&gt; provides support for people coping with the emotional and psychological impacts of sensory loss.&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://headspace.org.au/&quot;&gt;Headspace&lt;/a&gt; provides support for young people coping with the emotional and psychological impacts of sensory loss.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You can also call the healthdirect helpline on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;BMJ Best Practice &lt;em&gt;&lt;a href&#x3D;&quot;https://bestpractice.bmj.com/topics/en-gb/550&quot; title&#x3D;&quot;Assessment of olfactory loss&quot;&gt;(Assessment of olfactory loss)&lt;/a&gt;&lt;/em&gt;, Journal of the Neuorlogical Sciences - Mathis S, et al. &lt;em&gt;&lt;a href&#x3D;&quot;https://pubmed.ncbi.nlm.nih.gov/33848701/&quot; title&#x3D;&quot;Olfaction and anosmia: from ancient times to COVID-19&quot;&gt;(Olfaction and anosmia: from ancient times to COVID-19)&lt;/a&gt;&lt;/em&gt;, The Royal Australian College of General Practitioners (RACGP) &lt;em&gt;&lt;a href&#x3D;&quot;https://www1.racgp.org.au/getattachment/59865e33-3411-41b3-a3df-ea676f0b906a/An-approach-to-olfactory-impairments.aspx&quot; title&#x3D;&quot;An approach to olfactory impairments in the general practice setting&quot;&gt;(An approach to olfactory impairments in the general practice setting)&lt;/a&gt;&lt;/em&gt;, BMJ Medicine - Liu Z.Y., et al. &lt;em&gt;&lt;a href&#x3D;&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC10568123/&quot; title&#x3D;&quot;Post-viral olfactory loss and parosmia&quot;&gt;(Post-viral olfactory loss and parosmia)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: June 2025&lt;/p&gt;"/>
+        <title_13 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anosmia-loss-of-smell&quot;&gt;Anosmia - loss of smell | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;People are less sensitive to smells the older they get, and women tend to have a more acute sense of smell than men.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anosmia-loss-of-smell" linkText="Read more on Better Health Channel website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Anosmia (loss of smell) | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Anosmia is the medical term for loss of smell. It is often age-related. Find out more about the causes, diagnosis and complications of anosmia.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Anosmia (loss of smell)&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>

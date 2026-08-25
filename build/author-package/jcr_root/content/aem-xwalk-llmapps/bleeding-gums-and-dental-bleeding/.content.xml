@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page">
+  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent">
+    <root jcr:primaryType="nt:unstructured" sling:resourceType="core/franklin/components/root/v1/root">
+      <section sling:resourceType="core/franklin/components/section/v1/section" jcr:primaryType="nt:unstructured" model="section" modelFields="[name,style]">
+        <button sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="" linkText="beginning of content"/>
+        <title sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Bleeding gums and dental bleeding" titleType="h1"/>
+        <text sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;em&gt;7-minute read&lt;/em&gt;"/>
+        <title_1 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Key facts" titleType="h2"/>
+        <text_1 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;Dental bleeding is when you bleed from your mouth, gums, lips or tooth sockets.&lt;/li&gt;
+                    &lt;li&gt;Possible causes of dental bleeding are gum disease, mouth ulcers or an injury to your mouth or teeth.&lt;/li&gt;
+                    &lt;li&gt;Other symptoms related to dental bleeding may include pain in your gums and teeth, bad breath or loose teeth.&lt;/li&gt;
+                    &lt;li&gt;See your dentist or doctor if you have frequent or heavy bleeding in your mouth.&lt;/li&gt;
+                    &lt;li&gt;Regularly brushing and flossing your teeth can help prevent dental bleeding.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_2 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="On this page" titleType="h2"/>
+        <text_2 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#what-is&quot;&gt;What are bleeding gums and dental bleeding?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#symptoms&quot;&gt;What symptoms are related to dental bleeding?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#causes&quot;&gt;What causes dental bleeding?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#doctor&quot;&gt;When should I see my dentist or doctor?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#diagnosed&quot;&gt;How is the cause of bleeding gums or dental bleeding diagnosed?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#treated&quot;&gt;How are bleeding gums and dental bleeding treated?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#complications&quot;&gt;What are the complications of bleeding gums and dental bleeding?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#prevented&quot;&gt;Can bleeding gums and dental bleeding be prevented?&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#resources&quot;&gt;Resources and support&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;#searchGeneralResults&quot;&gt;Related information on Australian websites&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_3 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What are bleeding gums and dental bleeding?" titleType="h2"/>
+        <text_3 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Dental bleeding is when blood comes from your:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;mouth&lt;/li&gt;
+                    &lt;li&gt;gums&lt;/li&gt;
+                    &lt;li&gt;lips&lt;/li&gt;
+                    &lt;li&gt;tooth sockets&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_4 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="What symptoms are related to dental bleeding?" titleType="h2"/>
+        <text_4 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have dental bleeding, you may also have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;pain in your gums or teeth&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/toothache-and-swelling&quot;&gt;swelling&lt;/a&gt; of your mouth, gums or face&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/halitosis&quot;&gt;bad breath&lt;/a&gt; or an unpleasant taste in your mouth&lt;/li&gt;
+                    &lt;li&gt;loose teeth&lt;/li&gt;
+                    &lt;li&gt;receding gums (gums that move away from your teeth)&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_1 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/symptom-checker" linkText=""/>
+        <title_5 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="​​​​​​​What causes dental bleeding?" titleType="h2"/>
+        <text_5 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Causes of dental bleeding include:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;gum disease&lt;/li&gt;
+                    &lt;li&gt;dental treatment&lt;/li&gt;
+                    &lt;li&gt;dental surgery&lt;/li&gt;
+                    &lt;li&gt;an &lt;a href&#x3D;&quot;/dental-injury&quot;&gt;injury to your teeth&lt;/a&gt; or &lt;a href&#x3D;&quot;/mouth-and-tongue-cuts&quot;&gt;mouth&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Bleeding gums&lt;/h3&gt;&lt;p&gt;If your gums bleed after you have brushed your teeth, this could be a sign of gum disease. Gum disease occurs when plaque builds up on your teeth and gums.&lt;/p&gt;&lt;p&gt;Early gum disease is called &lt;a href&#x3D;&quot;/gingivitis&quot;&gt;gingivitis&lt;/a&gt;. As well as bleeding, gingivitis can cause redness and swelling of your gums.&lt;/p&gt;&lt;p&gt;Advanced gum disease is called periodontitis. This can happen when gingivitis is not treated. Periodontitis can cause:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;loose teeth&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/halitosis&quot;&gt;bad breath&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;pain or discomfort when biting&lt;/li&gt;
+                    &lt;li&gt;loss of teeth&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Mouth conditions&lt;/h3&gt;&lt;p&gt;Other mouth conditions can cause dental bleeding, including:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/mouth-sores-and-ulcers&quot;&gt;mouth ulcers&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;mouth infections&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/mouth-cancer&quot;&gt;oral cancer&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Dental treatment or dental surgery&lt;/h3&gt;&lt;p&gt;Your gums or mouth may start to bleed after having a &lt;a href&#x3D;&quot;/dental-procedures-and-appliances&quot;&gt;dental procedure&lt;/a&gt;, such as a:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/tooth-extraction&quot;&gt;tooth extraction&lt;/a&gt; (tooth pulled out)&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/dental-crown-procedure&quot;&gt;dental crown procedure&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;h3&gt;Injuries to teeth and mouth&lt;/h3&gt;&lt;p&gt;Injury to your teeth or mouth can cause dental bleeding, due to a:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;fall&lt;/li&gt;
+                    &lt;li&gt;sporting injury&lt;/li&gt;
+                    &lt;li&gt;impact to your face or mouth&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_6 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="When should I see my dentist or doctor?" titleType="h2"/>
+        <text_6 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If you have frequent or heavy bleeding in your mouth, it&#x27;s important to see a dentist or doctor. Getting treatment early can improve your symptoms and help prevent any complications.&lt;/p&gt;&lt;p&gt;Visit your dentist or doctor if you have:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;a sore or ulcer that does not heal within 2 weeks&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/dysphagia&quot;&gt;difficulty swallowing&lt;/a&gt; or speaking&lt;/li&gt;
+                    &lt;li&gt;red or white patches in your mouth&lt;/li&gt;
+                    &lt;li&gt;swelling or numbness in or around your mouth&lt;/li&gt;
+                    &lt;li&gt;any symptoms of infection, such as a &lt;a href&#x3D;&quot;/fever&quot;&gt;fever&lt;/a&gt; (temperature of 38℃ or higher)&lt;/li&gt;
+                    &lt;li&gt;any changes in your mouth that you are worried about&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <button_2 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/question-builder" linkText=""/>
+        <button_3 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="/australian-health-services" linkText=""/>
+        <title_7 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How is the cause of bleeding gums or dental bleeding diagnosed?" titleType="h2"/>
+        <text_7 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;To diagnose the cause of dental bleeding, your doctor or dentist will examine your mouth and ask about your symptoms. Your doctor or dentist may also ask about:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;your oral health habits&lt;/li&gt;
+                    &lt;li&gt;your diet&lt;/li&gt;
+                    &lt;li&gt;any previous dental trauma&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_8 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="How are bleeding gums and dental bleeding treated?" titleType="h2"/>
+        <text_8 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h3&gt;Treatment for gum disease&lt;/h3&gt;&lt;p&gt;The treatment for gum disease involves removing plaque and calculus (hardened plaque) from your teeth. This can be done by a:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;dentist&lt;/li&gt;
+                    &lt;li&gt;oral health therapist&lt;/li&gt;
+                    &lt;li&gt;dental hygienist&lt;/li&gt;
+                    &lt;li&gt;specialist periodontist&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You will also need to &lt;a href&#x3D;&quot;/teeth-cleaning&quot;&gt;brush and floss your teeth&lt;/a&gt; regularly to keep your gums healthy. It&#x27;s recommended that you use a soft toothbrush and fluoride toothpaste when brushing your teeth.&lt;/p&gt;&lt;h3&gt;​​​​​​​Treatment of other mouth conditions&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href&#x3D;&quot;/abscesses&quot;&gt;Abscesses&lt;/a&gt;&lt;/strong&gt; are small pockets of pus that can occur inside your tooth or gum, often caused by tooth decay. Treating an abscess may require antibiotics and pain-relief medicines.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mouth ulcers&lt;/strong&gt; are sores that appear on the inside of your mouth. They will usually get better without treatment. Your doctor may recommend &lt;a href&#x3D;&quot;/pain-relief-medicines&quot;&gt;pain-relief medicines&lt;/a&gt; or rinsing your mouth with warm salt water for short-term relief.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href&#x3D;&quot;/tooth-decay&quot;&gt;Tooth decay&lt;/a&gt;&lt;/strong&gt; is caused by a build-up of plaque and can lead to a cavity (hole) in your tooth. See your dentist if you have any symptoms of tooth decay — you may need a filling or varnish on your tooth.&lt;/p&gt;&lt;p&gt;Ask your dentist how to best treat your &lt;a href&#x3D;&quot;/mouth-diseases-and-conditions&quot;&gt;mouth condition&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;​​​​​​​Self-care at home&lt;/h3&gt;&lt;p&gt;If your dental bleeding was caused by an injury or a dental procedure, here is some tips that can help:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;Apply pressure over the area with gauze or a clean cloth. Dampen the cloth slightly with clean water.&lt;/li&gt;
+                    &lt;li&gt;Keep this cloth in place for 30 minutes without removing it. Check to see if the bleeding has stopped. If not, re-apply a clean cloth and see a dentist.&lt;/li&gt;
+                    &lt;li&gt;Do not rinse your mouth or put your fingers in your mouth.&lt;/li&gt;
+                    &lt;li&gt;If you are in pain, ask your pharmacist which &lt;a href&#x3D;&quot;/pain-relief-medicines&quot;&gt;pain-relief medicines&lt;/a&gt; you can take.&lt;/li&gt;
+                    &lt;li&gt;Avoid strenuous activity, hot drinks and hard foods.&lt;/li&gt;
+                    &lt;li&gt;Avoid or limit &lt;a href&#x3D;&quot;/quit-smoking-vaping&quot;&gt;smoking and vaping&lt;/a&gt; as this can stop your mouth from healing properly.&lt;/li&gt;
+                    &lt;li&gt;Always visit a dentist after an injury to your mouth or teeth.&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Follow any advice your dentist gives about eating and drinking after dental work.&lt;/p&gt;&lt;p&gt;Read more about first aid for &lt;a href&#x3D;&quot;/dental-injury&quot;&gt;dental injuries&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_9 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="​What are the complications of bleeding gums and dental bleeding?" titleType="h2"/>
+        <text_9 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;If your bleeding gums are caused by gum disease and are not treated, the condition can get worse and lead to:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;periodontitis (severe gum disease) — this may be irreversible and can cause loss of teeth&lt;/li&gt;
+                    &lt;li&gt;an abscess — this may result in your tooth needing to be removed&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;Gum disease is also linked to a higher chance of long term health conditions like &lt;a href&#x3D;&quot;/diabetes&quot;&gt;diabetes&lt;/a&gt; and &lt;a href&#x3D;&quot;/heart-and-cardiovascular-conditions&quot;&gt;heart disease&lt;/a&gt;.&lt;/p&gt;"/>
+        <title_10 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="​Can bleeding gums and dental bleeding be prevented?" titleType="h2"/>
+        <text_10 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;It&#x27;s important to have good oral health to help prevent bleeding gums and dental bleeding. Here are some tips that might help:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;/teeth-cleaning&quot;&gt;Brush your teeth&lt;/a&gt; with a soft toothbrush and fluoride toothpaste after every meal. If this is not possible, try to rinse your mouth after each meal.&lt;/li&gt;
+                    &lt;li&gt;Use dental floss every day — ask your dentist about how to floss if you are unsure.&lt;/li&gt;
+                    &lt;li&gt;Visit your dentist for regular check-ups.&lt;/li&gt;
+                    &lt;li&gt;Eat a healthy, &lt;a href&#x3D;&quot;/balanced-diet&quot;&gt;balanced diet&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;Avoid foods and drinks high in &lt;a href&#x3D;&quot;/sugar&quot;&gt;sugar&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;Avoid or limit &lt;a href&#x3D;&quot;/quit-smoking-vaping&quot;&gt;smoking and vaping&lt;/a&gt;.&lt;/li&gt;
+                    &lt;li&gt;Limit your &lt;a href&#x3D;&quot;/alcohol&quot;&gt;alcohol&lt;/a&gt; intake.&lt;/li&gt;
+                    &lt;/ul&gt;"/>
+        <title_11 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Resources and support" titleType="h2"/>
+        <text_11 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Find out more about &lt;a href&#x3D;&quot;https://www.teeth.org.au/gum-diseases&quot;&gt;different types of gum disease&lt;/a&gt; on the &lt;a href&#x3D;&quot;https://www.teeth.org.au/&quot;&gt;Teeth.org.au&lt;/a&gt; website&lt;/p&gt;&lt;h3&gt;Languages other than English&lt;/h3&gt;&lt;p&gt;Visit the &lt;a href&#x3D;&quot;https://www.healthtranslations.vic.gov.au/&quot;&gt;Health Translations&lt;/a&gt; page for a &lt;a href&#x3D;&quot;https://www.healthtranslations.vic.gov.au/&quot;&gt;fact sheet on gum disease&lt;/a&gt; in multiple languages.&lt;/p&gt;&lt;p&gt;The &lt;a href&#x3D;&quot;https://www.teeth.org.au/gum-diseases&quot;&gt;Teeth.org.au&lt;/a&gt; website offers a variety of &lt;a href&#x3D;&quot;https://teeth.org.au/translated-factsheets&quot;&gt;resources in languages other than English&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;​​​​​​​Information for Aboriginal and/or Torres Strait Islander peoples&lt;/h3&gt;&lt;p&gt;For Aboriginal and/or Torres Strait Islander peoples, the &lt;a href&#x3D;&quot;https://www.teeth.org.au/gum-diseases&quot;&gt;Teeth.org.au&lt;/a&gt; website offers resources, including information on:&lt;/p&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://teeth.org.au/visiting-the-dentist&quot;&gt;visiting the dentist&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href&#x3D;&quot;https://teeth.org.au/mob-smiles#section_e30f11a&quot;&gt;healthy drink choices for your teeth&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;&lt;p&gt;You can also call the healthdirect helpline for advice on &lt;a href&#x3D;&quot;tel:1800022222&quot;&gt;1800 022 222&lt;/a&gt; (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.&lt;/p&gt;&lt;h4&gt;Sources:&lt;/h4&gt;&lt;p&gt;Australian Institute of Health and Welfare &lt;em&gt;&lt;a href&#x3D;&quot;https://www.aihw.gov.au/reports/dental-oral-health/oral-health-and-dental-care-in-australia/contents/healthy-mouths&quot; title&#x3D;&quot;Oral health and dental care in Australia&quot;&gt;(Oral health and dental care in Australia)&lt;/a&gt;&lt;/em&gt;, Queensland Government &lt;em&gt;&lt;a href&#x3D;&quot;https://www.qld.gov.au/health/condition/mouth-and-dental-health/oral-health-conditions/gum-disease&quot; title&#x3D;&quot;Gum disease&quot;&gt;(Gum disease)&lt;/a&gt;&lt;/em&gt;, The Royal Children&#x27;s Hospital Melbourne &lt;em&gt;&lt;a href&#x3D;&quot;https://www.rch.org.au/kidsinfo/fact_sheets/Mouth_injuries_and_dislodged_teeth/&quot; title&#x3D;&quot;Mouth injuries and dislodged teeth&quot;&gt;(Mouth injuries and dislodged teeth)&lt;/a&gt;&lt;/em&gt;, Emergency Care Institute &lt;em&gt;&lt;a href&#x3D;&quot;https://aci.health.nsw.gov.au/networks/eci/clinical/tools/dental-emergencies&quot; title&#x3D;&quot;Dental emergencies&quot;&gt;(Dental emergencies)&lt;/a&gt;&lt;/em&gt;, Healthy Mouths Healthy Living &lt;em&gt;&lt;a href&#x3D;&quot;https://www.health.nsw.gov.au/oralhealth/prevention/Pages/healthy-habits.aspx&quot; title&#x3D;&quot;Healthy habits for a healthy mouth&quot;&gt;(Healthy habits for a healthy mouth)&lt;/a&gt;&lt;/em&gt;, Queensland Government &lt;em&gt;&lt;a href&#x3D;&quot;https://www.qld.gov.au/health/condition/mouth-and-dental-health/oral-health-conditions/mouth-sores&quot; title&#x3D;&quot;Mouth Sores&quot;&gt;(Mouth Sores)&lt;/a&gt;&lt;/em&gt;, The Royal Children&#x27;s Hospital Melbourne &lt;em&gt;&lt;a href&#x3D;&quot;https://www.rch.org.au/clinicalguide/guideline_index/Dental_conditions_non_traumatic/&quot; title&#x3D;&quot;Clinical practice guidelines, Dental conditions - non traumatic&quot;&gt;(Clinical practice guidelines, Dental conditions - non traumatic)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn more here about the &lt;a href&#x3D;&quot;https://www.healthdirect.gov.au/about-our-content&quot;&gt;development and quality assurance of healthdirect content&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Last reviewed: February 2026&lt;/p&gt;"/>
+        <title_12 sling:resourceType="core/franklin/components/title/v1/title" jcr:primaryType="nt:unstructured" title="Need more information?" titleType="h2"/>
+        <text_12 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;These trusted information partners have more on this topic.&lt;/p&gt;&lt;p&gt;General search results&lt;/p&gt;&lt;h3&gt;General search results&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/gum-disease&quot;&gt;Gum disease | Better Health Channel&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Brushing teeth regularly helps to prevent gum disease and early treatment can help save affected teeth.&lt;/p&gt;"/>
+        <button_4 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/gum-disease" linkText="Read more on Better Health Channel website"/>
+        <image sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/bhc-rectangle-image-e99950.png" imageAlt="Better Health Channel"/>
+        <text_13 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://mydr.com.au/first-aid-self-care/bleeding-gums/&quot;&gt;Bleeding gums - myDr.com.au&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Bleeding gums are something many people notice when brushing their teeth or flossing, however, healthy gums rarely bleed.&lt;/p&gt;"/>
+        <button_5 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://mydr.com.au/first-aid-self-care/bleeding-gums/" linkText="Read more on myDoctor website"/>
+        <image_1 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/mydoctor-new_logo-1f39cc.png" imageAlt="myDoctor"/>
+        <text_14 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;h4&gt;&lt;a href&#x3D;&quot;https://raisingchildren.net.au/guides/a-z-health-reference/gingivitis-gum-disease&quot;&gt;Gingivitis &amp;#x26; gum disease in kids &amp;#x26; teens | Raising Children Network&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Symptoms of gingivitis or gum disease in kids include bleeding gums. If symptoms don’t go after 3-4 days of careful brushing and cleaning, see a dentist.&lt;/p&gt;"/>
+        <button_6 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://raisingchildren.net.au/guides/a-z-health-reference/gingivitis-gum-disease" linkText="Read more on raisingchildren.net.au website"/>
+        <image_2 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/raising-children_logo-f6777f.png" imageAlt="raisingchildren.net.au"/>
+        <text_15 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Results for medical professionals&lt;/p&gt;&lt;h3&gt;Results for medical professionals&lt;/h3&gt;&lt;p&gt;Top results&lt;/p&gt;&lt;h4&gt;&lt;a href&#x3D;&quot;https://www.ausmed.com/learn/articles/gum-disease&quot;&gt;Gum Disease (Gingivitis and Periodontitis)&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Gum disease occurs when the gum (gingiva) - the mucosal tissue surrounding and protecting the teeth - becomes infected and inflamed. Gum disease is usually caused by plaque, a sticky coating of bacteria that accumulates on the teeth along the gum line and causes irritation.&lt;/p&gt;"/>
+        <button_7 sling:resourceType="core/franklin/components/button/v1/button" jcr:primaryType="nt:unstructured" link="https://www.ausmed.com/learn/articles/gum-disease" linkText="Read more on Ausmed Education website"/>
+        <image_3 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/logos/h40/ausmed-new-logo-872e67.png" imageAlt="Ausmed Education"/>
+        <image_4 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://www.facebook.com/tr?id&#x3D;286390378916509&amp;ev&#x3D;PageView%0A%0A&amp;noscript&#x3D;1" imageAlt=""/>
+        <text_16 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;Title&lt;/p&gt;&lt;p&gt;Bleeding gums and dental bleeding | healthdirect&lt;/p&gt;&lt;p&gt;Description&lt;/p&gt;&lt;p&gt;Bleeding gums and dental bleeding can be caused by gum disease, a dental procedure or an injury. Read about how to prevent and treat dental bleeding.&lt;/p&gt;&lt;p&gt;Image&lt;/p&gt;"/>
+        <image_5 sling:resourceType="core/franklin/components/image/v1/image" jcr:primaryType="nt:unstructured" image="https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png" imageAlt=""/>
+        <text_17 sling:resourceType="core/franklin/components/text/v1/text" jcr:primaryType="nt:unstructured" text="&lt;p&gt;og:title&lt;/p&gt;&lt;p&gt;Bleeding gums and dental bleeding&lt;/p&gt;"/>
+      </section>
+    </root>
+  </jcr:content>
+</jcr:root>
